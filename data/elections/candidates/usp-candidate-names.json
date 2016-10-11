@@ -1,0 +1,32 @@
+{
+    "2012": {
+        "president": {
+            "meta": {
+                "chromatics": "R-D,RedBlue"
+            },
+            "obama": {
+                "name": "Barack Obama",
+                "party": "D",
+                "partyLabel": "Democrat",
+                "alternatives": ["obama/biden (wor)", "barack obama for president and joe biden for vice president, democrat",
+                    "barack obama for president and joe biden for vice president", "obama (democratic)", "barack obama / joe biden",
+                    "barack obama / joe biden (d)", "obama and biden, d", "barack obama and joe biden", "obama/biden (dem)",
+                    "obama/biden", "barack obama/joe biden", "barack obama (i)d", "obama and biden", "obama / biden (dem)",
+                    "barack obama for president and joe biden for vice president", "barack obama, joseph r. biden, jr. (d)",
+                    "obama", "barack", "barack obama", "obama, barack", "obama barack", "barack obama d", "obama/ biden",
+                    "barack obama, joe biden democratic", "barack obama, joseph r. biden, jr."]
+            },
+            "romney": {
+                "name": "Mitt Romney",
+                "party": "R",
+                "partyLabel": "Republican",
+                "alternatives": ["mitt romney for president and paul ryan for vice president, republican", "mitt romney for president and paul ryan for vice president", "romney and ryan, r",
+                    "romney/ryan (con)", "mitt romney (r)", "mitt romney and paul ryan", "mitt romney/paul ryan", "romney/ ryan",
+                    "romney/ryan (rep)", "romney/ryan", "mitt romney, paul ryan (r)", "romney and ryan", "romney (republican)",
+                    "mitt romney /paul ryan (r)", "mitt romney for president and paul ryan for vice president", "mitt romney / paul ryan",
+                    "mitt romney, paul ryan republican", "mitt romney, paul ryan", "romney", "romney / ryan (rep)",
+                    "mitt", "romney mitt", "mitt romney", "romney, mitt", "mitt romney r"]
+            }
+        }
+    }
+}

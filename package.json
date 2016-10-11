@@ -1,0 +1,13 @@
+{
+  "name": "visualizethevote",
+  "version": "0.1.0",
+  "description": "Data visualizations for voting in elections over time",
+  "dependencies": {
+    "co": "^4.6.0",
+    "csv": "^1.1.0",
+    "mongodb": "^2.2.10",
+    "yargs": "^6.0.0"
+  },
+  "devDependencies": {},
+  "author": "Thomas Holloway <nyxtom@gmail.com>"
+}

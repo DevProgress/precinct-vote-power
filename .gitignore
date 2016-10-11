@@ -1,0 +1,9 @@
+node_modules
+dist
+jspm_packages
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.started
+*results.xml
+npm-debug.log
