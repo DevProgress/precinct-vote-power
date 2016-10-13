@@ -1,0 +1,736 @@
+state	year	county	precinct	g2012_USP_dv	g2012_USP_rv	g2012_USP_tv	g2012_USH_rv	g2012_USH_dv	g2012_USH_tv
+"SD"	2012	"Aurora"	"#1 (Stickney Community Building)"	104	201	310	197	117	314
+"SD"	2012	"Aurora"	"#2 (Stickney Community Building)"	44	97	147	91	54	145
+"SD"	2012	"Aurora"	"#3 (White Lake City Hall)"	162	169	343	171	175	346
+"SD"	2012	"Aurora"	"#4 (White Lake City Hall)"	21	53	76	54	24	78
+"SD"	2012	"Aurora"	"#5 (Aurora County Ag Building)"	82	123	208	122	84	206
+"SD"	2012	"Aurora"	"#7 (Plankinton Fire Hall)"	143	161	316	158	152	310
+"SD"	2012	"Beadle"	"12 (Wolsey Legion Hall)"	307	532	858	508	359	867
+"SD"	2012	"Beadle"	"15 (Byron Bible Camp)"	45	315	361	306	54	360
+"SD"	2012	"Beadle"	"17 (Cavour Fire Hall)"	110	188	308	189	121	310
+"SD"	2012	"Beadle"	"W1 (Huron Arena)"	477	699	1204	666	529	1195
+"SD"	2012	"Beadle"	"W2 (Huron Arena)"	363	329	720	322	389	711
+"SD"	2012	"Beadle"	"W3 (Huron Arena)"	299	373	686	357	329	686
+"SD"	2012	"Beadle"	"W7-1 (Huron Arena)"	372	450	838	427	409	836
+"SD"	2012	"Beadle"	"W7-2 (Huron Arena)"	309	507	829	475	350	825
+"SD"	2012	"Beadle"	"W8-1 (Huron Arena)"	292	423	728	405	322	727
+"SD"	2012	"Beadle"	"W8-2 (Huron Arena)"	307	414	731	414	315	729
+"SD"	2012	"Bennett"	"Allen (American Horse School)"	215	55	271	90	178	268
+"SD"	2012	"Bennett"	"Martin City (Martin Community Room)"	165	211	388	221	168	389
+"SD"	2012	"Bennett"	"Martin Rural #26 (Bennett County Courthouse)"	56	89	146	92	56	148
+"SD"	2012	"Bennett"	"Martin Rural #27 (Lacreek Electric Building)"	101	135	243	143	101	244
+"SD"	2012	"Bennett"	"Tuthill (Tuthill Fire Hall)"	6	92	103	91	12	103
+"SD"	2012	"Bennett"	"Vetal (Vetal Fire Hall)"	5	44	52	45	11	56
+"SD"	2012	"Bon Homme"	"1 (Scotland Fire Hall)"	192	423	632	408	223	631
+"SD"	2012	"Bon Homme"	"2 (Avon Fire Hall)"	180	317	507	310	194	504
+"SD"	2012	"Bon Homme"	"3 (Tyndall Community Center)"	332	397	752	349	412	761
+"SD"	2012	"Bon Homme"	"4 (Tabor Senior Citizens Center)"	273	254	540	201	344	545
+"SD"	2012	"Bon Homme"	"5 (Springfield Community Center)"	190	439	643	419	224	643
+"SD"	2012	"Brookings"	"1-Tompkins Alumni Center (Precinct 1-Tompkins Alumni Center)"	299	284	619	298	314	612
+"SD"	2012	"Brookings"	"10-Bruce Area (Precinct 10-Bruce City Hall)"	202	350	573	356	223	579
+"SD"	2012	"Brookings"	"11-Aurora Area (Precinct 11-Aurora Little Hall)"	295	331	648	327	324	651
+"SD"	2012	"Brookings"	"12-Sinai Area (Precinct 12-Sinai American Legion)"	70	154	228	146	85	231
+"SD"	2012	"Brookings"	"13-Brookings Township (Precinct 13-Brookings American Legion)"	90	132	228	125	101	226
+"SD"	2012	"Brookings"	"14-Volga Area (Precinct 14-Volga Community Center)"	473	588	1094	585	513	1098
+"SD"	2012	"Brookings"	"15-Laketon & Winsor Twps. (Precinct 15-Trinity Lutheran Church)"	69	107	177	100	76	176
+"SD"	2012	"Brookings"	"16-Elkton Area (Precinct 16-Elkton Community Center)"	156	278	455	291	170	461
+"SD"	2012	"Brookings"	"2-First Lutheran Church (Precinct 2-First Lutheran Church)"	473	343	860	356	497	853
+"SD"	2012	"Brookings"	"3-Brookings Activity Center (Precinct 3-Brookings Activity Center)"	492	338	863	372	482	854
+"SD"	2012	"Brookings"	"4-Ascension Lutheran Church (Precinct 4-Ascension Lutheran Church)"	767	667	1470	664	800	1464
+"SD"	2012	"Brookings"	"5-Bethel Baptist Church (Precinct 5-Bethel Baptist Church)"	1080	1038	2157	973	1168	2141
+"SD"	2012	"Brookings"	"6-United Church of Christ (Precinct 6-United Church of Christ)"	808	826	1665	786	868	1654
+"SD"	2012	"Brookings"	"8-Medary Township (Precinct 8-Faith Reformed Church)"	287	362	662	350	313	663
+"SD"	2012	"Brookings"	"9-White Area (Precinct 9-McKnight Hall)"	266	422	701	431	263	694
+"SD"	2012	"Brown"	"Alexander Mitchell Library (Alexander Mitchell Library)"	251	243	517	222	291	513
+"SD"	2012	"Brown"	"Claremont Fire Station (Claremont Fire Station)"	99	86	190	85	106	191
+"SD"	2012	"Brown"	"Columbia American Legion (Columbia American Legion )"	166	212	391	184	205	389
+"SD"	2012	"Brown"	"Courthouse Community Rm #4 (Courthouse Community Room )"	283	277	590	261	325	586
+"SD"	2012	"Brown"	"Courthouse Community Rm #8 (Courthouse Community Room )"	487	368	886	372	509	881
+"SD"	2012	"Brown"	"Frederick Community Center (Frederick Community Center)"	135	132	280	116	162	278
+"SD"	2012	"Brown"	"Groton Community Center (Groton Community Center)"	436	521	983	486	496	982
+"SD"	2012	"Brown"	"Hecla Community Center (Hecla Community Center)"	132	141	279	112	175	287
+"SD"	2012	"Brown"	"Hub Area Vocational Ctr (Hub Area Vocational School )"	389	526	941	494	453	947
+"SD"	2012	"Brown"	"Northern Electric Coop (Northern Electric Cooperative )"	233	379	630	349	274	623
+"SD"	2012	"Brown"	"Primrose Gym #15 (Primrose Gym )"	341	540	900	481	417	898
+"SD"	2012	"Brown"	"Primrose Gym #3 (Primrose Gym )"	651	713	1405	672	719	1391
+"SD"	2012	"Brown"	"School/Blind & Visually Imp #10 (School for Blind & Visually Impaired)"	227	233	483	212	270	482
+"SD"	2012	"Brown"	"School/Blind & Visually Imp #16 (School for Blind & Visually Impaired)"	143	232	383	209	177	386
+"SD"	2012	"Brown"	"Senior Citizens Ctr (Senior Citizens Center)"	705	915	1666	867	807	1674
+"SD"	2012	"Brown"	"Stratford Community Center (Stratford Communty Center)"	125	119	252	116	134	250
+"SD"	2012	"Brown"	"Super City Plaza #11 (Super City Plaza )"	327	303	647	283	355	638
+"SD"	2012	"Brown"	"Super City Plaza #7 (Super City Plaza )"	662	919	1627	836	776	1612
+"SD"	2012	"Brown"	"Warner Community Center (Warner Community Center)"	329	257	608	242	368	610
+"SD"	2012	"Brown"	"Washington St. Gym #1 (Washington St. Gym )"	624	694	1357	633	713	1346
+"SD"	2012	"Brown"	"Washington St. Gym #2 (Washington St. Gym )"	373	370	772	315	446	761
+"SD"	2012	"Brown"	"Westport Town Hall (Westport Community Center)"	132	141	281	126	157	283
+"SD"	2012	"Brule"	"#1 Chamberlain (Brule County Courthouse)"	490	751	1269	727	548	1275
+"SD"	2012	"Brule"	"#2 Kimball (Kimball Legion Hall)"	177	351	541	340	206	546
+"SD"	2012	"Brule"	"#3 Pukwana (Brule County Ag Building)"	119	247	378	231	146	377
+"SD"	2012	"Brule"	"#4 Academy (Academy Fire Hall)"	14	57	72	55	15	70
+"SD"	2012	"Brule"	"#5 Ola (Ola Church)"	24	93	119	87	33	120
+"SD"	2012	"Buffalo"	"Elvira (Elm Creek Election Bldg.)"	32	91	123	80	41	121
+"SD"	2012	"Buffalo"	"Pershing (Crow Creek Housing Dist Recr. Bldg.)"	54	43	98	45	56	101
+"SD"	2012	"Buffalo"	"Victory (St. Joseph Catholic Hall)"	386	32	420	56	359	415
+"SD"	2012	"Butte"	"Castle Rock Precinct 06 (Castle Rock - Moreau River Hall)"	4	30	34	32	2	34
+"SD"	2012	"Butte"	"Fruitdale Precinct 17 (Belle Fourche Community Hall)"	69	265	342	261	82	343
+"SD"	2012	"Butte"	"Minnesela Precinct 16 (Belle Fourche Community Hall)"	110	501	629	506	125	631
+"SD"	2012	"Butte"	"Newell City Precinct 20 (Newell Community Hall)"	88	159	254	169	89	258
+"SD"	2012	"Butte"	"Nisland Precinct 18 (American Legion Hall)"	42	73	125	79	43	122
+"SD"	2012	"Butte"	"Orman Precinct 12 (American Legion Hall)"	17	63	82	65	17	82
+"SD"	2012	"Butte"	"Romans Precinct 11 (Belle Fourche Community Hall)"	8	69	77	69	8	77
+"SD"	2012	"Butte"	"Union Precinct 08 (Including: Horsecreek Precinct 13, Newell Independent Precinct 14) (Newell Community Hall)"	84	398	497	389	101	490
+"SD"	2012	"Butte"	"Ward 1 Precinct 21 (Belle Fourche Community Hall)"	81	144	238	156	80	236
+"SD"	2012	"Butte"	"Ward 1 Precinct 22 (Belle Fourche Community Hall)"	66	123	198	133	65	198
+"SD"	2012	"Butte"	"Ward 2 Precinct 23 (Belle Fourche Community Hall)"	68	158	231	157	69	226
+"SD"	2012	"Butte"	"Ward 2 Precinct 24 (Belle Fourche Community Hall)"	88	260	358	257	102	359
+"SD"	2012	"Butte"	"Ward 3 Precinct 25 (Belle Fourche Community Hall)"	61	220	287	211	75	286
+"SD"	2012	"Butte"	"Ward 3 Precinct 26 (Belle Fourche Community Hall)"	58	165	231	174	55	229
+"SD"	2012	"Butte"	"Ward 4 Precinct 27 (Belle Fourche Community Hall)"	59	195	264	201	63	264
+"SD"	2012	"Butte"	"Ward 4 Precinct 28 (Belle Fourche Community Hall)"	99	250	361	241	113	354
+"SD"	2012	"Campbell"	"#1 (Herreid Senior Citizens Center)"	33	121	155	109	43	152
+"SD"	2012	"Campbell"	"#2 (Pollock Visitors Center)"	30	120	157	123	34	157
+"SD"	2012	"Campbell"	"#3 (Herreid Senior Citizens Center)"	29	124	153	122	31	153
+"SD"	2012	"Campbell"	"#4 (Mound City Community Center)"	29	132	168	126	39	165
+"SD"	2012	"Campbell"	"#5 (Campbell County Courthouse/Court Room)"	32	119	154	117	36	153
+"SD"	2012	"Charles Mix"	"#01 (Wagner Armory)"	181	265	456	258	192	450
+"SD"	2012	"Charles Mix"	"#02 (Dante Church)"	93	105	199	108	94	202
+"SD"	2012	"Charles Mix"	"#03 (Wagner Armory)"	291	254	556	262	303	565
+"SD"	2012	"Charles Mix"	"#04 (Boys & Girls Club)"	137	61	201	66	134	200
+"SD"	2012	"Charles Mix"	"#05 (Lake Andes 4-H Center)"	190	198	389	203	186	389
+"SD"	2012	"Charles Mix"	"#06 (Lake Andes 4-H Center)"	189	85	275	92	187	279
+"SD"	2012	"Charles Mix"	"#07 (Pickstown Rainbow Room)"	39	80	122	79	41	120
+"SD"	2012	"Charles Mix"	"#08 (Geddes Community Bldg)"	47	137	191	135	55	190
+"SD"	2012	"Charles Mix"	"#09 (Platte Community Bldg)"	73	317	393	309	80	389
+"SD"	2012	"Charles Mix"	"#10 (Academy Fire Hall)"	19	101	120	95	25	120
+"SD"	2012	"Charles Mix"	"#11 (Platte Community Bldg)"	148	507	661	498	167	665
+"SD"	2012	"Charles Mix"	"#12 (Geddes Community Bldg)"	48	70	121	62	61	123
+"SD"	2012	"Charles Mix"	"#13 (Ravinia Town Hall)"	28	50	80	52	28	80
+"SD"	2012	"Clark"	"Ash, Woodland, Garfield, Elrod (Clark County Courthouse)"	53	97	152	108	50	158
+"SD"	2012	"Clark"	"Blaine, Cottonwood, Sp Val, War (Bradley Community Center)"	71	81	162	83	79	162
+"SD"	2012	"Clark"	"City of Clark Ward I (Clark Senior Citizens - Ullyot Bldg )"	90	113	208	117	86	203
+"SD"	2012	"Clark"	"City of Clark Ward II (Clark Senior Citizens - Ullyot Bldg )"	80	114	198	113	85	198
+"SD"	2012	"Clark"	"City of Clark Ward III, Lincoln (Clark Senior Citizens - Ullyot Bldg )"	94	144	244	140	107	247
+"SD"	2012	"Clark"	"Foxton, Merton, Town of  (Clark County Courthouse)"	22	46	70	45	25	70
+"SD"	2012	"Clark"	"Lake, Washington, Collins (Willow Lake Grace Lutheran Church)"	49	74	126	77	51	128
+"SD"	2012	"Clark"	"Mt Pleasant, Day, Darlington (Clark County Courthouse)"	48	65	115	67	47	114
+"SD"	2012	"Clark"	"Raymond Twp, Logan, Fordham, To (Raymond Fire Hall)"	49	57	110	63	50	113
+"SD"	2012	"Clark"	"Richland, Hague, Rosedale (Carpenter Community Center)"	39	56	95	57	42	99
+"SD"	2012	"Clark"	"Thorp, Maydell, Eden, Town of G (Prairie Ridge Lodge )"	51	69	121	71	53	124
+"SD"	2012	"Clark"	"Town of Vienna, Pleasant (Vienna Town Hall)"	12	58	72	65	8	73
+"SD"	2012	"Clark"	"Town of Willow Lake (Willow Lake Community Center)"	55	93	148	96	54	150
+"SD"	2012	"Clay"	"Central 1 (National Guard Armory)"	460	183	661	180	474	654
+"SD"	2012	"Clay"	"Northeast 1 (National Guard Armory)"	308	186	520	202	309	511
+"SD"	2012	"Clay"	"Northwest 1 (National Guard Armory)"	333	203	552	212	334	546
+"SD"	2012	"Clay"	"Northwest 2 (National Guard Armory)"	211	189	409	175	228	403
+"SD"	2012	"Clay"	"Rural Ward 1 @ Experimental Far (SESD Experimental Farm)"	150	221	383	221	171	392
+"SD"	2012	"Clay"	"Rural Ward 2 @ Wakonda Senior C (Wakonda Senior Center)"	192	209	408	222	185	407
+"SD"	2012	"Clay"	"Rural Ward 3 @ Verm 4H Center (Vermillion 4-H Center)"	515	449	983	446	523	969
+"SD"	2012	"Clay"	"Southeast 1 (National Guard Armory)"	440	293	749	297	446	743
+"SD"	2012	"Clay"	"Southeast 2 (National Guard Armory)"	346	214	569	208	355	563
+"SD"	2012	"Codington"	"Dexter (Florence Community Center)"	50	40	90	48	43	91
+"SD"	2012	"Codington"	"Eden, Phipps, Wallace (Wallace Coffee Shop)"	36	67	106	58	49	107
+"SD"	2012	"Codington"	"Elmira (Lincoln School)"	83	130	218	137	83	220
+"SD"	2012	"Codington"	"Fuller - Florence (Florence Community Center)"	94	154	257	164	99	263
+"SD"	2012	"Codington"	"Germantown (Northeast Research Farm)"	54	26	83	24	60	84
+"SD"	2012	"Codington"	"Graceland, Henry, Henry (Henry Town Hall)"	77	118	205	117	88	205
+"SD"	2012	"Codington"	"Kampeska Township (Including: Richland) (County Extension Complex)"	88	140	234	151	88	239
+"SD"	2012	"Codington"	"Kranzburg Twp. & Village (Holy Rosary School Auditorium)"	76	158	238	160	80	240
+"SD"	2012	"Codington"	"Lake Township (County Extension Complex)"	114	221	343	222	119	341
+"SD"	2012	"Codington"	"Leola - South Shore (South Shore Community Center)"	65	73	145	82	64	146
+"SD"	2012	"Codington"	"Pelican (County Extension Complex)"	109	192	308	194	117	311
+"SD"	2012	"Codington"	"Rauville (County Extension Complex)"	48	83	134	86	50	136
+"SD"	2012	"Codington"	"Sheridan (Days Inn of Watertown)"	76	138	216	145	71	216
+"SD"	2012	"Codington"	"Ward A Precinct 1 (County Extension Complex)"	276	578	860	565	291	856
+"SD"	2012	"Codington"	"Ward A Precinct 2 (County Extension Complex)"	188	335	534	344	188	532
+"SD"	2012	"Codington"	"Ward A Precinct 3 (Including: Ward A Precinct 4) (County Extension Complex)"	267	402	677	398	275	673
+"SD"	2012	"Codington"	"Ward B Precinct 1 (Including: Ward B Precinct 4, Ward E Precinct 5) (County Extension Complex)"	243	422	675	413	267	680
+"SD"	2012	"Codington"	"Ward B Precinct 2 (County Extension Complex)"	391	428	842	441	396	837
+"SD"	2012	"Codington"	"Ward B Precinct 3 (Including: Ward C Precinct 1) (County Extension Complex)"	264	372	646	386	259	645
+"SD"	2012	"Codington"	"Ward C Precinct 2 (Including: Ward D Precinct 4) (County Extension Complex)"	198	186	400	200	201	401
+"SD"	2012	"Codington"	"Ward C Precinct 3 (County Extension Complex)"	294	297	608	290	323	613
+"SD"	2012	"Codington"	"Ward C Precinct 4 (County Extension Complex)"	128	123	262	138	127	265
+"SD"	2012	"Codington"	"Ward D Precinct 1 (County Extension Complex)"	227	259	496	262	233	495
+"SD"	2012	"Codington"	"Ward D Precinct 2 (County Extension Complex)"	251	246	509	266	243	509
+"SD"	2012	"Codington"	"Ward D Precinct 3 (County Extension Complex)"	170	235	409	232	178	410
+"SD"	2012	"Codington"	"Ward E Precinct 1 (County Extension Complex)"	291	343	648	347	304	651
+"SD"	2012	"Codington"	"Ward E Precinct 2 (Including: Ward E Precinct 4) (County Extension Complex)"	193	336	538	316	217	533
+"SD"	2012	"Codington"	"Ward E Precinct 3 (County Extension Complex)"	201	536	747	512	225	737
+"SD"	2012	"Codington"	"Waverly (Waverly School)"	36	58	96	56	40	96
+"SD"	2012	"Corson"	"Bullhead Precinct (Bullhead Community Center)"	59	4	63	16	48	64
+"SD"	2012	"Corson"	"Grand Valley Precinct (Grand River Fire Hall)"	4	62	76	66	11	77
+"SD"	2012	"Corson"	"Kenel Precinct (Kenel Community Hall)"	61	7	68	14	48	62
+"SD"	2012	"Corson"	"Lincoln Precinct (Including: Oak Creek Precinct) (McLaughlin City Auditorium)"	47	63	111	74	31	105
+"SD"	2012	"Corson"	"Little Eagle Precinct (Little Eagle District Office)"	83	9	94	25	67	92
+"SD"	2012	"Corson"	"McIntosh Precinct (Including: South McIntosh Precinct) (Corson County Courthouse)"	54	110	170	104	63	167
+"SD"	2012	"Corson"	"McLaughlin Precinct (McLaughlin City Auditorium)"	124	62	192	71	115	186
+"SD"	2012	"Corson"	"Mission/Wakpala Precinct (Wakpala Community Center)"	83	4	88	20	66	86
+"SD"	2012	"Corson"	"Morristown Precinct (Morristown Fire Hall)"	30	68	107	76	39	115
+"SD"	2012	"Corson"	"Ridgeland Precinct (Trail City Community Hall)"	25	37	63	48	15	63
+"SD"	2012	"Corson"	"Stone Church Precinct (Gary Pederson Residence)"	13	64	78	64	11	75
+"SD"	2012	"Corson"	"West Rural McLaughlin Precinct (McLaughlin City Auditorium)"	65	25	90	38	46	84
+"SD"	2012	"Custer"	"Bear Rock 9 (Custer County Highway Dept Bldg)"	351	792	1164	796	364	1160
+"SD"	2012	"Custer"	"Buffalo Gap 3 (Buffalo Gap Town Hall)"	65	132	202	131	67	198
+"SD"	2012	"Custer"	"Custer 6 (Custer County Courthouse Annex)"	170	218	398	230	167	397
+"SD"	2012	"Custer"	"Custer 7 (Custer County Courthouse Annex)"	81	162	249	164	83	247
+"SD"	2012	"Custer"	"Custer 8 (Custer County Courthouse Annex)"	152	264	429	262	160	422
+"SD"	2012	"Custer"	"Elk Mountain 10 (Elk Mountain School)"	28	99	133	98	30	128
+"SD"	2012	"Custer"	"Fairburn 2 (Fairburn Community & Historical Center)"	22	109	132	106	26	132
+"SD"	2012	"Custer"	"Hermosa 1 (Hermosa United Church of Christ)"	185	656	871	658	208	866
+"SD"	2012	"Custer"	"Pringle 4 (Pringle Fire Auxillary Hall)"	105	201	314	202	114	316
+"SD"	2012	"Custer"	"Sentinel Hill 5 (Custer County Courthouse Annex)"	176	429	628	421	198	619
+"SD"	2012	"Davison"	"Prec 1 (Ethan Town Hall)"	105	186	300	188	115	303
+"SD"	2012	"Davison"	"Prec 10 (Davison County Fairgrounds)"	182	233	428	230	200	430
+"SD"	2012	"Davison"	"Prec 11 (Davison County Fairgrounds)"	190	249	450	239	208	447
+"SD"	2012	"Davison"	"Prec 12 (Including: Prec 13) (Davison County Fairgrounds)"	222	335	567	327	237	564
+"SD"	2012	"Davison"	"Prec 14 (Davison County Fairgrounds)"	148	191	349	188	156	344
+"SD"	2012	"Davison"	"Prec 15 (Davison County Fairgrounds)"	237	304	556	322	234	556
+"SD"	2012	"Davison"	"Prec 16 (Davison County Fairgrounds)"	172	206	389	209	177	386
+"SD"	2012	"Davison"	"Prec 17 (Including: Prec 18) (Corn Palace)"	164	200	370	199	174	373
+"SD"	2012	"Davison"	"Prec 19 (Corn Palace)"	192	253	461	250	209	459
+"SD"	2012	"Davison"	"Prec 2 (Tom Young Community Center)"	98	267	372	253	122	375
+"SD"	2012	"Davison"	"Prec 20 (Corn Palace)"	312	479	804	469	338	807
+"SD"	2012	"Davison"	"Prec 3 (Corn Palace)"	209	418	635	402	236	638
+"SD"	2012	"Davison"	"Prec 4 (Including: Prec 5) (Corn Palace)"	180	443	632	439	189	628
+"SD"	2012	"Davison"	"Prec 6 (Including: Prec 7) (Corn Palace)"	268	548	827	528	299	827
+"SD"	2012	"Davison"	"Prec 8 (Corn Palace)"	159	228	395	221	179	400
+"SD"	2012	"Davison"	"Prec 9 (Corn Palace)"	204	217	436	234	206	440
+"SD"	2012	"Day"	"#1 (Day County Courthouse Rm#101)"	138	142	283	147	135	282
+"SD"	2012	"Day"	"#10 (Andover Senior Center)"	43	66	113	63	49	112
+"SD"	2012	"Day"	"#11 (Roslyn City Hall)"	112	96	214	83	125	208
+"SD"	2012	"Day"	"#12 (Pierpont Community Center)"	122	83	206	71	136	207
+"SD"	2012	"Day"	"#13 (St. Joseph's Hall)"	117	82	202	88	116	204
+"SD"	2012	"Day"	"#14 (Bristol Community Center)"	132	114	249	111	142	253
+"SD"	2012	"Day"	"#2 (Day County Courthouse Rm#101)"	146	118	270	117	157	274
+"SD"	2012	"Day"	"#3 (Day County Courthouse Rm#101)"	79	78	161	72	91	163
+"SD"	2012	"Day"	"#4 (Day County Courthouse Rm#101)"	96	78	177	74	106	180
+"SD"	2012	"Day"	"#5 (Waubay Legion )"	126	88	218	100	127	227
+"SD"	2012	"Day"	"#6 (Waubay Legion )"	144	132	280	117	153	270
+"SD"	2012	"Day"	"#7 (Day County Courthouse Rm#205)"	78	85	169	77	90	167
+"SD"	2012	"Day"	"#8 (Bristol Community Center)"	81	60	148	64	86	150
+"SD"	2012	"Day"	"#9 (Day County Courthouse Rm#104)"	83	98	183	94	90	184
+"SD"	2012	"Deuel"	"Alt.,Portland,Alt.Lowe (Dakota Ridge Lodge)"	83	58	145	67	78	145
+"SD"	2012	"Deuel"	"Blom, Grange, Toronto (Toronto Community Rm. (FireHall))"	89	123	219	116	102	218
+"SD"	2012	"Deuel"	"Clear Lake WD 1 (Clear Lake Community Center)"	80	105	191	111	81	192
+"SD"	2012	"Deuel"	"Clear Lake WD 2 (Clear Lake Community Center)"	107	82	194	91	97	188
+"SD"	2012	"Deuel"	"Clear Lake WD 3 (Clear Lake Community Center)"	87	108	198	104	93	197
+"SD"	2012	"Deuel"	"Glenwd,Herrick,Ant.Val,Gary (Gary Fire Hall)"	121	149	279	172	108	280
+"SD"	2012	"Deuel"	"Goodwin, Rome, Goodwin (Goodwin Fire Hall)"	64	130	199	131	70	201
+"SD"	2012	"Deuel"	"Hav., CL, Hidewood (Clear Lake Community Center)"	106	159	273	172	99	271
+"SD"	2012	"Deuel"	"Norden, Brandt, Brandt (Brandt Community Center)"	134	165	300	187	115	302
+"SD"	2012	"Deuel"	"Scandi, Astoria (Astoria Legion Hall)"	70	96	173	103	70	173
+"SD"	2012	"Dewey"	"EAGLE BUTTE EAST (CRST Senior Nutrition Site)"	253	32	287	54	226	280
+"SD"	2012	"Dewey"	"EB SOUTH (Landmark Hall)"	274	72	348	78	262	340
+"SD"	2012	"Dewey"	"EB WEST GREEN GRASS (Eagle Butte Volunteer Fire Hall)"	110	64	176	72	99	171
+"SD"	2012	"Dewey"	"FIRESTEEL (Dewey Co. Courthouse)"	21	25	48	23	25	48
+"SD"	2012	"Dewey"	"GLENCROSS (Timber Lake Community Ctr)"	3	40	43	40	5	45
+"SD"	2012	"Dewey"	"ISABEL (Isabel Senior Center)"	29	108	141	101	42	143
+"SD"	2012	"Dewey"	"LAPLANT (UCC Church Hall/LaPlante)"	50	9	59	11	48	59
+"SD"	2012	"Dewey"	"NO HEART (Including: EB NORTH) (Lakota Wesleyon Church)"	207	68	276	89	187	276
+"SD"	2012	"Dewey"	"PROMISE (St. Catherine Hall/Promise)"	39	23	64	25	36	61
+"SD"	2012	"Dewey"	"SWIFTBIRD (Ducheneaux Chapel)"	49	6	55	10	44	54
+"SD"	2012	"Dewey"	"TIMBER LAKE (Timber Lake Community Ctr)"	100	183	291	170	121	291
+"SD"	2012	"Dewey"	"TRAIL CITY (Trail City Community Hall)"	2	30	34	31	2	33
+"SD"	2012	"Dewey"	"WHITE HORSE (White Horse Community Center)"	70	3	73	15	55	70
+"SD"	2012	"Douglas"	"#1 (Holland Township Hall)"	34	345	379	341	43	384
+"SD"	2012	"Douglas"	"#2 (Community Building)"	73	246	324	247	74	321
+"SD"	2012	"Douglas"	"#3 (Community Center)"	64	228	297	222	76	298
+"SD"	2012	"Douglas"	"#4 (City Council Chambers)"	115	241	366	251	121	372
+"SD"	2012	"Douglas"	"#5 (4-H Center)"	46	274	324	266	56	322
+"SD"	2012	"Edmunds"	"#1 Mina Area (Cortlandt Township Hall)"	148	259	416	240	174	414
+"SD"	2012	"Edmunds"	"#2 Ipswich (Edmunds County Courthouse)"	132	250	400	237	160	397
+"SD"	2012	"Edmunds"	"#3 Rural Ipswich (Ipswich 4-H Building)"	82	188	272	164	107	271
+"SD"	2012	"Edmunds"	"#4 Roscoe Area (Roscoe Fire Hall)"	104	172	288	161	125	286
+"SD"	2012	"Edmunds"	"#5 Bowdle Area (Bowdle Multi-Purpose Center)"	94	287	385	256	129	385
+"SD"	2012	"Edmunds"	"#6 Hosmer Area (Hosmer Fire Hall)"	62	108	175	109	65	174
+"SD"	2012	"Fall River"	"Beaver (Oral School)"	18	116	138	117	20	137
+"SD"	2012	"Fall River"	"Cascade (Cascade Fire Hall)"	48	92	145	104	38	142
+"SD"	2012	"Fall River"	"Edgemont Area (Including: Argentine, Cottonwood, Edgemont 2, Edgemont 3) (St James Parish Center)"	162	361	545	390	150	540
+"SD"	2012	"Fall River"	"Hot Springs 1 (Evans Apartments )"	161	230	405	252	150	402
+"SD"	2012	"Fall River"	"Hot Springs 2A (Mueller Center)"	112	176	296	178	123	301
+"SD"	2012	"Fall River"	"Hot Springs 2B (Mueller Center)"	67	67	138	81	61	142
+"SD"	2012	"Fall River"	"Hot Springs 3 (Mueller Center)"	158	258	434	270	166	436
+"SD"	2012	"Fall River"	"Hot Springs 4 (Brookside Apartments)"	146	187	348	194	148	342
+"SD"	2012	"Fall River"	"Jackson (Mueller Center)"	248	577	848	593	243	836
+"SD"	2012	"Fall River"	"Limestone (Including: Smithwick) (Oelrichs Community Center)"	7	143	151	143	9	152
+"SD"	2012	"Fall River"	"Oelrichs (Oelrichs Community Center)"	13	51	68	48	19	67
+"SD"	2012	"Faulk"	"#1 (Cresbard Community Ctr)"	54	130	191	119	69	188
+"SD"	2012	"Faulk"	"#2 (Freedom Farmers Union Local 974)"	13	65	81	64	16	80
+"SD"	2012	"Faulk"	"#3 (Seneca Fire Hall)"	33	110	146	106	37	143
+"SD"	2012	"Faulk"	"#4 (Orient Community Ctr.)"	28	63	92	62	31	93
+"SD"	2012	"Faulk"	"#5 (Rockham Community Ctr)"	17	66	87	66	21	87
+"SD"	2012	"Faulk"	"#6 (Faulkton Community Ctr)"	75	167	249	150	93	243
+"SD"	2012	"Faulk"	"#7 (Faulkton Community Ctr)"	111	164	281	161	124	285
+"SD"	2012	"Grant"	"Adams-Albee-Revillo-Vernon (Revillo Community Center)"	123	139	266	143	125	268
+"SD"	2012	"Grant"	"Alban (Milbank Airport)"	104	163	274	163	110	273
+"SD"	2012	"Grant"	"Big Stone City & Twp (Big Stone City Community Room)"	160	228	399	250	154	404
+"SD"	2012	"Grant"	"Blooming Val-Farm-Lura (New Township Hall)"	43	66	112	77	35	112
+"SD"	2012	"Grant"	"Georgia-Madison-LaBolt (LaBolt Mini Mall)"	74	87	165	97	68	165
+"SD"	2012	"Grant"	"Grant Center (Whetstone Valley Electric Meeting Room)"	79	112	195	112	84	196
+"SD"	2012	"Grant"	"Mazeppa-Osceola-Marvin (Marvin Hall)"	54	67	122	63	62	125
+"SD"	2012	"Grant"	"Melrose (Otter Tail Power Co Meeting Room)"	61	141	204	140	63	203
+"SD"	2012	"Grant"	"Milbank 11 (City Office Community Room)"	171	191	369	213	156	369
+"SD"	2012	"Grant"	"Milbank 12 (City Office Community Room)"	26	37	64	39	29	68
+"SD"	2012	"Grant"	"Milbank 21 (City Office Community Room)"	46	74	126	79	42	121
+"SD"	2012	"Grant"	"Milbank 22 (City Office Community Room)"	177	247	434	256	191	447
+"SD"	2012	"Grant"	"Milbank 31 (City Office Community Room)"	39	41	82	43	39	82
+"SD"	2012	"Grant"	"Milbank 32 (City Office Community Room)"	47	47	96	55	39	94
+"SD"	2012	"Grant"	"Milbank 33 (City Office Community Room)"	165	235	406	252	154	406
+"SD"	2012	"Grant"	"Stockholm Town & Twp (Stockholm Community Center)"	32	52	88	44	42	86
+"SD"	2012	"Grant"	"Troy-Strandburg (American Legion Post #171 Meeting Room)"	23	24	49	31	18	49
+"SD"	2012	"Grant"	"Twin Brooks-Kilborn (Twin Brooks Community Room)"	69	83	155	80	73	153
+"SD"	2012	"Gregory"	"#1 (Gregory Memorial Auditorium)"	267	679	972	636	342	978
+"SD"	2012	"Gregory"	"#2 (Burke Civic Center)"	233	552	800	523	276	799
+"SD"	2012	"Gregory"	"#3 (Bonesteel Comunity Room)"	99	276	379	272	109	381
+"SD"	2012	"Haakon"	"Deadman (Courthouse Community Room)"	31	183	217	172	45	217
+"SD"	2012	"Haakon"	"Kirley (Deep Creek Church)"	10	103	114	101	13	114
+"SD"	2012	"Haakon"	"Lake Waggoner (Bad River Senior Citizens Center)"	29	169	204	164	41	205
+"SD"	2012	"Haakon"	"Midland (Midland Fire Hall)"	23	197	222	190	30	220
+"SD"	2012	"Haakon"	"Milesville (Milesville Hall)"	9	126	136	121	15	136
+"SD"	2012	"Haakon"	"South Fork (Courthouse Community Room)"	36	162	199	162	38	200
+"SD"	2012	"Hamlin"	"Bryant (Bryant City Auditorium)"	93	203	305	201	99	300
+"SD"	2012	"Hamlin"	"Castlewood (Castlewood Fire Hall)"	261	395	670	419	255	674
+"SD"	2012	"Hamlin"	"Estelline (Estelline community center)"	239	253	508	269	247	516
+"SD"	2012	"Hamlin"	"Hayti (Hayti Fire Hall)"	96	319	428	324	95	419
+"SD"	2012	"Hamlin"	"Hazel (Hazel Fire Hall)"	26	108	136	113	21	134
+"SD"	2012	"Hamlin"	"Norden (Lake Norden Firehall)"	168	417	598	434	163	597
+"SD"	2012	"Hamlin"	"Oxford (Oxford Township Hall)"	38	108	148	111	37	148
+"SD"	2012	"Hand"	"01 (Including: 03) (Polo School)"	32	181	216	160	58	218
+"SD"	2012	"Hand"	"02 (St. Mary's Hall)"	28	61	90	61	30	91
+"SD"	2012	"Hand"	"04 (Holden Hall)"	9	46	56	43	14	57
+"SD"	2012	"Hand"	"05 (Including: 08) (Ree Heights American Legion)"	37	107	152	105	48	153
+"SD"	2012	"Hand"	"06 (St. Lawrence Fire Hall)"	70	86	159	96	66	162
+"SD"	2012	"Hand"	"07 (Clair Bonebright Residence)"	44	74	119	67	54	121
+"SD"	2012	"Hand"	"09 (Including: 10) (Sunshine Bible Academy)"	20	127	148	124	24	148
+"SD"	2012	"Hand"	"11 (Methodist Church)"	169	263	438	261	176	437
+"SD"	2012	"Hand"	"12 (Hand County courthouse)"	166	297	470	290	182	472
+"SD"	2012	"Hanson"	"#1 - Emery Fire Hall (Emery Fire Hall)"	417	855	1283	800	389	1189
+"SD"	2012	"Hanson"	"#2 - Alex City Hall (Alexandria City Hall)"	158	224	386	228	173	401
+"SD"	2012	"Hanson"	"#3 - Fulton Community Hall (Fulton Community Hall)"	96	178	282	176	108	284
+"SD"	2012	"Hanson"	"#4 - Fulton Community Hall (Fulton Community Hall)"	52	222	278	217	64	281
+"SD"	2012	"Hanson"	"#5 - Hanson County Courthouse (Hanson County Courthouse)"	37	148	187	152	41	193
+"SD"	2012	"Harding"	"Buffalo (Harding County Memorial REC)"	25	121	152	124	25	149
+"SD"	2012	"Harding"	"Camp Crook (Camp Crook Area Community Center)"	20	98	125	101	22	123
+"SD"	2012	"Harding"	"Fillmore (Ralph Lutheran Church)"	9	45	55	45	8	53
+"SD"	2012	"Harding"	"Hilton (Harding County Memorial REC)"	13	93	109	89	19	108
+"SD"	2012	"Harding"	"Ladner (Ladner Lutheran Church)"	2	39	41	39	1	40
+"SD"	2012	"Harding"	"Ludlow (Ludlow Hall)"	9	68	78	71	10	81
+"SD"	2012	"Harding"	"Poplar Grove (Harding County Memorial REC)"	1	58	59	58	1	59
+"SD"	2012	"Harding"	"Reva (Reva Hall)"	3	116	120	115	4	119
+"SD"	2012	"Hughes"	"#11-Rural New Life Assembly Chu (#11-Rural New Life Assembly of God Church)"	315	854	1193	824	370	1194
+"SD"	2012	"Hughes"	"#21-Pierre No. 1 Fire Station (#21-Pierre No. 1 Fire Station)"	199	282	493	274	217	491
+"SD"	2012	"Hughes"	"#23-Pierre PILC Rec Center (#23-Pierre PILC Rec Center)"	210	312	532	301	233	534
+"SD"	2012	"Hughes"	"#24-Pierre Buchanan School (#24-Pierre Buchanan School)"	253	391	665	395	271	666
+"SD"	2012	"Hughes"	"#26-Pierre Riggs Theater (#26-Pierre Riggs Theater)"	215	366	596	372	224	596
+"SD"	2012	"Hughes"	"#28-Pierre Courthouse (#28-Pierre Courthouse)"	238	367	621	343	272	615
+"SD"	2012	"Hughes"	"#29-Pierre Senior Citizen's Cen (#29-Pierre Senior Citizen's Center)"	136	191	332	178	149	327
+"SD"	2012	"Hughes"	"#30-Pierre Faith Lutheran Churc (#30-Pierre Faith Lutheran Church)"	262	384	653	358	292	650
+"SD"	2012	"Hughes"	"#31-Pierre Poplar Ave Fire Stat (#31-Pierre Poplar Avenue Fire Station)"	263	544	815	507	299	806
+"SD"	2012	"Hughes"	"#32-Pierre 7th Day Adv Church (#32-Pierre 7th Day Adventist Church)"	173	341	516	320	192	512
+"SD"	2012	"Hughes"	"#33-Pierre Resurrection Church (#33-Pierre Resurrection Lutheran Church)"	160	360	529	338	188	526
+"SD"	2012	"Hughes"	"#34-Pierre No. 4 Fire Station (#34-Pierre No. 4 Fire Station)"	231	498	740	494	249	743
+"SD"	2012	"Hughes"	"#5-Blunt City Hall (#5-Blunt City Hall)"	55	177	236	174	62	236
+"SD"	2012	"Hughes"	"#7-Harrold Fire Hall (#7-Harrold City Auditorium)"	16	113	133	113	20	133
+"SD"	2012	"Hughes"	"#9-Hyde (#9-Hyde Residence)"	60	39	101	49	52	101
+"SD"	2012	"Hutchinson"	"#1 (Menno Fire Hall)"	180	540	729	525	210	735
+"SD"	2012	"Hutchinson"	"#2 (Old Library)"	202	558	769	544	218	762
+"SD"	2012	"Hutchinson"	"#3 (Clayton Township Hall)"	25	120	150	121	29	150
+"SD"	2012	"Hutchinson"	"#4 (St. Peter & Paul Parrish Hall)"	131	317	457	304	160	464
+"SD"	2012	"Hutchinson"	"#5 (Parkston American Legion Hall)"	246	419	676	418	271	689
+"SD"	2012	"Hutchinson"	"#6 (Tripp American Legion)"	109	340	453	331	125	456
+"SD"	2012	"Hutchinson"	"#7 (Courthouse Conference Room)"	30	157	191	148	41	189
+"SD"	2012	"Hyde"	"#1 (Including: #2, #3) (Hyde County Memorial Auditorium - Main Arena)"	157	435	604	411	194	605
+"SD"	2012	"Hyde"	"Absentee Precinct"	32	96	129	91	31	122
+"SD"	2012	"Jackson"	"01 Cottonwood (Cottonwood Range Field Station)"	2	33	36	34	2	36
+"SD"	2012	"Jackson"	"02 Interior (Interior School)"	34	78	112	80	32	112
+"SD"	2012	"Jackson"	"03 Kadoka (Jackson County Courthouse)"	53	215	269	205	60	265
+"SD"	2012	"Jackson"	"04 Kadoka  (Jackson County Courthouse)"	43	108	154	106	46	152
+"SD"	2012	"Jackson"	"05 Belvidere (Belvidere Fellowship Hall)"	8	69	81	69	9	78
+"SD"	2012	"Jackson"	"06 Long Valley (Long Valley School)"	32	73	107	72	37	109
+"SD"	2012	"Jackson"	"07 Wanblee (Crazy Horse School)"	223	48	278	72	199	271
+"SD"	2012	"Jackson"	"08 Green Valley (Green Valley Fire Hall)"	31	37	69	36	30	66
+"SD"	2012	"Jerauld"	"1 (Jerauld County 4-H Building)"	245	257	509	265	245	510
+"SD"	2012	"Jerauld"	"2 (Jerauld County 4-H Building)"	62	88	150	89	61	150
+"SD"	2012	"Jerauld"	"3 (Alpena Community Center)"	68	65	134	80	57	137
+"SD"	2012	"Jerauld"	"4  (Ed and Donna Gray Garage)"	40	61	105	62	43	105
+"SD"	2012	"Jerauld"	"5 (Larry Powell's Shop)"	37	67	108	68	39	107
+"SD"	2012	"Jones"	"#1 (Murdo Auditorium)"	29	179	210	169	40	209
+"SD"	2012	"Jones"	"#3 (Murdo Auditorium)"	47	155	208	159	52	211
+"SD"	2012	"Jones"	"#5 (Draper Town Hall)"	32	156	191	151	44	195
+"SD"	2012	"Kingsbury"	"Arlington Precinct (Arlington City Hall)"	262	287	567	277	288	565
+"SD"	2012	"Kingsbury"	"Badger Precinct (Badger American Legion Hall)"	123	153	285	155	121	276
+"SD"	2012	"Kingsbury"	"DeSmet Precinct (Kingsbury County 4-H Building)"	369	497	884	511	373	884
+"SD"	2012	"Kingsbury"	"Iroquois Precinct (Iroquois Fire Hall)"	87	123	219	130	89	219
+"SD"	2012	"Kingsbury"	"Lake Preston Precinct (Lake Preston Community Room)"	175	248	430	251	173	424
+"SD"	2012	"Kingsbury"	"Oldham Precinct (Oldham School Gym)"	76	143	223	134	88	222
+"SD"	2012	"Lake"	"Chester (Including: Franklin) (Chester Fire Hall)"	208	248	467	236	231	467
+"SD"	2012	"Lake"	"Concord (Including: Badus, Ramona Village, Wayne) (Parish Hall)"	93	152	252	149	100	249
+"SD"	2012	"Lake"	"Farmington (Including: Clarno, Leroy, Orland) (Dakota Prairie Playhouse)"	117	217	348	216	124	340
+"SD"	2012	"Lake"	"Herman (Including: Winfred) (Dakota Prairie Playhouse)"	196	212	415	209	205	414
+"SD"	2012	"Lake"	"Lakeview (Dakota Prairie Playhouse)"	155	303	460	271	186	457
+"SD"	2012	"Lake"	"Nunda (Including: Nunda Village, Summit) (Nunda Fire Hall)"	50	106	164	104	59	163
+"SD"	2012	"Lake"	"Ward 1 Precinct 1 (Including: Ward 1 Precinct 2, Ward 1 Precinct 3, Ward 1 Precinct 4) (Dakota Prairie Playhouse)"	983	1277	2300	1221	989	2210
+"SD"	2012	"Lake"	"Ward 2 Precinct 1 (Including: Ward 2 Precinct 2, Ward 2 Precinct 3) (Dakota Prairie Playhouse)"	404	349	779	322	452	774
+"SD"	2012	"Lake"	"Ward 3 Precinct 1 (Including: Ward 3 Precinct 2, Ward 3 Precinct 3) (Dakota Prairie Playhouse)"	351	292	664	283	384	667
+"SD"	2012	"Lake"	"Wentworth (Including: Rutland, Wentworth Village) (Wentworth Fire Hall)"	167	263	436	258	186	444
+"SD"	2012	"Lawrence"	"Absentee Precinct"	1485	2689	4268	2594	1641	4235
+"SD"	2012	"Lawrence"	"Deadwood (Lawrence County Administrative Annex)"	198	186	405	195	203	398
+"SD"	2012	"Lawrence"	"Lead (Golden Hills Resort and Convention Center)"	390	453	890	516	380	896
+"SD"	2012	"Lawrence"	"Nemo (Nemo Church)"	69	142	215	133	81	214
+"SD"	2012	"Lawrence"	"Rural #1 (Lawrence County Administrative Annex)"	181	334	541	339	199	538
+"SD"	2012	"Lawrence"	"Rural #2 (Spearfish Park Pavilion)"	403	877	1318	905	401	1306
+"SD"	2012	"Lawrence"	"Spearfish Ward 1 (Spearfish Senior Citizen's Center)"	329	413	781	426	352	778
+"SD"	2012	"Lawrence"	"Spearfish Ward 2 (Spearfish Senior Citizen's Center)"	340	601	970	602	360	962
+"SD"	2012	"Lawrence"	"Spearfish Ward 3 (Spearfish Senior Citizen's Center)"	343	699	1070	717	341	1058
+"SD"	2012	"Lawrence"	"St Onge (St Onge Community Hall)"	55	224	292	221	67	288
+"SD"	2012	"Lawrence"	"Whitewood (Whitewood City Hall)"	180	407	609	427	179	606
+"SD"	2012	"Lincoln"	"Beresford/Pleasant/Brooklyn (Beresford City Library)"	143	292	447	282	163	445
+"SD"	2012	"Lincoln"	"Canton 1,2,3 (Canton Methodist Church)"	355	483	847	488	364	852
+"SD"	2012	"Lincoln"	"Canton 4 & 5 (Canton Methodist Church)"	230	257	508	258	244	502
+"SD"	2012	"Lincoln"	"Dayton Township (Shalom Lutheran Church)"	120	260	385	257	129	386
+"SD"	2012	"Lincoln"	"Delapre Township (Tea City Hall)"	272	618	914	584	310	894
+"SD"	2012	"Lincoln"	"Delaware Township (Delaware Reformed Church)"	24	75	99	63	34	97
+"SD"	2012	"Lincoln"	"Fairview Inc/Fairview Township (Bethany Lutheran Church)"	37	82	123	82	41	123
+"SD"	2012	"Lincoln"	"Grant Township (West Prairie Lutheran Church)"	80	124	209	120	92	212
+"SD"	2012	"Lincoln"	"Harrisburg (United Methodist Church)"	617	932	1574	901	664	1565
+"SD"	2012	"Lincoln"	"Highland/Canton Township (Canton Methodist Church)"	161	274	449	274	171	445
+"SD"	2012	"Lincoln"	"Hudson/Eden Township (Hudson Town Hall)"	90	112	204	114	90	204
+"SD"	2012	"Lincoln"	"LaValley Township (Shalom Lutheran Church)"	88	171	266	167	97	264
+"SD"	2012	"Lincoln"	"Lennox City (Lennox Community Hall)"	411	516	939	531	408	939
+"SD"	2012	"Lincoln"	"Lincoln Township (South Lincoln Rural Water)"	42	77	120	65	55	120
+"SD"	2012	"Lincoln"	"Norway Township (Lands Lutheran Church)"	56	78	137	71	65	136
+"SD"	2012	"Lincoln"	"Perry Township (Lennox Community Hall)"	136	236	377	240	134	374
+"SD"	2012	"Lincoln"	"Sioux Falls 1-11 (First Evangelical Free Church)"	609	1310	1938	1254	668	1922
+"SD"	2012	"Lincoln"	"Sioux Falls 1-12 (First Evangelical Free Church)"	622	964	1614	942	660	1602
+"SD"	2012	"Lincoln"	"Sioux Falls 1-13 (Central Baptist Church)"	301	366	688	357	322	679
+"SD"	2012	"Lincoln"	"Sioux Falls 1-14 (Central Baptist Church)"	277	403	698	383	308	691
+"SD"	2012	"Lincoln"	"Sioux Falls 1-16 (Central Baptist Church)"	325	311	645	285	355	640
+"SD"	2012	"Lincoln"	"Sioux Falls 2-10 (Faith Baptist Fellowship Church)"	454	1120	1593	1063	515	1578
+"SD"	2012	"Lincoln"	"Sioux Falls 2-11 (Faith Baptist Fellowship Church)"	381	887	1277	849	427	1276
+"SD"	2012	"Lincoln"	"Sioux Falls 2-12 (Linwood Wesleyan Church)"	290	477	772	440	322	762
+"SD"	2012	"Lincoln"	"Sioux Falls 2-13 (Linwood Wesleyan Church)"	514	749	1282	697	570	1267
+"SD"	2012	"Lincoln"	"Sioux Falls 2-15 (Faith Baptist Fellowship Church)"	281	537	825	503	320	823
+"SD"	2012	"Lincoln"	"Springdale Township (United Methodist Church)"	326	797	1138	758	380	1138
+"SD"	2012	"Lincoln"	"Tea City (Tea City Hall)"	536	801	1364	790	558	1348
+"SD"	2012	"Lincoln"	"Worthing/Lynn Township (Worthing Civic Center)"	204	302	520	289	230	519
+"SD"	2012	"Lyman"	"#01 IONA (#01 IONA COMMUNITY CENTER)"	11	54	67	40	26	66
+"SD"	2012	"Lyman"	"#04 OACOMA (#04 OACOMA COMMUNITY CENTER)"	155	204	368	207	159	366
+"SD"	2012	"Lyman"	"#06 RELIANCE (#06 RELIANCE METHODIST CHURCH)"	64	96	164	95	72	167
+"SD"	2012	"Lyman"	"#07 LOWER BRULE (#07 GOLDEN BUFFALO CONVENTION CENTER)"	215	23	241	39	201	240
+"SD"	2012	"Lyman"	"#09 KENNEBEC (#09 LYMAN COUNTY COURTHOUSE)"	41	206	253	199	53	252
+"SD"	2012	"Lyman"	"#12 PRESHO (#12 PRESHO METHODIST CHURCH)"	97	260	359	250	106	356
+"SD"	2012	"Lyman"	"#13 VIVIAN (#13 VIVIAN FIRE HALL)"	22	90	117	86	34	120
+"SD"	2012	"Marshall"	"Britton Twps (Britton-Hecla School Auditorium)"	114	88	208	81	132	213
+"SD"	2012	"Marshall"	"Community Bldg (County Community Building)"	105	64	171	66	106	172
+"SD"	2012	"Marshall"	"Community Bldg 3 & Miller (County Community Building)"	142	117	263	105	156	261
+"SD"	2012	"Marshall"	"Eden Area (Eden Community Center)"	74	95	175	101	78	179
+"SD"	2012	"Marshall"	"Fun After Fifty (Fun After Fifty)"	116	113	233	110	123	233
+"SD"	2012	"Marshall"	"Lake City Area (St. Joseph's Catholic Church)"	147	145	296	152	140	292
+"SD"	2012	"Marshall"	"Langford Area (Langford City Hall)"	173	104	284	113	168	281
+"SD"	2012	"Marshall"	"Pl Valley, White, Victor (Britton-Hecla School Auditorium)"	80	75	156	72	85	157
+"SD"	2012	"Marshall"	"Veblen Area (Veblen City Hall)"	110	88	201	102	95	197
+"SD"	2012	"McCook"	"Bridgewater Area (Bridgewater Fire Hall)"	84	353	443	331	113	444
+"SD"	2012	"McCook"	"Canistota Area (Canistota Legion Hall )"	188	349	547	350	193	543
+"SD"	2012	"McCook"	"Montrose Area (Montrose Community Center)"	221	292	526	275	254	529
+"SD"	2012	"McCook"	"Salem Area-Rural (Salem Nat'l Guard Armory)"	124	201	332	213	120	333
+"SD"	2012	"McCook"	"Salem City (Salem Nat'l Guard Armory)"	230	376	620	368	256	624
+"SD"	2012	"McCook"	"Spencer Area (Spencer Community Center)"	58	84	145	77	67	144
+"SD"	2012	"McPherson"	"101 (Long Lake Fire Hall)"	11	42	57	40	15	55
+"SD"	2012	"McPherson"	"central (Eureka Fire Hall)"	45	179	227	171	52	223
+"SD"	2012	"McPherson"	"northeast leola (McPherson County Courthouse)"	44	206	255	193	61	254
+"SD"	2012	"McPherson"	"northwest (Eureka Fire Hall)"	41	206	250	189	63	252
+"SD"	2012	"McPherson"	"southeast leola (McPherson County Courthouse)"	51	138	193	128	68	196
+"SD"	2012	"McPherson"	"southwest (Eureka Fire Hall)"	80	150	233	163	74	237
+"SD"	2012	"Meade"	"Alkali #6A (Alkali Community Hall)"	30	99	134	99	38	137
+"SD"	2012	"Meade"	"Base #23 (Vandenberg School)"	51	178	241	166	59	225
+"SD"	2012	"Meade"	"Bear Butte #9 (Sturgis Community Center)"	33	105	150	120	32	152
+"SD"	2012	"Meade"	"Black Hawk #14 (Black Hawk Fire Department)"	165	349	532	366	159	525
+"SD"	2012	"Meade"	"Central Black Hawk #19 (Black Hawk Fire Department)"	146	345	507	352	153	505
+"SD"	2012	"Meade"	"Central Sturgis #3 (Sturgis Community Center)"	85	143	236	147	88	235
+"SD"	2012	"Meade"	"Chalk Butte #27 (Central Meade Co. Community Center)"	20	117	139	111	30	141
+"SD"	2012	"Meade"	"East Piedmont #12 (Piedmont Community Hall)"	148	491	647	500	146	646
+"SD"	2012	"Meade"	"East Sturgis #1 (Sturgis Community Center)"	86	166	258	176	78	254
+"SD"	2012	"Meade"	"Elk Vale #21 (Vandenberg School)"	69	221	302	229	68	297
+"SD"	2012	"Meade"	"Ellsworth #22 (Vandenberg School)"	22	44	66	43	17	60
+"SD"	2012	"Meade"	"Elm Springs #18 (Elm Springs Fire Department)"	13	60	80	57	19	76
+"SD"	2012	"Meade"	"Fairpoint #29 (Central Meade Co. Community Center)"	12	27	40	28	12	40
+"SD"	2012	"Meade"	"Faith #31 (Faith Community Center)"	44	201	255	208	48	256
+"SD"	2012	"Meade"	"Harmony #8 (Sturgis Community Center)"	75	215	302	217	83	300
+"SD"	2012	"Meade"	"Hereford #20 (Hereford Hall)"	12	41	57	37	21	58
+"SD"	2012	"Meade"	"Marcus #41 (Marcus Church)"	5	34	46	38	6	44
+"SD"	2012	"Meade"	"Northeast Sturgis #1A (Sturgis Community Center)"	58	101	165	108	54	162
+"SD"	2012	"Meade"	"Northwest Sturgis #5 (Sturgis Community Center)"	146	265	423	286	128	414
+"SD"	2012	"Meade"	"Piedmont #11 (Piedmont Community Hall)"	224	497	748	518	223	741
+"SD"	2012	"Meade"	"Pine #33 (Opal School)"	8	83	96	88	7	95
+"SD"	2012	"Meade"	"Red Owl #30 (RNA Hall)"	5	64	71	57	12	69
+"SD"	2012	"Meade"	"Rural Black Hawk #15 (Black Hawk Fire Department)"	109	269	390	269	116	385
+"SD"	2012	"Meade"	"Rural Sturgis #7 (Sturgis Community Center)"	66	183	258	175	86	261
+"SD"	2012	"Meade"	"South Sturgis #2A (Sturgis Community Center)"	111	220	341	218	122	340
+"SD"	2012	"Meade"	"Southeast Piedmont #13 (Piedmont Community Hall)"	260	720	1001	738	255	993
+"SD"	2012	"Meade"	"Southeast Sturgis #2 (Sturgis Community Center)"	141	341	497	342	154	496
+"SD"	2012	"Meade"	"Southwest Sturgis #4A (Sturgis Community Center)"	107	176	291	179	106	285
+"SD"	2012	"Meade"	"Sturgis #5A (Sturgis Community Center)"	64	127	196	123	70	193
+"SD"	2012	"Meade"	"Sulphur #35 (Mud Butte Fire Hall)"	0	46	51	47	3	50
+"SD"	2012	"Meade"	"Summerset #10 (Summerset City Hall)"	234	561	812	570	236	806
+"SD"	2012	"Meade"	"Tilford #6 (Sturgis Community Center)"	189	464	665	460	205	665
+"SD"	2012	"Meade"	"Union #40 (Plainview Hall)"	6	29	36	31	6	37
+"SD"	2012	"Meade"	"Viewfield #17 (New Underwood Community Center)"	12	75	87	73	12	85
+"SD"	2012	"Meade"	"West Black Hawk #16 (Black Hawk Fire Department)"	88	241	334	241	89	330
+"SD"	2012	"Meade"	"West Elk Vale #24 (Vandenberg School)"	30	133	170	134	37	171
+"SD"	2012	"Meade"	"West Sturgis #4 (Sturgis Community Center)"	49	101	154	107	45	152
+"SD"	2012	"Meade"	"White Owl #25 (White Owl Community Hall)"	5	34	39	34	5	39
+"SD"	2012	"Mellette"	"Central (Emergency Services Building)"	107	96	211	110	105	215
+"SD"	2012	"Mellette"	"East (Wood Community Hall)"	32	99	132	98	33	131
+"SD"	2012	"Mellette"	"West (Norris Township Hall)"	107	87	195	109	84	193
+"SD"	2012	"Mellette"	"White River (Emergency Services Building)"	129	99	231	94	136	230
+"SD"	2012	"Miner"	"Beaver, Clinton, Miner (Fedora Fire Hall)"	27	44	76	50	28	78
+"SD"	2012	"Miner"	"Clearwater Howard Roswell Twps  (Howard City Armory)"	65	127	193	114	83	197
+"SD"	2012	"Miner"	"Gr Valley Carthage Redstone Twp (Carthage Fire Hall)"	43	71	120	79	45	124
+"SD"	2012	"Miner"	"Henden Adams Belleview Grafton (Howard City Armory)"	77	106	186	101	89	190
+"SD"	2012	"Miner"	"Howard City Ward 1 (Howard City Armory)"	73	77	152	66	83	149
+"SD"	2012	"Miner"	"Howard City Ward 2 (Howard City Armory)"	69	71	142	69	75	144
+"SD"	2012	"Miner"	"Howard City Ward 3 (Howard City Armory)"	50	71	125	70	52	122
+"SD"	2012	"Miner"	"Vermillion, Canova, Rock Creek- (Canova C.A.R.E. Center)"	75	69	146	74	75	149
+"SD"	2012	"Minnehaha"	"1-10 (JFK School)"	663	732	1426	705	711	1416
+"SD"	2012	"Minnehaha"	"1-17 (RF Pettigrew Elementary School)"	506	678	1206	630	553	1183
+"SD"	2012	"Minnehaha"	"1-2 (St Mark's Lutheran Church)"	258	322	587	306	284	590
+"SD"	2012	"Minnehaha"	"1-3 (O'Gorman High School)"	541	775	1330	730	539	1269
+"SD"	2012	"Minnehaha"	"1-4 (Including: 1-5) (Center for Active Generations)"	889	915	1847	882	922	1804
+"SD"	2012	"Minnehaha"	"1-6 (Sunnycrest United Methodist Church)"	643	658	1335	642	680	1322
+"SD"	2012	"Minnehaha"	"1-8 (Kuehn Community Center)"	383	494	887	468	413	881
+"SD"	2012	"Minnehaha"	"1-9 (Peace Lutheran Church)"	609	624	1257	604	637	1241
+"SD"	2012	"Minnehaha"	"2-1 (VFW Club)"	521	792	1327	734	574	1308
+"SD"	2012	"Minnehaha"	"2-14 (John Harris School)"	683	1022	1725	938	774	1712
+"SD"	2012	"Minnehaha"	"2-2 (Ronning Branch Library)"	581	1000	1591	954	620	1574
+"SD"	2012	"Minnehaha"	"2-3 (Morningside Community Center)"	634	703	1359	679	670	1349
+"SD"	2012	"Minnehaha"	"2-4 (Holy Apostles Episcopal Church)"	504	361	877	352	521	873
+"SD"	2012	"Minnehaha"	"2-6 (Hillcrest Baptist Church)"	595	721	1340	686	642	1328
+"SD"	2012	"Minnehaha"	"2-7 (Lord of Life Lutheran Church)"	604	959	1586	912	666	1578
+"SD"	2012	"Minnehaha"	"2-8 (Avera Prince of Peace Retirement Community)"	448	720	1182	691	497	1188
+"SD"	2012	"Minnehaha"	"2-9 (Calvary Assembly of God)"	508	662	1192	618	562	1180
+"SD"	2012	"Minnehaha"	"3-10 (Memorial Middle School)"	693	1004	1718	968	731	1699
+"SD"	2012	"Minnehaha"	"3-11 (Church at the Gate)"	361	601	973	576	397	973
+"SD"	2012	"Minnehaha"	"3-12 (MariCar Community Center)"	549	538	1123	551	562	1113
+"SD"	2012	"Minnehaha"	"3-14 (Southeast Technical Institute)"	510	590	1129	570	545	1115
+"SD"	2012	"Minnehaha"	"3-15 (St Michael's Catholic Church)"	568	724	1332	685	634	1319
+"SD"	2012	"Minnehaha"	"3-16 (Memorial Middle School)"	324	546	885	516	355	871
+"SD"	2012	"Minnehaha"	"3-17 (Discovery Elementary School)"	516	727	1262	688	563	1251
+"SD"	2012	"Minnehaha"	"3-5 (Sioux Falls Arena)"	411	314	743	289	431	720
+"SD"	2012	"Minnehaha"	"3-6 (Axtell Park Middle School)"	617	405	1062	411	635	1046
+"SD"	2012	"Minnehaha"	"3-7 (Oyate Community Center)"	559	399	988	393	591	984
+"SD"	2012	"Minnehaha"	"3-8 (Trinity Baptist Church)"	221	245	471	228	233	461
+"SD"	2012	"Minnehaha"	"3-9 (Girl Scouts Dakota Horizons)"	984	1195	2221	1113	992	2105
+"SD"	2012	"Minnehaha"	"4-1 (Including: 5-15) (Minnehaha County Administration Building)"	633	311	972	327	629	956
+"SD"	2012	"Minnehaha"	"4-10 (St Lambert's Catholic Church)"	487	506	1013	495	511	1006
+"SD"	2012	"Minnehaha"	"4-11 (Wild Flower Presbyterian Church)"	693	916	1624	886	729	1615
+"SD"	2012	"Minnehaha"	"4-12 (Hilltop United Methodist Church)"	546	556	1120	538	559	1097
+"SD"	2012	"Minnehaha"	"4-2 (Emmanuel Baptist Church)"	437	317	780	314	450	764
+"SD"	2012	"Minnehaha"	"4-3 (Terry Redlin School)"	284	200	499	197	301	498
+"SD"	2012	"Minnehaha"	"4-4 (Wesley United Methodist Church)"	525	281	821	283	539	822
+"SD"	2012	"Minnehaha"	"4-5 (Fire Station # 7)"	465	364	850	372	467	839
+"SD"	2012	"Minnehaha"	"4-6 (Laura B Anderson School)"	254	153	419	162	253	415
+"SD"	2012	"Minnehaha"	"4-7 (Including: 4-8) (Oak View Library)"	803	706	1540	685	838	1523
+"SD"	2012	"Minnehaha"	"4-9 (Grace Lutheran Church)"	559	416	1000	404	584	988
+"SD"	2012	"Minnehaha"	"5-1 (Including: 5-2) (First United Methodist Church)"	754	381	1175	392	769	1161
+"SD"	2012	"Minnehaha"	"5-10 (First Presbyterian Church)"	372	361	754	337	412	749
+"SD"	2012	"Minnehaha"	"5-11 (Volunteers of America)"	321	287	630	290	334	624
+"SD"	2012	"Minnehaha"	"5-12 (Instructional Planning Center)"	382	343	740	340	387	727
+"SD"	2012	"Minnehaha"	"5-13 (Instructional Planning Center)"	355	369	744	348	390	738
+"SD"	2012	"Minnehaha"	"5-14 (Jefferson School)"	551	436	1020	436	570	1006
+"SD"	2012	"Minnehaha"	"5-17 (Asbury United Methodist Church)"	306	360	680	345	325	670
+"SD"	2012	"Minnehaha"	"5-18 (Hawthorne School)"	646	447	1127	442	674	1116
+"SD"	2012	"Minnehaha"	"5-3 (Zion Lutheran Church)"	253	188	460	198	257	455
+"SD"	2012	"Minnehaha"	"5-4 (Longfellow School)"	536	366	927	355	563	918
+"SD"	2012	"Minnehaha"	"5-6 (Horace Mann School)"	557	513	1091	503	583	1086
+"SD"	2012	"Minnehaha"	"5-7 (Patrick Henry Middle School)"	308	309	623	291	334	625
+"SD"	2012	"Minnehaha"	"5-8 (Instructional Planning Center)"	490	449	953	428	522	950
+"SD"	2012	"Minnehaha"	"5-9 (Our Savior's Lutheran Church)"	254	220	491	232	249	481
+"SD"	2012	"Minnehaha"	"VP-1 (Valley Springs Elementary School)"	244	445	713	419	288	707
+"SD"	2012	"Minnehaha"	"VP-10 (Garretson Senior Citizens Center)"	465	607	1096	577	523	1100
+"SD"	2012	"Minnehaha"	"VP-11 (Lutheran Church of Dell Rapids)"	368	570	953	535	405	940
+"SD"	2012	"Minnehaha"	"VP-12 (Heesch Farm)"	47	91	140	83	55	138
+"SD"	2012	"Minnehaha"	"VP-13 (Taopi Community Hall)"	325	521	863	535	326	861
+"SD"	2012	"Minnehaha"	"VP-15 (Brandon Fire Station)"	550	837	1412	786	609	1395
+"SD"	2012	"Minnehaha"	"VP-16 (Crooks Community Center)"	397	567	980	528	443	971
+"SD"	2012	"Minnehaha"	"VP-17 (Wall Lake Township Hall)"	237	396	649	393	254	647
+"SD"	2012	"Minnehaha"	"VP-2 (Split Rock Fire Station)"	611	1269	1913	1215	682	1897
+"SD"	2012	"Minnehaha"	"VP-21 (Lutheran Church of Dell Rapids)"	404	685	1116	664	438	1102
+"SD"	2012	"Minnehaha"	"VP-3 (Brandon Fire Station)"	770	1455	2263	1394	810	2204
+"SD"	2012	"Minnehaha"	"VP-4 (Mapleton Township Hall)"	489	611	1115	578	531	1109
+"SD"	2012	"Minnehaha"	"VP-5 (Brandon Fire Station)"	538	814	1380	797	566	1363
+"SD"	2012	"Minnehaha"	"VP-6 (MariCar Community Center)"	219	345	577	319	266	585
+"SD"	2012	"Minnehaha"	"VP-7 (Hartford Senior Citizens Center)"	636	827	1509	820	683	1503
+"SD"	2012	"Minnehaha"	"VP-8 (Humboldt Community Center)"	239	420	685	425	263	688
+"SD"	2012	"Minnehaha"	"VP-9 (Baltic Fire Station)"	481	701	1205	673	522	1195
+"SD"	2012	"Moody"	"#1 - Extension (Flandreau Extension Building)"	312	219	545	216	333	549
+"SD"	2012	"Moody"	"#2 - Ct House (Moody County Courthouse-1st Floor)"	337	189	536	200	345	545
+"SD"	2012	"Moody"	"#3 - Trent (Trent Fire Hall)"	209	347	567	355	209	564
+"SD"	2012	"Moody"	"#3/4B - Extension (Flandreau Extension Building)"	155	194	356	193	163	356
+"SD"	2012	"Moody"	"#4 - Egan (Egan Senior Citizens Building)"	155	204	365	205	153	358
+"SD"	2012	"Moody"	"#5 - Colman (Colman Community Center)"	261	382	664	380	287	667
+"SD"	2012	"Pennington"	"1-1 (First Assembly of God Church)"	401	835	1267	826	421	1247
+"SD"	2012	"Pennington"	"1-2 (St Paul's Ev Lutheran School)"	675	1199	1923	1207	712	1919
+"SD"	2012	"Pennington"	"1-3 (Grandview School)"	730	1622	2384	1590	767	2357
+"SD"	2012	"Pennington"	"1-4 (West River Elec Assn)"	233	435	685	429	251	680
+"SD"	2012	"Pennington"	"2-1 (Rapid City Public Library)"	62	58	123	71	51	122
+"SD"	2012	"Pennington"	"2-2 (Bethel Assembly of God Church (Atrium))"	52	72	127	65	59	124
+"SD"	2012	"Pennington"	"2-3 (Walter Taylor 4H Bldg (Fairgrounds))"	473	698	1224	734	479	1213
+"SD"	2012	"Pennington"	"2-4 (South Middle School)"	1011	1134	2226	1207	990	2197
+"SD"	2012	"Pennington"	"2-5 (Rapid City Public Library)"	96	89	199	92	99	191
+"SD"	2012	"Pennington"	"3-1 (Jackson Heights Highrise)"	257	426	700	436	260	696
+"SD"	2012	"Pennington"	"3-2 (Calvary Lutheran Church)"	776	2078	2895	2016	859	2875
+"SD"	2012	"Pennington"	"3-3 (Southwest Middle School)"	233	468	720	458	252	710
+"SD"	2012	"Pennington"	"3-4 (Meadowbrook School)"	1072	1903	3036	1907	1102	3009
+"SD"	2012	"Pennington"	"4-1 (Horace Mann School)"	173	237	423	247	167	414
+"SD"	2012	"Pennington"	"4-2 (Bethel Assembly of God Church (Atrium))"	593	754	1380	779	574	1353
+"SD"	2012	"Pennington"	"4-3 (Lakota Homes Community Center)"	439	594	1063	594	464	1058
+"SD"	2012	"Pennington"	"4-4 (General Beadle School)"	539	453	1016	495	508	1003
+"SD"	2012	"Pennington"	"4-5 (Atonement Lutheran Church)"	137	251	397	252	139	391
+"SD"	2012	"Pennington"	"5-1 (Horace Mann School)"	265	378	651	377	271	648
+"SD"	2012	"Pennington"	"5-2 (Canyon Lake Senior Center)"	740	1048	1837	1073	745	1818
+"SD"	2012	"Pennington"	"5-3 (Pinedale School)"	769	1380	2200	1373	810	2183
+"SD"	2012	"Pennington"	"5-4 (West Park Apartments)"	733	785	1559	777	768	1545
+"SD"	2012	"Pennington"	"BE (Box Elder VFD)"	379	748	1165	784	367	1151
+"SD"	2012	"Pennington"	"CA (Caputa Community Center)"	72	335	418	334	83	417
+"SD"	2012	"Pennington"	"CL (Canyon Lake Senior Center)"	151	311	470	302	166	468
+"SD"	2012	"Pennington"	"CR (Creighton Community Hall)"	5	55	62	54	8	62
+"SD"	2012	"Pennington"	"DT (Doty VFD)"	262	674	951	677	272	949
+"SD"	2012	"Pennington"	"EL (Box Elder VFD)"	108	179	294	187	102	289
+"SD"	2012	"Pennington"	"HC (Hill City Senior Center)"	306	750	1094	769	320	1089
+"SD"	2012	"Pennington"	"HR (Rapid City Christian School at Hart Ranch)"	67	265	344	263	79	342
+"SD"	2012	"Pennington"	"JS (Johnson Siding Community Center)"	334	897	1252	893	352	1245
+"SD"	2012	"Pennington"	"KY (Keystone Community Center)"	141	354	510	358	147	505
+"SD"	2012	"Pennington"	"NH (Atonement Lutheran Church)"	537	1161	1735	1114	494	1608
+"SD"	2012	"Pennington"	"NU (New Underwood Community Center)"	115	434	561	438	121	559
+"SD"	2012	"Pennington"	"QU (Quinn Community Center)"	24	149	178	151	26	177
+"SD"	2012	"Pennington"	"RH (Rochford VFD)"	20	43	64	41	22	63
+"SD"	2012	"Pennington"	"RK (Rockerville VFD)"	368	1039	1440	1036	370	1406
+"SD"	2012	"Pennington"	"RV (Rapid Valley School)"	381	752	1175	765	391	1156
+"SD"	2012	"Pennington"	"SC (Scenic Community Center)"	14	64	79	69	11	80
+"SD"	2012	"Pennington"	"VF (Rapid Valley Fire VFD)"	217	455	698	468	224	692
+"SD"	2012	"Pennington"	"VS (Rapid Valley Sanitary District)"	269	566	865	588	270	858
+"SD"	2012	"Pennington"	"VV (Valley View School)"	326	611	963	629	332	961
+"SD"	2012	"Pennington"	"WL (Wall Community Center)"	107	314	428	327	102	429
+"SD"	2012	"Pennington"	"WP (Whispering Pines VFD)"	447	1115	1599	1102	490	1592
+"SD"	2012	"Pennington"	"WS (Wasta Community Center)"	16	64	84	64	19	83
+"SD"	2012	"Perkins"	"Beckman Mem Church Pct #7 (Beckman Memorial Church)"	8	103	112	102	11	113
+"SD"	2012	"Perkins"	"Beeler Com Ctr Precinct #1 (Beeler Community Building)"	90	195	303	186	102	288
+"SD"	2012	"Perkins"	"Beeler Com Ctr Precinct #3 (Beeler Community Building)"	71	193	272	189	79	268
+"SD"	2012	"Perkins"	"Beeler Com Ctr Precinct #4 (Beeler Community Building)"	19	45	66	49	16	65
+"SD"	2012	"Perkins"	"Beeler Com Ctr Precinct #5 (Beeler Community Building)"	27	99	134	105	29	134
+"SD"	2012	"Perkins"	"Bison Precinct #12 (Bentley Memorial Building)"	53	268	334	266	65	331
+"SD"	2012	"Perkins"	"Faith Com Center Precinct #8 (Faith Community Center)"	4	54	58	52	7	59
+"SD"	2012	"Perkins"	"Indian Creek Precinct #6 (Indian Creek Church)"	22	95	126	100	26	126
+"SD"	2012	"Perkins"	"Lodgepole Precinct #2 (Lodgepole Hall)"	22	82	109	81	28	109
+"SD"	2012	"Perkins"	"Zeona Church Precinct #9 (Zeona Church)"	3	71	76	67	6	73
+"SD"	2012	"Potter"	"23 (Including: 25, 26, 27) (Gettysburg Legion Annex)"	200	581	788	547	237	784
+"SD"	2012	"Potter"	"35 (Including: 36) (Hoven American Legion)"	68	269	342	243	97	340
+"SD"	2012	"Potter"	"Absentee Precinct"	71	179	251	162	83	245
+"SD"	2012	"Roberts"	"1 (Claire City Community Center)"	84	82	166	83	80	163
+"SD"	2012	"Roberts"	"10 (Roberts County 4-H Building)"	208	75	283	84	198	282
+"SD"	2012	"Roberts"	"11 (St. Peters Hall)"	449	329	788	352	438	790
+"SD"	2012	"Roberts"	"12 (St. Peters Hall)"	133	93	229	93	128	221
+"SD"	2012	"Roberts"	"13 (St. Peters Hall)"	219	133	358	156	204	360
+"SD"	2012	"Roberts"	"14 (St. Peters Hall)"	84	66	152	60	91	151
+"SD"	2012	"Roberts"	"2 (Corona Community Center)"	148	269	428	266	159	425
+"SD"	2012	"Roberts"	"3 (New Effington Community Center)"	109	101	218	118	104	222
+"SD"	2012	"Roberts"	"4 (Ortley Senior Citizens Center)"	54	29	83	35	47	82
+"SD"	2012	"Roberts"	"5 (Peever Lutheran Church)"	288	123	413	143	272	415
+"SD"	2012	"Roberts"	"6 (Rosholt Community Center)"	118	173	305	195	110	305
+"SD"	2012	"Roberts"	"7 (Rosholt Community Center)"	112	138	252	148	104	252
+"SD"	2012	"Roberts"	"8 (Summit Fire Hall)"	69	38	112	35	78	113
+"SD"	2012	"Roberts"	"9 (Wilmot Community Center)"	227	234	469	249	219	468
+"SD"	2012	"Sanborn"	"#1 (Artesian Community Center)"	97	159	264	156	109	265
+"SD"	2012	"Sanborn"	"#2 (Letcher Community Center)"	101	206	318	211	106	317
+"SD"	2012	"Sanborn"	"#4 (Woonsocket Community Center)"	107	163	282	166	118	284
+"SD"	2012	"Sanborn"	"#5 (Woonsocket Community Center)"	84	160	251	160	92	252
+"SD"	2012	"Shannon"	"Batesland (Bateland Fire Hall)"	104	40	148	52	96	148
+"SD"	2012	"Shannon"	"Cuny Table (Red Shirt School)"	46	13	59	17	38	55
+"SD"	2012	"Shannon"	"Kyle (Cap Office Kyle)"	477	19	497	78	417	495
+"SD"	2012	"Shannon"	"Manderson (Cap Office Manderson)"	238	6	246	42	200	242
+"SD"	2012	"Shannon"	"Oglala (Cap Office Oglala)"	443	30	476	86	382	468
+"SD"	2012	"Shannon"	"Pine Ridge 1 (Billy Mills Hall)"	670	24	699	80	609	689
+"SD"	2012	"Shannon"	"Pine Ridge 3 (Billy Mills Hall)"	460	30	493	73	410	483
+"SD"	2012	"Shannon"	"Porcupine (Brotherhood Clinic)"	422	15	439	58	378	436
+"SD"	2012	"Shannon"	"Rockyford (Singing Horse Trading Post)"	77	11	88	18	69	87
+"SD"	2012	"Spink"	"#1 (Doland Senior Citizen Center)"	141	262	414	259	158	417
+"SD"	2012	"Spink"	"#10 (Redfield National Guard Armory)"	262	243	516	236	280	516
+"SD"	2012	"Spink"	"#3 (Tulare Community Hall)"	114	204	326	201	127	328
+"SD"	2012	"Spink"	"#4 (Redfield National Guard Armory)"	109	178	292	177	116	293
+"SD"	2012	"Spink"	"#5 (Frankfort Community Center)"	90	98	190	99	93	192
+"SD"	2012	"Spink"	"#6 (Ashton Community Hall)"	59	72	133	66	68	134
+"SD"	2012	"Spink"	"#7 (Northwestern United Methodist Church)"	191	267	468	236	233	469
+"SD"	2012	"Spink"	"#8 (Conde Community Center)"	70	79	155	68	87	155
+"SD"	2012	"Spink"	"#9 (Redfield National Guard Armory)"	264	267	547	283	269	552
+"SD"	2012	"Stanley"	"#1 Fort Pierre (Community Youth Involved Center)"	411	917	1367	874	492	1366
+"SD"	2012	"Stanley"	"#2 McQuistion Farmstead (McQuistion Farmstead)"	9	53	62	47	14	61
+"SD"	2012	"Stanley"	"#3 Hayes (Hayes Hall)"	15	93	111	92	19	111
+"SD"	2012	"Sully"	"1 (Bill Floyd Shop)"	16	76	92	71	19	90
+"SD"	2012	"Sully"	"2 (Including: 3, 4, 5) (Phoenix Center)"	105	365	485	351	129	480
+"SD"	2012	"Sully"	"6 (Agar Hall)"	23	75	100	73	30	103
+"SD"	2012	"Sully"	"Absentee Precinct"	42	97	141	101	40	141
+"SD"	2012	"Todd"	"Bordeaux (Spring Creek School)"	65	17	82	24	57	81
+"SD"	2012	"Todd"	"Jeanette (Littleburg School)"	11	66	81	60	16	76
+"SD"	2012	"Todd"	"Lakeview (Lakeview School)"	14	115	130	110	20	130
+"SD"	2012	"Todd"	"Mission-N. Antelope (St. Thomas Hall)"	466	106	577	140	435	575
+"SD"	2012	"Todd"	"O'Kreek (O'Kreek School)"	100	38	139	44	95	139
+"SD"	2012	"Todd"	"Parmelee (Parmelee Community Hall)"	286	19	307	67	238	305
+"SD"	2012	"Todd"	"Rosebud (Clark Hall )"	431	42	477	84	386	470
+"SD"	2012	"Todd"	"South Antelope (St. Thomas Hall)"	244	77	326	90	238	328
+"SD"	2012	"Todd"	"St. Francis (St. Francis Oyate Networking Building)"	359	18	378	68	302	370
+"SD"	2012	"Tripp"	"Clearfield  (Clearfield Hall)"	40	115	162	112	54	166
+"SD"	2012	"Tripp"	"Colome (Skatetown)"	89	276	374	263	112	375
+"SD"	2012	"Tripp"	"Hamill (Hamill Hall)"	11	82	97	78	18	96
+"SD"	2012	"Tripp"	"Ideal (First Presbyterian Church)"	23	68	91	71	21	92
+"SD"	2012	"Tripp"	"Lake (Skatetown)"	25	123	150	120	33	153
+"SD"	2012	"Tripp"	"Lamro (4-H Center)"	86	231	321	218	107	325
+"SD"	2012	"Tripp"	"Sully (4-H Center)"	31	69	103	66	39	105
+"SD"	2012	"Tripp"	"Winner City E 2nd (4-H Center)"	68	155	224	150	78	228
+"SD"	2012	"Tripp"	"Winner City E 3rd (4-H Center)"	97	220	318	221	97	318
+"SD"	2012	"Tripp"	"Winner City SE 1st (4-H Center)"	39	109	149	112	40	152
+"SD"	2012	"Tripp"	"Winner City W 2nd (4-H Center)"	121	249	380	267	115	382
+"SD"	2012	"Tripp"	"Winner City W 3rd (4-H Center)"	74	117	195	114	82	196
+"SD"	2012	"Tripp"	"Witten (Witten Hall)"	33	91	127	95	34	129
+"SD"	2012	"Turner"	"Brothersfield/Home/Parker (Parker City Community Building)"	300	575	890	560	329	889
+"SD"	2012	"Turner"	"Centerville/Turner (Good Shepherd Pascale Hall)"	214	349	577	331	245	576
+"SD"	2012	"Turner"	"Chancellor/Germantown (Chancellor City Hall)"	92	234	335	220	114	334
+"SD"	2012	"Turner"	"Childstown/Salem/Spring Valley (Spring Valley Lutheran Church)"	90	200	292	197	98	295
+"SD"	2012	"Turner"	"Dolton/Monroe/Marion/Rosefield (Marion Legion Hall)"	226	609	857	569	291	860
+"SD"	2012	"Turner"	"Irene/Daneville (Irene Town Community Building)"	77	108	189	111	79	190
+"SD"	2012	"Turner"	"Norway/Hurley/Davis/Middleton (Hurley Senior Citizen Center)"	210	352	567	344	222	566
+"SD"	2012	"Turner"	"Viborg/Swan Lake (Viborg City Hall)"	202	288	503	273	224	497
+"SD"	2012	"Union"	"1 Alcester City Hall (Alcester City Hall)"	133	212	349	215	135	350
+"SD"	2012	"Union"	"10 North Sioux Community Center (North Sioux City Community Center-Fire Hall)"	266	276	549	298	232	530
+"SD"	2012	"Union"	"11 North Sioux Community Center (North Sioux City Community Center-Fire Hall)"	262	400	674	440	218	658
+"SD"	2012	"Union"	"12 Blessed Teresa Church (Blessed Teresa Catholic Church)"	137	646	789	666	115	781
+"SD"	2012	"Union"	"13 Holy Cross Lutheran Church (Holy Cross Lutheran Church)"	308	833	1151	845	290	1135
+"SD"	2012	"Union"	"2 Alcester City Hall (Alcester City Hall)"	187	227	421	216	198	414
+"SD"	2012	"Union"	"3 Union County Courthouse (Union County Courthouse)"	348	390	760	427	322	749
+"SD"	2012	"Union"	"4 Big Springs Baptist Church (Big Springs Baptist Church)"	181	215	407	209	194	403
+"SD"	2012	"Union"	"5 Beresford Public Library (Beresford Public Library)"	220	262	490	272	219	491
+"SD"	2012	"Union"	"6 Beresford Public Library (Beresford Public Library)"	255	342	606	344	263	607
+"SD"	2012	"Union"	"7 St. Peter's Community Center (St. Peter's Community Center)"	160	377	544	399	129	528
+"SD"	2012	"Union"	"8 Union County Courthouse (Union County Courthouse)"	130	282	420	298	120	418
+"SD"	2012	"Union"	"9 St. Peter's Community Center (St. Peter's Community Center)"	195	236	436	256	176	432
+"SD"	2012	"Walworth"	"#1 (Akaska Community Center)"	33	146	180	153	28	181
+"SD"	2012	"Walworth"	"#2 (Java Community Center)"	51	121	182	113	67	180
+"SD"	2012	"Walworth"	"#3 (Selby Senior Citizens Center)"	91	341	440	330	110	440
+"SD"	2012	"Walworth"	"#4 (Scherr Howe Arena)"	80	222	307	204	102	306
+"SD"	2012	"Walworth"	"#5 (Scherr Howe Arena)"	121	276	412	276	135	411
+"SD"	2012	"Walworth"	"#6 (Scherr Howe Arena)"	150	320	484	333	144	477
+"SD"	2012	"Walworth"	"#7 (Scherr Howe Arena)"	145	305	457	305	156	461
+"SD"	2012	"Yankton"	"1 (Including: 28) (Yankton City Hall)"	696	711	1469	623	837	1460
+"SD"	2012	"Yankton"	"11 (Including: 14, 23) (Broomtree Retreat & Conference Center)"	146	196	349	178	166	344
+"SD"	2012	"Yankton"	"12 (Including: 13, 16, 17, 18, 19, 24, 25) (Lesterville Fire Hall)"	81	189	281	169	115	284
+"SD"	2012	"Yankton"	"2 (Including: 3) (Yankton Middle School)"	710	862	1616	789	827	1616
+"SD"	2012	"Yankton"	"26 (The Rock House)"	195	406	619	367	248	615
+"SD"	2012	"Yankton"	"4 (Including: 5) (JoDean's Steakhouse & Lounge)"	521	754	1308	681	617	1298
+"SD"	2012	"Yankton"	"9 (Including: 10, 22, 29) (Gayville Community Center)"	194	210	420	195	221	416
+"SD"	2012	"Yankton"	"Absentee Precinct"	1683	2167	3912	1866	2029	3895
+"SD"	2012	"Ziebach"	"Bridger (Bridger Community Center)"	35	10	45	13	33	46
+"SD"	2012	"Ziebach"	"Cherry Creek (Cherry Creek Nutrition Center)"	69	5	74	23	50	73
+"SD"	2012	"Ziebach"	"Davis (Eagle Butte Upper Elementary School)"	106	65	171	73	95	168
+"SD"	2012	"Ziebach"	"Glad Valley (Glad Valley Fire Hall)"	13	50	64	46	19	65
+"SD"	2012	"Ziebach"	"North Dupree (Dupree City Finance Office)"	43	28	72	27	43	70
+"SD"	2012	"Ziebach"	"Red Scaffold (Red Scaffold Nutrition Center)"	46	11	57	18	38	56
+"SD"	2012	"Ziebach"	"Redelm (Harry's Hall)"	74	75	150	71	79	150
+"SD"	2012	"Ziebach"	"South Dupree (1st Floor Courthouse)"	53	70	128	82	46	128

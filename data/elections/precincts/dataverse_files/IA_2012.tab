@@ -1,0 +1,1688 @@
+state	year	county	precinct	cd	g2012_USP_rv	g2012_USP_dv	g2012_USP_tv	g2012_USH_rv	g2012_USH_dv	g2012_USH_tv
+"IA"	2012	"Adair"	"1NW"	3	473	330	826	546	221	806
+"IA"	2012	"Adair"	"2NE"	3	384	384	790	454	268	765
+"IA"	2012	"Adair"	"3SW"	3	455	314	783	492	232	766
+"IA"	2012	"Adair"	"4SE"	3	390	356	761	446	258	736
+"IA"	2012	"Adair"	"5GF"	3	412	406	836	474	291	812
+"IA"	2012	"Adams"	"ADAMS 1"	3	198	199	406	216	171	403
+"IA"	2012	"Adams"	"ADAMS 2"	3	242	194	443	249	153	432
+"IA"	2012	"Adams"	"ADAMS 3"	3	183	245	444	238	175	434
+"IA"	2012	"Adams"	"ADAMS 4"	3	264	197	466	287	155	459
+"IA"	2012	"Adams"	"ADAMS 5"	3	221	193	426	247	151	417
+"IA"	2012	"Allamakee"	"PCT 1 - WL/HV"	1	95	156	258	101	144	253
+"IA"	2012	"Allamakee"	"PCT 10 - WK 2"	1	241	402	650	268	351	629
+"IA"	2012	"Allamakee"	"PCT 11 - WK 3"	1	257	337	607	278	293	578
+"IA"	2012	"Allamakee"	"PCT 2 - FC/JF/LL/MK/UP"	1	672	551	1251	668	510	1195
+"IA"	2012	"Allamakee"	"PCT 3 - PO/FK"	1	206	122	331	198	117	321
+"IA"	2012	"Allamakee"	"PCT 4 - PV CITY"	1	263	261	530	241	249	498
+"IA"	2012	"Allamakee"	"PCT 5 - LT/PC/WV CITY"	1	220	167	398	221	164	393
+"IA"	2012	"Allamakee"	"PCT 6 - FV/TL/HF CITY"	1	173	278	456	157	269	431
+"IA"	2012	"Allamakee"	"PCT 7 - CN/LF/LS/LS CITY"	1	487	680	1182	446	646	1113
+"IA"	2012	"Allamakee"	"PCT 8 - IA/UC/NA/NA CITY"	1	279	212	504	286	175	474
+"IA"	2012	"Allamakee"	"PCT 9 - WK 1"	1	371	387	767	362	353	728
+"IA"	2012	"Appanoose"	"Centerville Ward 1"	2	394	443	848	352	449	823
+"IA"	2012	"Appanoose"	"Centerville Ward 2"	2	346	456	825	320	454	787
+"IA"	2012	"Appanoose"	"Centerville Ward 3"	2	347	418	790	313	418	751
+"IA"	2012	"Appanoose"	"Cincinnati"	2	219	201	429	174	217	399
+"IA"	2012	"Appanoose"	"Exline"	2	118	101	228	105	110	219
+"IA"	2012	"Appanoose"	"Moravia"	2	305	246	567	272	263	549
+"IA"	2012	"Appanoose"	"Moulton"	2	274	186	473	262	186	458
+"IA"	2012	"Appanoose"	"Mystic"	2	198	229	433	178	228	416
+"IA"	2012	"Appanoose"	"Numa"	2	211	170	386	182	183	372
+"IA"	2012	"Appanoose"	"Plano"	2	162	135	299	143	135	286
+"IA"	2012	"Appanoose"	"Union Township"	2	74	29	103	65	29	96
+"IA"	2012	"Appanoose"	"Unionville"	2	112	82	196	102	85	190
+"IA"	2012	"Appanoose"	"Vermillion/Douglas/Sharon"	2	401	255	668	354	260	631
+"IA"	2012	"Audubon"	"Precinct One"	4	1062	838	1925	1025	817	1883
+"IA"	2012	"Audubon"	"Precinct Two"	4	740	773	1532	732	714	1486
+"IA"	2012	"Benton"	"Belle Plaine 1"	1	216	234	458	197	240	444
+"IA"	2012	"Benton"	"Belle Plaine 2"	1	166	182	353	156	182	341
+"IA"	2012	"Benton"	"Belle Plaine 3"	1	152	226	383	145	223	374
+"IA"	2012	"Benton"	"Benton-Canton-Shellsburg"	1	745	779	1552	698	776	1509
+"IA"	2012	"Benton"	"Big Grove-Union-Van Horne"	1	372	326	710	349	333	688
+"IA"	2012	"Benton"	"Bruce-Cedar-Mt Auburn"	1	329	161	496	323	161	492
+"IA"	2012	"Benton"	"Eden-Harrison-Taylor"	1	504	348	875	470	367	856
+"IA"	2012	"Benton"	"Eldorado-Newhall"	1	327	322	666	308	332	648
+"IA"	2012	"Benton"	"Florence-St Clair-Norway"	1	393	445	854	370	434	823
+"IA"	2012	"Benton"	"Fremont-Atkins"	1	787	609	1421	749	604	1377
+"IA"	2012	"Benton"	"Homer-Monroe-Jackson-Garrison"	1	303	274	582	289	269	565
+"IA"	2012	"Benton"	"Iowa-Leroy-Luzerne-Blairstown"	1	440	357	808	403	358	775
+"IA"	2012	"Benton"	"Kane-Keystone"	1	246	218	476	237	216	458
+"IA"	2012	"Benton"	"Polk-Urbana"	1	567	669	1254	554	648	1224
+"IA"	2012	"Benton"	"Vinton 1"	1	297	378	680	284	370	662
+"IA"	2012	"Benton"	"Vinton 2"	1	205	313	523	199	302	514
+"IA"	2012	"Benton"	"Vinton 3"	1	318	403	726	296	390	698
+"IA"	2012	"Benton"	"Vinton 4"	1	310	331	651	305	320	634
+"IA"	2012	"Benton"	"Walford"	1	263	287	555	241	294	544
+"IA"	2012	"Black Hawk"	"Barclay Lester Dunkerton"	1	560	505	1089	530	520	1064
+"IA"	2012	"Black Hawk"	"Bennington"	1	176	107	292	168	115	285
+"IA"	2012	"Black Hawk"	"Big Creek La Porte"	1	622	690	1340	558	734	1307
+"IA"	2012	"Black Hawk"	"Black Hawk Hudson Lincoln"	1	1055	812	1894	973	862	1850
+"IA"	2012	"Black Hawk"	"CF W1 P1"	1	402	651	1077	361	683	1055
+"IA"	2012	"Black Hawk"	"CF W1 P2"	1	749	1084	1874	662	1149	1824
+"IA"	2012	"Black Hawk"	"CF W1 P3"	1	532	924	1493	502	950	1466
+"IA"	2012	"Black Hawk"	"CF W2 P1"	1	177	290	486	166	270	439
+"IA"	2012	"Black Hawk"	"CF W2 P2 & CF Twp"	1	808	853	1694	743	865	1620
+"IA"	2012	"Black Hawk"	"CF W2 P3"	1	1186	1024	2230	1076	1072	2160
+"IA"	2012	"Black Hawk"	"CF W3 P1"	1	815	643	1480	758	677	1443
+"IA"	2012	"Black Hawk"	"CF W3 P2"	1	954	754	1722	849	826	1682
+"IA"	2012	"Black Hawk"	"CF W3 P3"	1	490	663	1179	440	641	1089
+"IA"	2012	"Black Hawk"	"CF W4 P1"	1	709	937	1681	660	946	1624
+"IA"	2012	"Black Hawk"	"CF W4 P2"	1	356	722	1119	331	694	1036
+"IA"	2012	"Black Hawk"	"CF W4 P3"	1	350	676	1052	307	613	933
+"IA"	2012	"Black Hawk"	"CF W5 P1"	1	655	898	1586	600	940	1553
+"IA"	2012	"Black Hawk"	"CF W5 P2"	1	634	856	1511	598	860	1465
+"IA"	2012	"Black Hawk"	"CF W5 P3"	1	835	707	1559	759	756	1524
+"IA"	2012	"Black Hawk"	"Cedar Orange"	1	509	615	1140	468	647	1127
+"IA"	2012	"Black Hawk"	"Eagle"	1	195	97	294	179	105	284
+"IA"	2012	"Black Hawk"	"Elk Run Heights & Raymond"	1	382	651	1050	358	668	1034
+"IA"	2012	"Black Hawk"	"Evansdale W1"	1	185	386	581	162	399	566
+"IA"	2012	"Black Hawk"	"Evansdale W2"	1	180	340	530	152	356	518
+"IA"	2012	"Black Hawk"	"Evansdale W3"	1	159	343	507	133	360	500
+"IA"	2012	"Black Hawk"	"Evansdale W4"	1	215	394	620	193	405	608
+"IA"	2012	"Black Hawk"	"Mt Vernon"	1	331	335	683	322	333	662
+"IA"	2012	"Black Hawk"	"Poyner P1 & East Wloo"	1	215	322	559	208	328	543
+"IA"	2012	"Black Hawk"	"Poyner P2 Fox Gilbert Jesup"	1	473	540	1023	436	546	995
+"IA"	2012	"Black Hawk"	"Spring Creek"	1	106	78	188	98	86	186
+"IA"	2012	"Black Hawk"	"Union"	1	385	219	609	356	242	602
+"IA"	2012	"Black Hawk"	"WL 1-1"	1	571	749	1330	528	768	1301
+"IA"	2012	"Black Hawk"	"WL 1-2"	1	520	717	1254	455	746	1221
+"IA"	2012	"Black Hawk"	"WL 1-3"	1	313	791	1121	293	791	1097
+"IA"	2012	"Black Hawk"	"WL 1-4"	1	514	750	1291	483	769	1262
+"IA"	2012	"Black Hawk"	"WL 1-5"	1	456	648	1122	401	694	1102
+"IA"	2012	"Black Hawk"	"WL 1-6"	1	922	667	1599	841	728	1576
+"IA"	2012	"Black Hawk"	"WL 2-1"	1	399	481	891	329	529	867
+"IA"	2012	"Black Hawk"	"WL 2-2"	1	228	565	807	215	574	793
+"IA"	2012	"Black Hawk"	"WL 2-3"	1	390	839	1250	366	846	1216
+"IA"	2012	"Black Hawk"	"WL 2-4"	1	605	1059	1683	553	1066	1634
+"IA"	2012	"Black Hawk"	"WL 2-5"	1	522	785	1326	481	803	1300
+"IA"	2012	"Black Hawk"	"WL 2-6"	1	688	644	1344	613	701	1320
+"IA"	2012	"Black Hawk"	"WL 3-1"	1	333	683	1030	309	689	1010
+"IA"	2012	"Black Hawk"	"WL 3-2"	1	232	786	1033	223	782	1014
+"IA"	2012	"Black Hawk"	"WL 3-3"	1	87	670	765	86	665	759
+"IA"	2012	"Black Hawk"	"WL 3-4"	1	155	649	811	148	639	795
+"IA"	2012	"Black Hawk"	"WL 3-5"	1	471	1014	1517	436	1014	1473
+"IA"	2012	"Black Hawk"	"WL 3-6"	1	152	612	780	148	605	762
+"IA"	2012	"Black Hawk"	"WL 4-1"	1	74	978	1063	69	968	1044
+"IA"	2012	"Black Hawk"	"WL 4-2"	1	55	655	723	64	628	704
+"IA"	2012	"Black Hawk"	"WL 4-3"	1	55	514	581	61	519	586
+"IA"	2012	"Black Hawk"	"WL 4-4"	1	164	733	909	155	723	891
+"IA"	2012	"Black Hawk"	"WL 4-5"	1	122	1000	1124	115	985	1108
+"IA"	2012	"Black Hawk"	"WL 4-6"	1	176	505	695	177	491	678
+"IA"	2012	"Black Hawk"	"WL 5-1"	1	93	476	580	96	469	566
+"IA"	2012	"Black Hawk"	"WL 5-2"	1	374	762	1155	336	779	1123
+"IA"	2012	"Black Hawk"	"WL 5-3"	1	289	657	965	250	685	941
+"IA"	2012	"Black Hawk"	"WL 5-4"	1	525	768	1310	469	810	1292
+"IA"	2012	"Black Hawk"	"WL 5-5"	1	637	737	1391	596	769	1369
+"IA"	2012	"Black Hawk"	"WL 5-6"	1	508	613	1138	462	653	1122
+"IA"	2012	"Black Hawk"	"Washington Janesville"	1	205	198	411	198	198	401
+"IA"	2012	"Boone"	"Boone 1st Ward"	4	481	737	1258	485	706	1242
+"IA"	2012	"Boone"	"Boone 2nd Ward"	4	643	753	1418	600	753	1383
+"IA"	2012	"Boone"	"Boone 3rd Ward"	4	625	766	1428	584	776	1394
+"IA"	2012	"Boone"	"Boone 4th Ward & DSM Twsp"	4	654	1029	1731	664	970	1681
+"IA"	2012	"Boone"	"Boone 5th Ward"	4	536	723	1288	515	696	1254
+"IA"	2012	"Boone"	"Madrid 1st Ward"	4	208	270	488	199	261	475
+"IA"	2012	"Boone"	"Madrid 2nd Ward"	4	232	263	505	228	249	491
+"IA"	2012	"Boone"	"Madrid 3rd Ward"	4	180	253	440	168	246	429
+"IA"	2012	"Boone"	"Ogden"	4	505	574	1106	491	568	1086
+"IA"	2012	"Boone"	"Rural Precinct 1"	4	341	310	669	326	309	652
+"IA"	2012	"Boone"	"Rural Precinct 2"	4	511	504	1035	491	501	1010
+"IA"	2012	"Boone"	"Rural Precinct 3"	4	274	200	482	269	192	476
+"IA"	2012	"Boone"	"Rural Precinct 4"	4	641	467	1127	646	429	1106
+"IA"	2012	"Boone"	"Rural Precinct 5"	4	190	247	447	181	242	438
+"IA"	2012	"Boone"	"Rural Precinct 6"	4	535	416	966	527	405	948
+"IA"	2012	"Bremer"	"CITY OF DENVER/JEFFERSON TWP"	1	963	840	1830	915	857	1788
+"IA"	2012	"Bremer"	"CITY OF FREDERIKA, FREDERIKA & LEROY TWP"	1	136	154	292	131	154	286
+"IA"	2012	"Bremer"	"CITY OF JANESVILLE/JACKSON TWP"	1	440	423	875	428	413	857
+"IA"	2012	"Bremer"	"CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP"	1	361	322	692	362	318	685
+"IA"	2012	"Bremer"	"CITY OF READLYN, MAXFIELD & FRANKLIN TWP"	1	514	425	947	512	403	926
+"IA"	2012	"Bremer"	"CITY OF SUMNER/SUMNER TWP/DAYTON TWP"	1	741	656	1415	733	634	1386
+"IA"	2012	"Bremer"	"CITY OF TRIPOLI/FREMONT"	1	349	494	856	356	467	834
+"IA"	2012	"Bremer"	"LAFAYETTE TWP/WARREN TWPS"	1	318	410	741	310	408	725
+"IA"	2012	"Bremer"	"WAVERLY WARD I/E  WASHINGTON TWP"	1	585	687	1283	554	692	1254
+"IA"	2012	"Bremer"	"WAVERLY WARD II/NE 1/4 SEC 36 WASHINGTON TWP"	1	532	575	1116	486	590	1087
+"IA"	2012	"Bremer"	"WAVERLY WARD III"	1	289	528	839	285	490	788
+"IA"	2012	"Bremer"	"WAVERLY WARD IV"	1	517	531	1066	487	542	1040
+"IA"	2012	"Bremer"	"WAVERLY WARD V/W WASHINGTON TWP"	1	660	718	1394	611	739	1358
+"IA"	2012	"Buchanan"	"Aurora"	1	223	341	568	234	328	565
+"IA"	2012	"Buchanan"	"Brandon"	1	183	211	405	181	212	400
+"IA"	2012	"Buchanan"	"Fairbank"	1	228	376	613	209	384	604
+"IA"	2012	"Buchanan"	"Hazleton"	1	205	340	555	220	310	543
+"IA"	2012	"Buchanan"	"Independence 1st Ward"	1	559	698	1271	641	618	1267
+"IA"	2012	"Buchanan"	"Independence 2nd Ward"	1	266	389	664	310	334	653
+"IA"	2012	"Buchanan"	"Independence 3rd Ward"	1	462	527	1000	496	478	986
+"IA"	2012	"Buchanan"	"Independence 4th Ward"	1	188	391	594	212	355	578
+"IA"	2012	"Buchanan"	"Independence 5th Ward"	1	229	367	608	269	336	608
+"IA"	2012	"Buchanan"	"Jesup"	1	522	663	1211	518	661	1189
+"IA"	2012	"Buchanan"	"Middlefield-Newton"	1	178	186	368	209	154	367
+"IA"	2012	"Buchanan"	"Perry-Westburg"	1	306	347	663	308	344	657
+"IA"	2012	"Buchanan"	"Quasqueton"	1	302	358	679	376	289	672
+"IA"	2012	"Buchanan"	"Rowley"	1	277	297	585	305	267	577
+"IA"	2012	"Buchanan"	"Winthrop"	1	322	420	751	397	343	747
+"IA"	2012	"Buena Vista"	"Albert City-Fairfield-Coo"	4	384	189	582	369	194	574
+"IA"	2012	"Buena Vista"	"Alta-Nokomis-Elk"	4	679	485	1189	704	444	1176
+"IA"	2012	"Buena Vista"	"Lakeside-Hayes-Maple Vall"	4	472	268	747	480	250	740
+"IA"	2012	"Buena Vista"	"Newell-Newell-Providence"	4	431	226	674	439	204	659
+"IA"	2012	"Buena Vista"	"SMLR-BA-BR-LE-LN-PO-SC"	4	699	482	1199	716	447	1187
+"IA"	2012	"Buena Vista"	"Storm Lake 01-Hayes"	4	358	496	861	362	478	852
+"IA"	2012	"Buena Vista"	"Storm Lake 02"	4	154	333	500	148	325	484
+"IA"	2012	"Buena Vista"	"Storm Lake 03"	4	630	501	1143	603	513	1129
+"IA"	2012	"Buena Vista"	"Storm Lake 04"	4	418	566	1005	391	567	982
+"IA"	2012	"Buena Vista"	"Truesdale-Washington-Gran"	4	329	154	483	321	148	477
+"IA"	2012	"Butler"	"1-GR"	4	511	535	1063	461	574	1052
+"IA"	2012	"Butler"	"2-CL"	4	624	647	1283	581	643	1254
+"IA"	2012	"Butler"	"3-DU"	4	430	248	686	400	260	677
+"IA"	2012	"Butler"	"4-AL"	4	409	273	692	400	269	680
+"IA"	2012	"Butler"	"5-AP"	4	617	264	899	585	281	876
+"IA"	2012	"Butler"	"6-SR"	4	616	597	1237	586	586	1207
+"IA"	2012	"Butler"	"7-PB"	4	659	499	1168	611	513	1144
+"IA"	2012	"Butler"	"8-NH"	4	240	266	517	212	273	497
+"IA"	2012	"Calhoun"	"Butler, Williams              "	4	276	229	511	271	221	504
+"IA"	2012	"Calhoun"	"Calh, Jackson, EG, Lake C     "	4	544	568	1124	543	548	1114
+"IA"	2012	"Calhoun"	"Cedar"	4	97	58	160	99	59	161
+"IA"	2012	"Calhoun"	"Center, Logan, TL, GA, La     "	4	299	168	478	301	162	475
+"IA"	2012	"Calhoun"	"Greenfield, Lincoln 2         "	4	132	92	228	133	87	224
+"IA"	2012	"Calhoun"	"Lincoln 1"	4	539	411	969	530	389	950
+"IA"	2012	"Calhoun"	"Reading"	4	156	115	275	159	102	266
+"IA"	2012	"Calhoun"	"Rockwell City"	4	484	410	910	447	425	905
+"IA"	2012	"Calhoun"	"Sherman"	4	227	82	311	220	88	310
+"IA"	2012	"Calhoun"	"Union"	4	137	105	264	141	100	255
+"IA"	2012	"Carroll"	"Arcadia Precinct"	4	170	162	339	168	160	338
+"IA"	2012	"Carroll"	"Carroll Ward 2 / N1/2 Maple River"	4	810	804	1628	807	770	1603
+"IA"	2012	"Carroll"	"Carroll Ward 3 / S1/2 Maple River"	4	663	643	1321	675	606	1307
+"IA"	2012	"Carroll"	"Carroll Ward Four"	4	518	558	1090	517	524	1067
+"IA"	2012	"Carroll"	"Carroll Ward One"	4	758	643	1413	788	601	1395
+"IA"	2012	"Carroll"	"Eden Precinct"	4	198	121	320	196	111	313
+"IA"	2012	"Carroll"	"Ewoldt Precinct"	4	490	414	913	468	407	895
+"IA"	2012	"Carroll"	"Glidden-Richland Precinct"	4	451	383	848	488	323	828
+"IA"	2012	"Carroll"	"Pleasant Valley - Newton Precinct"	4	245	167	417	265	146	412
+"IA"	2012	"Carroll"	"Sheridan-Grant-Jasper Precinct"	4	342	236	590	364	208	581
+"IA"	2012	"Carroll"	"Union Precinct"	4	376	378	756	370	358	745
+"IA"	2012	"Carroll"	"Washington-Roselle Precinct"	4	262	193	464	273	175	454
+"IA"	2012	"Carroll"	"Wheatland-Kniest Precinct"	4	318	245	575	370	188	568
+"IA"	2012	"Cass"	"ATLANTIC 1"	3	285	274	572	306	213	549
+"IA"	2012	"Cass"	"ATLANTIC 2"	3	258	283	562	298	216	540
+"IA"	2012	"Cass"	"ATLANTIC 3"	3	436	307	752	457	230	718
+"IA"	2012	"Cass"	"ATLANTIC 4"	3	513	353	889	572	255	862
+"IA"	2012	"Cass"	"ATLANTIC 5"	3	471	330	816	502	261	791
+"IA"	2012	"Cass"	"BEAR GROVE-CASS TOWNSHIPS/CITY OF LEWIS"	3	269	166	446	291	118	430
+"IA"	2012	"Cass"	"BENTON TOWNSHIP"	3	167	106	276	180	71	260
+"IA"	2012	"Cass"	"BRIGHTON, GROVE, PYMOSA, WASHINGTON TOWNSHIP/MARNE"	3	482	202	699	509	143	680
+"IA"	2012	"Cass"	"EDNA TOWNSHIP"	3	102	30	132	102	25	129
+"IA"	2012	"Cass"	"GRANT, LINCOLN TOWNSHIP/ANITA"	3	368	331	704	405	255	693
+"IA"	2012	"Cass"	"MASSENA TOWNSHIP/MASSENA CITY"	3	160	120	284	165	93	274
+"IA"	2012	"Cass"	"NOBLE, PLEASANT TOWNSHIP/GRISWOLD"	3	569	268	845	582	194	808
+"IA"	2012	"Cass"	"UNION TOWNSHIP"	3	137	88	228	143	67	220
+"IA"	2012	"Cedar"	"CASS/CENTER/IOWA/ROCHESTER"	2	643	552	1209	592	567	1174
+"IA"	2012	"Cedar"	"DAYTON/FAIRFIELD"	2	400	333	747	360	360	726
+"IA"	2012	"Cedar"	"FARMINGTON/SUGAR CREEK"	2	761	635	1413	785	570	1371
+"IA"	2012	"Cedar"	"FREMONT/RED OAK"	2	270	285	561	240	298	543
+"IA"	2012	"Cedar"	"GOWER/SPRINGDALE"	2	299	428	735	263	440	712
+"IA"	2012	"Cedar"	"INLAND"	2	207	161	373	217	144	368
+"IA"	2012	"Cedar"	"LINN/PIONEER"	2	470	545	1034	407	564	993
+"IA"	2012	"Cedar"	"MASSILLON/SPRINGFIELD"	2	370	356	739	346	357	715
+"IA"	2012	"Cedar"	"TIPTON 1"	2	192	287	490	179	289	475
+"IA"	2012	"Cedar"	"TIPTON 2"	2	246	277	536	211	297	513
+"IA"	2012	"Cedar"	"TIPTON 3"	2	269	328	608	240	344	589
+"IA"	2012	"Cedar"	"WEST BRANCH 1"	2	402	785	1204	380	791	1184
+"IA"	2012	"Cerro Gordo"	"CL/Grant/Union Twp Pcts"	4	752	566	1340	697	602	1327
+"IA"	2012	"Cerro Gordo"	"Clear Lake Ward 1"	4	859	600	1486	776	647	1458
+"IA"	2012	"Cerro Gordo"	"Clear Lake Ward 2"	4	783	769	1575	706	821	1557
+"IA"	2012	"Cerro Gordo"	"Clear Lake Ward 3"	4	673	696	1390	605	729	1354
+"IA"	2012	"Cerro Gordo"	"Falls Twp - Plymouth Pct"	4	135	215	355	128	215	355
+"IA"	2012	"Cerro Gordo"	"Falls Twp - Rock Falls Pct"	4	95	143	241	99	133	237
+"IA"	2012	"Cerro Gordo"	"Geneseo Twp Pct"	4	296	429	732	278	430	719
+"IA"	2012	"Cerro Gordo"	"Grimes Twp - Meservey Pct"	4	84	70	155	72	77	152
+"IA"	2012	"Cerro Gordo"	"Grimes Twp - Thornton Pct"	4	140	126	268	132	128	269
+"IA"	2012	"Cerro Gordo"	"Lake/Lincoln Twps Pct"	4	205	115	324	183	139	324
+"IA"	2012	"Cerro Gordo"	"Lime Creek / Mason N Twps"	4	164	172	339	151	174	329
+"IA"	2012	"Cerro Gordo"	"Mason City W-1 P-1"	4	264	658	951	245	662	934
+"IA"	2012	"Cerro Gordo"	"Mason City W-1 P-2"	4	444	791	1253	383	827	1224
+"IA"	2012	"Cerro Gordo"	"Mason City W-1 P-3"	4	634	652	1300	548	719	1275
+"IA"	2012	"Cerro Gordo"	"Mason City W-2 P-1"	4	255	609	879	233	628	872
+"IA"	2012	"Cerro Gordo"	"Mason City W-2 P-2"	4	753	866	1635	700	899	1619
+"IA"	2012	"Cerro Gordo"	"Mason City W-2 P-3"	4	269	721	1007	235	713	984
+"IA"	2012	"Cerro Gordo"	"Mason City W-3 P-1"	4	409	742	1173	378	763	1155
+"IA"	2012	"Cerro Gordo"	"Mason City W-3 P-2"	4	337	693	1048	296	699	1017
+"IA"	2012	"Cerro Gordo"	"Mason City W-3 P-3"	4	741	964	1729	625	1046	1700
+"IA"	2012	"Cerro Gordo"	"Mason City W-4 P-1"	4	245	646	911	220	654	902
+"IA"	2012	"Cerro Gordo"	"Mason City W-4 P-2"	4	415	743	1176	367	780	1157
+"IA"	2012	"Cerro Gordo"	"Mason City W-4 P-3"	4	532	752	1310	476	790	1298
+"IA"	2012	"Cerro Gordo"	"Mason S / Bath Twps Pct"	4	212	161	380	195	174	376
+"IA"	2012	"Cerro Gordo"	"Mt Vernon / Pl Valley Twps Pc"	4	214	179	403	203	182	393
+"IA"	2012	"Cerro Gordo"	"Portland / Owen / Dtr Twps Pc"	4	218	238	464	223	224	459
+"IA"	2012	"Cherokee"	"#1 Aurelia Precinct"	4	565	364	951	573	342	939
+"IA"	2012	"Cherokee"	"#2 Cleghorn Precinct"	4	848	457	1317	872	406	1311
+"IA"	2012	"Cherokee"	"#3 Quimby Precinct"	4	514	308	835	533	273	827
+"IA"	2012	"Cherokee"	"#4 Cherokee Precinct"	4	464	271	741	469	249	736
+"IA"	2012	"Cherokee"	"#5 Cherokee Ward 1 Precinct"	4	532	427	988	545	410	977
+"IA"	2012	"Cherokee"	"#6 Cherokee Ward 2 Precinct"	4	301	390	706	329	349	700
+"IA"	2012	"Cherokee"	"#7 Cherokee Ward 3 Precinct"	4	438	417	877	454	386	865
+"IA"	2012	"Chickasaw"	"Bradford"	4	513	622	1156	468	637	1130
+"IA"	2012	"Chickasaw"	"Chickasaw"	4	97	151	248	92	137	236
+"IA"	2012	"Chickasaw"	"City of New Hampton Ward Four"	4	232	295	534	206	308	523
+"IA"	2012	"Chickasaw"	"City of New Hampton Ward One"	4	162	272	438	156	264	425
+"IA"	2012	"Chickasaw"	"City of New Hampton Ward Three"	4	186	350	547	182	348	537
+"IA"	2012	"Chickasaw"	"City of New Hampton Ward Two"	4	164	244	411	143	257	410
+"IA"	2012	"Chickasaw"	"Dayton-Richland"	4	204	184	394	209	165	385
+"IA"	2012	"Chickasaw"	"Deerfield-Washington 2"	4	162	244	414	170	216	403
+"IA"	2012	"Chickasaw"	"Dresden-Fredericksburg"	4	423	425	862	409	417	842
+"IA"	2012	"Chickasaw"	"Jacksonville-Utica"	4	183	199	384	175	186	369
+"IA"	2012	"Chickasaw"	"New Hampton Rural"	4	242	170	415	222	169	398
+"IA"	2012	"Chickasaw"	"Stapleton"	4	192	270	472	179	277	461
+"IA"	2012	"Chickasaw"	"Washington 1 Township"	4	76	128	209	81	123	208
+"IA"	2012	"Clarke"	"Middle Precinct"	2	312	261	586	278	265	552
+"IA"	2012	"Clarke"	"Murray Precinct"	2	323	344	688	308	324	662
+"IA"	2012	"Clarke"	"North East Precinct"	2	467	360	849	420	370	805
+"IA"	2012	"Clarke"	"Osceola 1st Ward Precinct"	2	290	321	642	274	316	608
+"IA"	2012	"Clarke"	"Osceola 2nd Ward Precinct"	2	228	340	577	212	319	546
+"IA"	2012	"Clarke"	"Osceola 3rd Ward Precinct"	2	358	384	760	339	360	714
+"IA"	2012	"Clarke"	"Woodburn Precinct"	2	146	179	328	126	173	308
+"IA"	2012	"Clay"	"Douglas-Peterson"	4	247	132	385	242	132	383
+"IA"	2012	"Clay"	"Garfield-Herdland"	4	153	90	249	144	96	249
+"IA"	2012	"Clay"	"Lake-Freeman"	4	154	128	289	146	135	286
+"IA"	2012	"Clay"	"Lincoln-Clay"	4	273	172	450	282	152	442
+"IA"	2012	"Clay"	"Logan-Gillett Grove"	4	164	100	271	161	93	263
+"IA"	2012	"Clay"	"Spencer Ward 1"	4	440	410	879	441	393	864
+"IA"	2012	"Clay"	"Spencer Ward 2"	4	538	498	1058	530	467	1036
+"IA"	2012	"Clay"	"Spencer Ward 3"	4	611	461	1093	590	468	1084
+"IA"	2012	"Clay"	"Spencer Ward 4"	4	934	467	1421	907	479	1404
+"IA"	2012	"Clay"	"Spencer Ward 5"	4	660	472	1147	647	462	1131
+"IA"	2012	"Clay"	"Summit-Riverton-Sioux-Meadow"	4	456	294	765	453	279	751
+"IA"	2012	"Clay"	"Waterford-Lone Tree"	4	321	161	495	317	159	487
+"IA"	2012	"Clayton"	"BOARDMAN-HIGHLAND"	1	459	666	1150	444	648	1112
+"IA"	2012	"Clayton"	"BUENA VISTA"	1	50	113	165	41	110	159
+"IA"	2012	"Clayton"	"CASS"	1	391	445	847	384	429	832
+"IA"	2012	"Clayton"	"CLAYTON-GARNAVILLO"	1	363	301	677	333	327	668
+"IA"	2012	"Clayton"	"COX CREEK-SPERRY"	1	220	227	456	212	224	446
+"IA"	2012	"Clayton"	"ELK-MALLORY-VOLGA"	1	223	265	499	208	276	488
+"IA"	2012	"Clayton"	"FARMERSBURG-WAGNER"	1	236	256	499	222	252	482
+"IA"	2012	"Clayton"	"GIARD-LUANA-MONONA"	1	630	654	1306	614	631	1270
+"IA"	2012	"Clayton"	"GRAND MEADOW"	1	121	91	215	117	90	213
+"IA"	2012	"Clayton"	"JEFFERSON-MILLVILLE"	1	757	904	1698	715	911	1653
+"IA"	2012	"Clayton"	"LODOMILLO"	1	167	142	314	164	140	306
+"IA"	2012	"Clayton"	"MARION"	1	112	61	176	107	65	175
+"IA"	2012	"Clayton"	"MENDON"	1	359	597	972	336	584	941
+"IA"	2012	"Clayton"	"READ"	1	76	84	164	78	82	162
+"IA"	2012	"Clinton"	"BLOOMFIELD BROOKFIELD DEL"	2	281	355	641	289	313	618
+"IA"	2012	"Clinton"	"CAMANCHE 1"	2	446	816	1286	434	798	1255
+"IA"	2012	"Clinton"	"CAMANCHE 2"	2	372	769	1168	414	702	1140
+"IA"	2012	"Clinton"	"CENTER TWP"	2	195	148	346	200	120	326
+"IA"	2012	"Clinton"	"CLINTON 1-1"	2	269	880	1175	272	821	1128
+"IA"	2012	"Clinton"	"CLINTON 1-2"	2	422	1060	1501	435	974	1453
+"IA"	2012	"Clinton"	"CLINTON 2-1"	2	313	962	1297	338	862	1252
+"IA"	2012	"Clinton"	"CLINTON 2-2"	2	643	1167	1837	664	1073	1775
+"IA"	2012	"Clinton"	"CLINTON 3-1"	2	527	1148	1693	553	1040	1633
+"IA"	2012	"Clinton"	"CLINTON 3-2"	2	605	1241	1871	636	1127	1794
+"IA"	2012	"Clinton"	"CLINTON 4-1"	2	628	1103	1761	657	1013	1701
+"IA"	2012	"Clinton"	"CLINTON 4-2"	2	527	1075	1625	542	974	1557
+"IA"	2012	"Clinton"	"DEEP CREEK GOOSE LAKE"	2	180	185	374	192	155	353
+"IA"	2012	"Clinton"	"DEWITT 1"	2	558	840	1433	598	743	1373
+"IA"	2012	"Clinton"	"DEWITT 2"	2	730	786	1540	748	713	1487
+"IA"	2012	"Clinton"	"DEWITT TWP"	2	495	356	862	498	313	823
+"IA"	2012	"Clinton"	"EDEN CAMANCHE TWP"	2	180	147	334	186	127	321
+"IA"	2012	"Clinton"	"ELK RIVER HAMPSHIRE ANDOV"	2	415	455	891	440	391	847
+"IA"	2012	"Clinton"	"LIBERTY TORONTO"	2	88	84	177	82	78	168
+"IA"	2012	"Clinton"	"LOW MOOR"	2	62	79	143	63	73	140
+"IA"	2012	"Clinton"	"OLIVE GRANT CALAMUS"	2	365	241	617	359	218	590
+"IA"	2012	"Clinton"	"ORANGE GRAND MOUND"	2	253	355	627	266	319	602
+"IA"	2012	"Clinton"	"SHARON LOST NATION"	2	185	161	359	176	151	337
+"IA"	2012	"Clinton"	"SPRING ROCK WHEATLAND"	2	259	294	561	249	274	541
+"IA"	2012	"Clinton"	"WATERFORD CHARLOTTE"	2	179	173	356	186	146	343
+"IA"	2012	"Clinton"	"WELTON WASHINGTON WELTON"	2	255	261	525	273	225	509
+"IA"	2012	"Crawford"	"Charter Oak"	4	309	180	498	330	151	499
+"IA"	2012	"Crawford"	"DCAB"	4	348	318	670	370	267	651
+"IA"	2012	"Crawford"	"Denison 1st Ward"	4	380	455	844	426	401	842
+"IA"	2012	"Crawford"	"Denison 2nd Ward / Denison Twp"	4	440	523	973	486	445	950
+"IA"	2012	"Crawford"	"Denison 3rd Ward / Goodrich Twp"	4	664	551	1228	721	476	1212
+"IA"	2012	"Crawford"	"Northeast"	4	435	357	802	497	281	799
+"IA"	2012	"Crawford"	"SRK"	4	494	309	819	532	261	810
+"IA"	2012	"Crawford"	"Southeast"	4	525	373	918	551	336	910
+"IA"	2012	"Dallas"	"ABSENTEE"	3	0	0	0	0	0	0
+"IA"	2012	"Dallas"	"Adams"	3	482	254	742	513	188	729
+"IA"	2012	"Dallas"	"Adel 1"	3	476	431	928	529	331	900
+"IA"	2012	"Dallas"	"Adel 2"	3	579	510	1113	644	381	1080
+"IA"	2012	"Dallas"	"Beaver/Des Moines"	3	545	610	1178	607	479	1146
+"IA"	2012	"Dallas"	"Clive 5"	3	993	524	1524	1055	424	1494
+"IA"	2012	"Dallas"	"Clive 6"	3	979	513	1499	1043	397	1464
+"IA"	2012	"Dallas"	"Colfax/Adel"	3	472	245	732	508	174	711
+"IA"	2012	"Dallas"	"DeSoto"	3	216	252	475	247	188	461
+"IA"	2012	"Dallas"	"Lincoln/Washington/Linn"	3	329	265	610	366	198	599
+"IA"	2012	"Dallas"	"Perry 1"	3	344	651	1008	429	501	994
+"IA"	2012	"Dallas"	"Perry 2"	3	285	611	914	363	495	891
+"IA"	2012	"Dallas"	"Perry 3"	3	291	553	857	355	432	836
+"IA"	2012	"Dallas"	"Spring Valley/Dallas"	3	212	280	501	236	221	486
+"IA"	2012	"Dallas"	"Sugar Grove/Dallas Center"	3	746	598	1386	803	455	1344
+"IA"	2012	"Dallas"	"Union"	3	541	514	1079	604	390	1054
+"IA"	2012	"Dallas"	"Urbandale 13"	3	965	655	1636	1074	482	1584
+"IA"	2012	"Dallas"	"Urbandale 14"	3	1164	525	1705	1223	421	1666
+"IA"	2012	"Dallas"	"Urbandale 15"	3	528	230	762	557	180	741
+"IA"	2012	"Dallas"	"Van Meter"	3	910	595	1531	986	449	1491
+"IA"	2012	"Dallas"	"Walnut/Grimes/Grant"	3	729	523	1289	781	421	1261
+"IA"	2012	"Dallas"	"Waukee 1"	3	974	835	1844	1099	622	1787
+"IA"	2012	"Dallas"	"Waukee 2"	3	448	508	974	532	385	950
+"IA"	2012	"Dallas"	"Waukee 3"	3	919	769	1701	1006	598	1645
+"IA"	2012	"Dallas"	"Waukee 4"	3	1131	567	1704	1203	442	1671
+"IA"	2012	"Dallas"	"Waukee 5"	3	440	270	719	490	193	701
+"IA"	2012	"Dallas"	"Waukee 6"	3	674	488	1173	721	393	1154
+"IA"	2012	"Dallas"	"West Des Moines 221"	3	1002	819	1853	1113	641	1796
+"IA"	2012	"Dallas"	"West Des Moines 222"	3	683	569	1262	737	455	1220
+"IA"	2012	"Dallas"	"West Des Moines 223"	3	644	509	1168	698	399	1125
+"IA"	2012	"Dallas"	"West Des Moines 224"	3	134	99	237	146	76	234
+"IA"	2012	"Dallas"	"West Des Moines 225"	3	917	836	1782	1030	646	1714
+"IA"	2012	"Dallas"	"West Des Moines 226"	3	492	528	1034	545	431	999
+"IA"	2012	"Dallas"	"West Des Moines 321"	3	272	202	480	294	159	463
+"IA"	2012	"Dallas"	"West Des Moines 322"	3	472	238	716	496	194	707
+"IA"	2012	"Davis"	"Bloomfield 1st Ward"	2	230	217	468	201	257	465
+"IA"	2012	"Davis"	"Bloomfield 2nd Ward"	2	208	205	422	162	252	420
+"IA"	2012	"Davis"	"Bloomfield 3rd Ward"	2	200	193	403	166	224	397
+"IA"	2012	"Davis"	"Central"	2	353	232	600	291	284	584
+"IA"	2012	"Davis"	"Northeast"	2	358	224	604	318	272	599
+"IA"	2012	"Davis"	"Northwest"	2	302	194	514	268	233	510
+"IA"	2012	"Davis"	"Southeast"	2	312	143	470	260	198	465
+"IA"	2012	"Davis"	"Southwest"	2	175	112	292	156	131	290
+"IA"	2012	"Decatur"	"BL/FA/Lamoni"	2	544	649	1212	479	611	1124
+"IA"	2012	"Decatur"	"BU/NB/DC/HA/MO/PL"	2	234	125	375	206	128	344
+"IA"	2012	"Decatur"	"Decatur City/DE"	2	113	81	200	100	88	193
+"IA"	2012	"Decatur"	"GG/GG/LR/HP/WO"	2	175	132	328	155	142	313
+"IA"	2012	"Decatur"	"GR/RL/GR"	2	120	111	231	118	100	221
+"IA"	2012	"Decatur"	"LC/VW/FR/WE"	2	190	184	385	177	179	366
+"IA"	2012	"Decatur"	"Leon/CE/ED"	2	571	509	1102	508	510	1040
+"IA"	2012	"Delaware"	"Adams/Hazel Green"	1	321	268	594	321	250	578
+"IA"	2012	"Delaware"	"Colony"	1	208	201	414	204	187	400
+"IA"	2012	"Delaware"	"Delaware"	1	331	219	555	321	206	533
+"IA"	2012	"Delaware"	"Delhi/Delaware Corp"	1	347	297	647	345	274	628
+"IA"	2012	"Delaware"	"Honey Creek/Elk"	1	373	389	771	376	366	748
+"IA"	2012	"Delaware"	"Manchester Ward 1"	1	312	455	775	328	424	764
+"IA"	2012	"Delaware"	"Manchester Ward 2"	1	430	447	894	448	425	877
+"IA"	2012	"Delaware"	"Manchester Ward 3"	1	385	557	956	392	530	934
+"IA"	2012	"Delaware"	"Milo/Prairie"	1	566	495	1073	567	469	1046
+"IA"	2012	"Delaware"	"Oneida/N Fork/Bremen"	1	786	572	1385	747	593	1363
+"IA"	2012	"Delaware"	"Richland/Coffins Grove"	1	262	339	613	273	319	598
+"IA"	2012	"Delaware"	"South Fork/Union"	1	315	377	701	310	375	690
+"IA"	2012	"Des Moines"	"PCT 1T"	2	831	880	1739	817	853	1693
+"IA"	2012	"Des Moines"	"PCT 2"	2	524	1028	1577	516	1006	1554
+"IA"	2012	"Des Moines"	"PCT 3"	2	425	911	1374	429	878	1336
+"IA"	2012	"Des Moines"	"PCT 4"	2	331	936	1301	337	900	1276
+"IA"	2012	"Des Moines"	"PCT 5"	2	564	800	1380	555	767	1346
+"IA"	2012	"Des Moines"	"PCT 6"	2	215	694	933	213	670	908
+"IA"	2012	"Des Moines"	"PCT 7"	2	569	1086	1675	533	1048	1627
+"IA"	2012	"Des Moines"	"PCT 8C"	2	755	1078	1856	745	1044	1814
+"IA"	2012	"Des Moines"	"PCT 9"	2	608	943	1576	594	903	1522
+"IA"	2012	"Des Moines"	"PCT DM"	2	476	419	922	434	432	884
+"IA"	2012	"Des Moines"	"PCT FM"	2	627	773	1422	617	756	1397
+"IA"	2012	"Des Moines"	"PCT HJ"	2	408	271	688	384	273	670
+"IA"	2012	"Des Moines"	"PCT MY"	2	770	672	1464	738	650	1416
+"IA"	2012	"Des Moines"	"PCT PW"	2	241	171	416	226	176	406
+"IA"	2012	"Des Moines"	"PCT UNION"	2	222	227	459	208	234	451
+"IA"	2012	"Des Moines"	"PCT WB"	2	570	999	1603	559	981	1572
+"IA"	2012	"Dickinson"	"Precinct No. 1"	4	417	289	721	444	247	709
+"IA"	2012	"Dickinson"	"Precinct No. 10-City-Wahpeton-W Okoboji"	4	319	173	500	292	190	488
+"IA"	2012	"Dickinson"	"Precinct No. 11"	4	447	260	715	417	269	693
+"IA"	2012	"Dickinson"	"Precinct No. 12"	4	342	174	519	344	156	506
+"IA"	2012	"Dickinson"	"Precinct No. 13"	4	458	388	857	438	383	837
+"IA"	2012	"Dickinson"	"Precinct No. 14"	4	223	209	438	223	201	432
+"IA"	2012	"Dickinson"	"Precinct No. 15"	4	848	569	1446	835	553	1413
+"IA"	2012	"Dickinson"	"Precinct No. 2"	4	444	246	697	450	230	689
+"IA"	2012	"Dickinson"	"Precinct No. 3"	4	445	267	715	428	270	707
+"IA"	2012	"Dickinson"	"Precinct No. 4"	4	134	108	254	143	94	246
+"IA"	2012	"Dickinson"	"Precinct No. 5"	4	564	394	972	539	397	955
+"IA"	2012	"Dickinson"	"Precinct No. 6"	4	125	159	287	134	145	288
+"IA"	2012	"Dickinson"	"Precinct No. 7"	4	83	55	140	77	61	140
+"IA"	2012	"Dickinson"	"Precinct No. 8"	4	995	762	1786	986	735	1761
+"IA"	2012	"Dickinson"	"Precinct No. 9"	4	68	42	112	69	37	109
+"IA"	2012	"Dubuque"	"ARC Building"	1	462	710	1189	433	700	1139
+"IA"	2012	"Dubuque"	"Asbury Fire Station"	1	738	883	1642	689	894	1593
+"IA"	2012	"Dubuque"	"Beckman High School"	1	798	595	1407	699	640	1354
+"IA"	2012	"Dubuque"	"Bernard Fire Station"	1	141	210	359	122	215	343
+"IA"	2012	"Dubuque"	"Cascade City Hall"	1	557	744	1324	517	752	1288
+"IA"	2012	"Dubuque"	"Comiskey Park"	1	362	881	1268	333	870	1225
+"IA"	2012	"Dubuque"	"Dyersville Memorial Hall"	1	346	358	712	338	354	700
+"IA"	2012	"Dubuque"	"Election Annex"	1	165	555	744	170	527	715
+"IA"	2012	"Dubuque"	"Emmaus Bible School"	1	480	731	1231	428	752	1192
+"IA"	2012	"Dubuque"	"Epworth Council Chambers"	1	629	859	1509	586	873	1478
+"IA"	2012	"Dubuque"	"Farley Community Center"	1	311	464	785	288	461	755
+"IA"	2012	"Dubuque"	"Federal Building"	1	378	868	1282	364	849	1235
+"IA"	2012	"Dubuque"	"Fogarty Hall"	1	651	1064	1750	617	1066	1702
+"IA"	2012	"Dubuque"	"Holy Trinity Church"	1	413	923	1355	392	901	1308
+"IA"	2012	"Dubuque"	"Hope Church"	1	809	746	1574	721	801	1533
+"IA"	2012	"Dubuque"	"Key West Fire Station"	1	845	997	1873	738	1064	1816
+"IA"	2012	"Dubuque"	"Luxemburg City Hall"	1	753	566	1339	707	584	1299
+"IA"	2012	"Dubuque"	"Meadow Golf Course"	1	1163	919	2105	1019	999	2030
+"IA"	2012	"Dubuque"	"Peosta Community Center"	1	1091	930	2048	1006	976	1998
+"IA"	2012	"Dubuque"	"Rockdale Methodist Church"	1	898	1027	1948	833	1039	1891
+"IA"	2012	"Dubuque"	"SS Peter & Paul School"	1	736	847	1613	695	848	1561
+"IA"	2012	"Dubuque"	"Sacred Heart Church"	1	250	730	1004	239	708	964
+"IA"	2012	"Dubuque"	"St Francis Xavier Bsm't"	1	389	289	689	346	313	664
+"IA"	2012	"Dubuque"	"St John's Church"	1	238	610	878	229	596	842
+"IA"	2012	"Dubuque"	"Summit Church"	1	729	872	1632	660	904	1578
+"IA"	2012	"Dubuque"	"Swiss Valley Nature Center"	1	775	630	1425	709	657	1376
+"IA"	2012	"Dubuque"	"The Journey Church"	1	894	1082	2008	828	1103	1949
+"IA"	2012	"Dubuque"	"Theisens"	1	882	1019	1931	816	1046	1874
+"IA"	2012	"Dubuque"	"Tri-State Blind - 5"	1	760	1106	1899	678	1133	1829
+"IA"	2012	"Dubuque"	"Tri-State Blind 7"	1	783	1262	2077	715	1270	2002
+"IA"	2012	"Dubuque"	"U.A.W. Local 94 Hall"	1	482	995	1501	451	986	1447
+"IA"	2012	"Dubuque"	"Westminister Church - 10"	1	641	1279	1955	606	1236	1861
+"IA"	2012	"Dubuque"	"Westminster Church - 9"	1	663	966	1667	622	941	1589
+"IA"	2012	"Dubuque"	"Windsor Park"	1	554	1094	1670	484	1121	1619
+"IA"	2012	"Dubuque"	"Y Building"	1	514	957	1501	491	950	1456
+"IA"	2012	"Emmet"	"AG-IL-Armstrong"	4	362	257	626	328	270	614
+"IA"	2012	"Emmet"	"CN-SL-Gruver"	4	137	64	203	128	68	200
+"IA"	2012	"Emmet"	"DM-JC-Ringsted"	4	173	122	308	163	133	304
+"IA"	2012	"Emmet"	"EL-LN-Dolliver"	4	110	75	188	120	60	184
+"IA"	2012	"Emmet"	"Emmet-Estherville"	4	231	116	352	218	120	341
+"IA"	2012	"Emmet"	"Estherville Ward 1"	4	356	335	701	357	319	689
+"IA"	2012	"Emmet"	"Estherville Ward 2"	4	285	248	541	273	251	535
+"IA"	2012	"Emmet"	"Estherville Ward 3"	4	272	309	590	250	313	578
+"IA"	2012	"Emmet"	"Estherville Ward 4"	4	218	253	486	201	270	482
+"IA"	2012	"Emmet"	"Estherville Ward 5"	4	185	192	383	167	192	373
+"IA"	2012	"Emmet"	"HL-TM-Wallingford"	4	178	128	309	179	117	305
+"IA"	2012	"Fayette"	"AUBURN TWP"	1	140	148	293	124	154	284
+"IA"	2012	"Fayette"	"BANKS-FREMONT TWP"	1	253	231	490	244	234	484
+"IA"	2012	"Fayette"	"BETHEL-WINDSOR TWP"	1	246	297	549	248	286	539
+"IA"	2012	"Fayette"	"CENTER TWP"	1	95	77	176	100	73	175
+"IA"	2012	"Fayette"	"CLERMONT TWP"	1	256	205	466	245	208	459
+"IA"	2012	"Fayette"	"DOVER TWP."	1	163	108	277	157	108	271
+"IA"	2012	"Fayette"	"EDEN TWP"	1	131	141	278	117	140	263
+"IA"	2012	"Fayette"	"FAIRBANK, INC.                "	1	65	136	201	60	138	199
+"IA"	2012	"Fayette"	"FAIRFIELD-PUTNAM TWP"	1	252	249	505	251	243	498
+"IA"	2012	"Fayette"	"HARLAN TWP"	1	193	242	441	175	250	432
+"IA"	2012	"Fayette"	"ILLYRIA TWP"	1	122	143	271	126	138	266
+"IA"	2012	"Fayette"	"JEFFERSON TWP."	1	131	169	309	125	171	303
+"IA"	2012	"Fayette"	"OELWEIN - WARD 1"	1	287	471	764	272	469	753
+"IA"	2012	"Fayette"	"OELWEIN - WARD 2"	1	174	477	662	179	466	655
+"IA"	2012	"Fayette"	"OELWEIN - WARD 3"	1	165	469	645	159	462	633
+"IA"	2012	"Fayette"	"OELWEIN - WARD 4"	1	307	530	843	305	523	833
+"IA"	2012	"Fayette"	"ORAN TWP."	1	112	126	240	106	126	235
+"IA"	2012	"Fayette"	"PLEASANT VALLEY TWP"	1	264	215	487	245	233	479
+"IA"	2012	"Fayette"	"SCOTT TWP"	1	74	65	140	83	54	138
+"IA"	2012	"Fayette"	"SMITHFIELD TWP."	1	79	49	130	74	53	130
+"IA"	2012	"Fayette"	"UNION TWP."	1	128	93	224	120	98	219
+"IA"	2012	"Fayette"	"WEST UNION - WARD 1"	1	246	251	503	237	251	493
+"IA"	2012	"Fayette"	"WEST UNION - WARD 2"	1	173	192	367	156	191	350
+"IA"	2012	"Fayette"	"WEST UNION - WARD 3"	1	154	230	390	160	222	386
+"IA"	2012	"Fayette"	"WESTFIELD TWP"	1	282	418	715	255	415	683
+"IA"	2012	"Floyd"	"Charles City Corp / CC1"	4	445	686	1146	393	716	1134
+"IA"	2012	"Floyd"	"Charles City Corp / CC2"	4	501	821	1336	479	819	1325
+"IA"	2012	"Floyd"	"Charles City Corp / CC3"	4	394	833	1242	376	827	1226
+"IA"	2012	"Floyd"	"Floyd / Cedar / Niles"	4	442	450	905	422	436	881
+"IA"	2012	"Floyd"	"Rock - Grove - Rudd"	4	459	696	1172	424	707	1159
+"IA"	2012	"Floyd"	"Rockford - Ulster"	4	370	425	801	362	416	794
+"IA"	2012	"Floyd"	"Scott - Union - Pleasant Grove"	4	258	318	587	248	311	573
+"IA"	2012	"Floyd"	"St. Charles Twp - Riverton"	4	603	451	1068	552	472	1056
+"IA"	2012	"Franklin"	"Geneva/Ingham/East Mott"	4	199	178	390	189	180	385
+"IA"	2012	"Franklin"	"Grant/Osceola"	4	184	119	309	183	111	302
+"IA"	2012	"Franklin"	"Hamilton/Lee/Reeve"	4	219	139	364	219	135	357
+"IA"	2012	"Franklin"	"Hampton 1"	4	158	189	358	145	195	352
+"IA"	2012	"Franklin"	"Hampton 2"	4	265	226	500	253	229	491
+"IA"	2012	"Franklin"	"Hampton 3"	4	279	264	553	257	275	546
+"IA"	2012	"Franklin"	"Hampton 4"	4	183	256	447	172	264	443
+"IA"	2012	"Franklin"	"Marion"	4	215	153	376	219	145	374
+"IA"	2012	"Franklin"	"Oakland/Morgan"	4	208	151	369	217	150	370
+"IA"	2012	"Franklin"	"Richland/Ross/West Fork"	4	568	406	985	520	437	977
+"IA"	2012	"Franklin"	"West Mott Township"	4	158	99	261	153	99	255
+"IA"	2012	"Franklin"	"Wisner/Scott"	4	187	86	274	176	94	273
+"IA"	2012	"Fremont"	"FARRAGUT"	3	402	340	748	428	255	716
+"IA"	2012	"Fremont"	"GREEN/RIVERSIDE/SCOTT"	3	545	399	960	587	274	917
+"IA"	2012	"Fremont"	"HAMBURG II"	3	61	86	151	82	55	146
+"IA"	2012	"Fremont"	"HAMBURG III"	3	57	56	119	66	40	115
+"IA"	2012	"Fremont"	"HAMBURG WARD I/WASHINGTON TWP"	3	199	196	402	224	137	384
+"IA"	2012	"Fremont"	"RIVERTON"	3	139	127	271	149	87	257
+"IA"	2012	"Fremont"	"SIDNEY"	3	569	433	1017	615	314	987
+"IA"	2012	"Greene"	"Central Precinct"	4	378	275	664	386	255	654
+"IA"	2012	"Greene"	"East Precinct"	4	302	419	736	326	379	725
+"IA"	2012	"Greene"	"Jefferson 1 Precinct"	4	305	340	659	298	334	641
+"IA"	2012	"Greene"	"Jefferson 2 Precinct"	4	337	366	714	318	365	700
+"IA"	2012	"Greene"	"Jefferson 3 Precinct"	4	427	454	903	409	459	892
+"IA"	2012	"Greene"	"North Precinct"	4	323	313	644	329	288	631
+"IA"	2012	"Greene"	"West Precinct"	4	308	208	526	298	203	514
+"IA"	2012	"Grundy"	"PRECINCT 1"	4	573	409	994	552	393	969
+"IA"	2012	"Grundy"	"PRECINCT 2"	4	299	134	441	281	152	438
+"IA"	2012	"Grundy"	"PRECINCT 3"	4	619	240	879	610	233	862
+"IA"	2012	"Grundy"	"PRECINCT 4"	4	371	139	520	362	139	508
+"IA"	2012	"Grundy"	"PRECINCT 5"	4	718	589	1324	693	550	1273
+"IA"	2012	"Grundy"	"PRECINCT 6"	4	852	553	1432	840	533	1390
+"IA"	2012	"Grundy"	"PRECINCT 7"	4	783	571	1372	736	573	1336
+"IA"	2012	"Guthrie"	"Black Precinct"	3	210	207	427	237	149	415
+"IA"	2012	"Guthrie"	"Blue Precinct"	3	731	536	1295	814	401	1261
+"IA"	2012	"Guthrie"	"Brown Precinct"	3	357	167	540	373	133	530
+"IA"	2012	"Guthrie"	"Gold Precinct"	3	590	524	1156	699	370	1126
+"IA"	2012	"Guthrie"	"Green Precinct"	3	345	327	682	378	240	660
+"IA"	2012	"Guthrie"	"Purple Precinct"	3	551	565	1137	603	439	1109
+"IA"	2012	"Guthrie"	"Red Precinct - Bayard/Highland/Orange"	3	208	166	389	238	117	375
+"IA"	2012	"Guthrie"	"White Precinct"	3	179	77	262	186	66	258
+"IA"	2012	"Hamilton"	"Precinct 1"	4	388	324	728	380	314	714
+"IA"	2012	"Hamilton"	"Precinct 2"	4	358	253	618	354	238	611
+"IA"	2012	"Hamilton"	"Precinct 3"	4	667	472	1171	677	453	1161
+"IA"	2012	"Hamilton"	"Precinct 4"	4	624	429	1075	590	443	1058
+"IA"	2012	"Hamilton"	"Precinct 5"	4	392	200	614	391	199	614
+"IA"	2012	"Hamilton"	"Webster City 1"	4	535	743	1295	531	710	1275
+"IA"	2012	"Hamilton"	"Webster City 2"	4	705	819	1545	693	801	1531
+"IA"	2012	"Hamilton"	"Webster City 3 / Cass"	4	322	542	881	308	531	868
+"IA"	2012	"Hancock"	"Precinct 1"	4	364	259	628	340	265	622
+"IA"	2012	"Hancock"	"Precinct 10"	4	94	80	180	86	87	180
+"IA"	2012	"Hancock"	"Precinct 2"	4	86	134	225	83	130	220
+"IA"	2012	"Hancock"	"Precinct 3"	4	109	92	206	101	87	199
+"IA"	2012	"Hancock"	"Precinct 4"	4	821	534	1365	784	534	1347
+"IA"	2012	"Hancock"	"Precinct 5"	4	123	73	202	108	80	197
+"IA"	2012	"Hancock"	"Precinct 6"	4	1007	805	1835	932	851	1818
+"IA"	2012	"Hancock"	"Precinct 7"	4	294	213	513	276	205	498
+"IA"	2012	"Hancock"	"Precinct 8"	4	159	128	298	160	120	293
+"IA"	2012	"Hancock"	"Precinct 9"	4	260	203	473	261	200	469
+"IA"	2012	"Hardin"	"Alden/Buckeye Precinct"	4	359	346	716	361	320	700
+"IA"	2012	"Hardin"	"Concord/Sherman/Grant/Tip"	4	789	478	1292	783	473	1288
+"IA"	2012	"Hardin"	"Eldora City Precinct"	4	651	567	1245	643	545	1227
+"IA"	2012	"Hardin"	"Eldora/Pleas/Prov/Union"	4	558	368	944	567	334	934
+"IA"	2012	"Hardin"	"Etna/Clay Precinct"	4	690	552	1271	697	508	1245
+"IA"	2012	"Hardin"	"Hardin/Ellis/Jackson Prec"	4	453	371	837	432	376	826
+"IA"	2012	"Hardin"	"Iowa Falls Precinct #1"	4	443	638	1095	425	616	1069
+"IA"	2012	"Hardin"	"Iowa Falls Precinct #2"	4	727	755	1498	729	718	1478
+"IA"	2012	"Harrison"	"Precinct #1"	4	58	85	146	60	81	144
+"IA"	2012	"Harrison"	"Precinct #10 - Logan"	4	349	343	703	354	307	681
+"IA"	2012	"Harrison"	"Precinct #11 - St. John Township"	4	410	280	700	400	269	689
+"IA"	2012	"Harrison"	"Precinct #12 - Missouri Valley"	4	597	652	1274	583	625	1245
+"IA"	2012	"Harrison"	"Precinct #13"	4	407	188	604	379	199	590
+"IA"	2012	"Harrison"	"Precinct #2"	4	192	112	310	173	120	308
+"IA"	2012	"Harrison"	"Precinct #3"	4	307	404	719	297	392	705
+"IA"	2012	"Harrison"	"Precinct #4"	4	230	145	385	216	144	377
+"IA"	2012	"Harrison"	"Precinct #5"	4	383	190	585	364	176	567
+"IA"	2012	"Harrison"	"Precinct #6"	4	161	98	262	159	93	258
+"IA"	2012	"Harrison"	"Precinct #7 - Woodbine"	4	402	330	741	414	289	723
+"IA"	2012	"Harrison"	"Precinct #8"	4	212	169	383	211	157	374
+"IA"	2012	"Harrison"	"Precinct #9"	4	357	140	510	327	147	492
+"IA"	2012	"Henry"	"Central Precinct"	2	879	606	1510	830	587	1455
+"IA"	2012	"Henry"	"Mt Pleasant Ward 1"	2	496	523	1047	485	511	1014
+"IA"	2012	"Henry"	"Mt Pleasant Ward 2"	2	422	528	968	422	492	934
+"IA"	2012	"Henry"	"Mt Pleasant Ward 3"	2	421	498	937	410	464	903
+"IA"	2012	"Henry"	"Mt Pleasant Ward 4"	2	452	333	800	442	331	786
+"IA"	2012	"Henry"	"Northeast Precinct"	2	543	387	952	531	351	913
+"IA"	2012	"Henry"	"Northwest Precinct"	2	586	393	999	533	411	960
+"IA"	2012	"Henry"	"Southeast Precinct"	2	814	874	1723	792	811	1664
+"IA"	2012	"Henry"	"Southwest Precinct"	2	422	318	761	381	324	730
+"IA"	2012	"Howard"	"Afton/Howard/Paris"	1	311	471	795	294	436	739
+"IA"	2012	"Howard"	"Albion/Forest City"	1	202	246	455	185	232	435
+"IA"	2012	"Howard"	"Chester/Oakdale"	1	97	120	222	94	101	203
+"IA"	2012	"Howard"	"Cresco 1A"	1	90	201	298	94	176	280
+"IA"	2012	"Howard"	"Cresco 2"	1	265	428	702	267	395	677
+"IA"	2012	"Howard"	"Cresco 3"	1	207	393	614	211	361	581
+"IA"	2012	"Howard"	"Jamestown"	1	120	138	265	128	113	246
+"IA"	2012	"Howard"	"New Oregon"	1	176	244	431	183	225	410
+"IA"	2012	"Howard"	"Saratoga/Howard Center"	1	127	133	260	122	119	245
+"IA"	2012	"Howard"	"Vernon Springs"	1	200	394	603	207	347	573
+"IA"	2012	"Humboldt"	"Avery-North Weaver"	4	137	143	281	134	135	279
+"IA"	2012	"Humboldt"	"Dakota City-Grove"	4	342	223	581	332	223	579
+"IA"	2012	"Humboldt"	"Delana-Wacousta-North Rutland"	4	230	138	373	221	136	361
+"IA"	2012	"Humboldt"	"Humboldt 1-Corinth-South Weaver"	4	731	379	1122	688	394	1103
+"IA"	2012	"Humboldt"	"Humboldt 2-Beaver-South Norway"	4	516	413	947	496	413	934
+"IA"	2012	"Humboldt"	"Humboldt 3-South Rutland"	4	657	430	1101	632	422	1080
+"IA"	2012	"Humboldt"	"Humboldt-West Vernon"	4	226	102	338	202	122	332
+"IA"	2012	"Humboldt"	"North Lake-East Vernon"	4	147	68	221	145	69	217
+"IA"	2012	"Humboldt"	"South Lake-North Norway"	4	113	76	194	108	69	188
+"IA"	2012	"Ida"	"City of Arthur"	4	267	129	407	307	92	404
+"IA"	2012	"Ida"	"City of Battle Creek & Grant Twp"	4	507	306	826	543	265	817
+"IA"	2012	"Ida"	"City of Galva"	4	188	74	267	196	64	263
+"IA"	2012	"Ida"	"City of Holstein"	4	579	370	966	613	326	956
+"IA"	2012	"Ida"	"Ida Grove Ward 1"	4	232	131	366	240	121	367
+"IA"	2012	"Ida"	"Ida Grove Ward 2"	4	259	150	411	273	125	409
+"IA"	2012	"Ida"	"Ida Grove Ward 3"	4	254	161	420	268	138	420
+"IA"	2012	"Iowa"	"Dayton/English I"	1	197	131	332	188	137	330
+"IA"	2012	"Iowa"	"English II"	1	326	287	623	295	296	604
+"IA"	2012	"Iowa"	"Fillmore/Greene"	1	335	335	678	340	314	663
+"IA"	2012	"Iowa"	"Hartford I/Sumner"	1	190	166	366	178	173	358
+"IA"	2012	"Iowa"	"Hartford II/Lincoln"	1	337	263	612	307	280	600
+"IA"	2012	"Iowa"	"Hilton/Washington"	1	412	310	742	395	314	722
+"IA"	2012	"Iowa"	"Honey Creek/Marengo Rural"	1	209	165	377	185	173	365
+"IA"	2012	"Iowa"	"Lenox/Iowa"	1	762	761	1550	715	760	1502
+"IA"	2012	"Iowa"	"Marengo City"	1	468	687	1171	438	667	1129
+"IA"	2012	"Iowa"	"Pilot/Troy/York"	1	429	230	672	398	251	662
+"IA"	2012	"Iowa"	"Williamsburg"	1	904	809	1743	845	817	1678
+"IA"	2012	"Jackson"	"Andrew City Hall - Pct 6"	1	300	331	645	275	333	616
+"IA"	2012	"Jackson"	"Bellevue City Hall - Pct 1"	1	591	974	1584	531	977	1524
+"IA"	2012	"Jackson"	"Courthouse Courtroom - Pct 7"	1	411	446	868	380	437	834
+"IA"	2012	"Jackson"	"Courthouse North Lobby - Pct 15 - 4th Ward Maquoketa City"	1	221	413	643	207	404	616
+"IA"	2012	"Jackson"	"LaMotte Recreation Center - Pct 3"	1	259	287	555	228	295	529
+"IA"	2012	"Jackson"	"Maquoketa City Hall - Pct 14 - 3rd Ward Maquoketa City"	1	160	356	528	153	346	507
+"IA"	2012	"Jackson"	"Maquoketa Fire Station - Pct 16 - 5th Ward Maquoketa City"	1	292	412	717	251	420	679
+"IA"	2012	"Jackson"	"Miles City Hall - Pct 10"	1	191	210	405	157	212	378
+"IA"	2012	"Jackson"	"Monmouth City Hall - Pct 5"	1	156	232	394	150	233	390
+"IA"	2012	"Jackson"	"Preston Community Hall - Pct 9"	1	435	518	970	366	534	912
+"IA"	2012	"Jackson"	"Sabula City Hall - Pct 11"	1	177	237	416	158	226	386
+"IA"	2012	"Jackson"	"Senior Citizen Building - Pct 12 - 1st Ward Maquoketa City"	1	143	354	503	128	352	484
+"IA"	2012	"Jackson"	"Skilled Unit Hospital Lobby - Pct 13 -2nd Ward Maquoketa City"	1	151	326	482	127	314	453
+"IA"	2012	"Jackson"	"Springbrook City Hall - Pct 8"	1	154	228	392	127	240	377
+"IA"	2012	"Jackson"	"St. Donatus City Hall - Pct 2"	1	317	252	579	291	273	567
+"IA"	2012	"Jackson"	"St. Lawrence Community Hall - Pct 4"	1	219	331	561	203	339	545
+"IA"	2012	"Jasper"	"CLEAR CREEK/POWESHIEK"	2	481	443	945	439	447	921
+"IA"	2012	"Jasper"	"COLFAX WARD 1"	2	93	197	295	90	183	282
+"IA"	2012	"Jasper"	"COLFAX WARD 2"	2	150	248	405	149	233	391
+"IA"	2012	"Jasper"	"COLFAX WARD 3"	2	102	237	350	100	229	343
+"IA"	2012	"Jasper"	"DES MOINES"	2	666	558	1258	619	572	1228
+"IA"	2012	"Jasper"	"ELK CREEK/LYNNGROVE"	2	1029	228	1279	988	243	1252
+"IA"	2012	"Jasper"	"FAIRVIEW"	2	656	651	1331	635	630	1299
+"IA"	2012	"Jasper"	"HG/K/RC/BV/RL"	2	1011	849	1896	938	849	1842
+"IA"	2012	"Jasper"	"INDEP/MALAKA/MARIPOSA"	2	525	627	1171	476	623	1132
+"IA"	2012	"Jasper"	"MOUND PRAIRIE/WASHINGTON"	2	349	352	713	331	358	696
+"IA"	2012	"Jasper"	"NEWTON 1-1"	2	332	687	1041	325	638	1003
+"IA"	2012	"Jasper"	"NEWTON 1-2"	2	265	538	818	235	529	795
+"IA"	2012	"Jasper"	"NEWTON 2-1"	2	389	723	1133	365	681	1084
+"IA"	2012	"Jasper"	"NEWTON 2-2"	2	375	471	865	352	463	836
+"IA"	2012	"Jasper"	"NEWTON 3-1"	2	438	691	1141	402	664	1090
+"IA"	2012	"Jasper"	"NEWTON 3-2"	2	282	579	882	263	553	848
+"IA"	2012	"Jasper"	"NEWTON 4-1"	2	621	733	1371	586	710	1325
+"IA"	2012	"Jasper"	"NEWTON 4-2"	2	229	530	783	234	506	761
+"IA"	2012	"Jasper"	"NEWTON/SHERMAN"	2	592	637	1253	539	647	1225
+"IA"	2012	"Jasper"	"PALO ALTO"	2	292	278	585	262	285	561
+"IA"	2012	"Jefferson"	"Blackhawk-Polk-Packwood"	2	279	122	408	256	133	393
+"IA"	2012	"Jefferson"	"Buchanan Township"	2	207	143	364	195	151	349
+"IA"	2012	"Jefferson"	"Center-Cedar-Maharishi Vedic City"	2	442	614	1085	426	618	1053
+"IA"	2012	"Jefferson"	"Fairfield 1st Ward"	2	461	657	1147	464	640	1115
+"IA"	2012	"Jefferson"	"Fairfield 2nd Ward"	2	121	918	1100	115	900	1042
+"IA"	2012	"Jefferson"	"Fairfield 3rd Ward"	2	248	402	687	241	386	641
+"IA"	2012	"Jefferson"	"Fairfield 4th Ward"	2	230	754	1026	216	735	971
+"IA"	2012	"Jefferson"	"Fairfield 5th Ward"	2	457	583	1071	447	582	1038
+"IA"	2012	"Jefferson"	"Liberty-Des Moines-Libertyville"	2	352	152	515	319	172	497
+"IA"	2012	"Jefferson"	"Locust Grove-Batavia"	2	179	165	354	169	160	344
+"IA"	2012	"Jefferson"	"Penn-Pleasant Plain"	2	136	92	231	120	95	217
+"IA"	2012	"Jefferson"	"Walnut-Lockridge-Round Prairie-Lockridge City-Coppock"	2	324	196	542	313	212	532
+"IA"	2012	"Johnson"	"BIG GROVE TOWNSHIP"	2	551	555	1117	496	588	1095
+"IA"	2012	"Johnson"	"CEDAR TOWNSHIP"	2	151	198	353	130	206	339
+"IA"	2012	"Johnson"	"CLEAR CREEK/TIFFIN"	2	477	804	1308	452	784	1251
+"IA"	2012	"Johnson"	"CORALVILLE 01"	2	344	1031	1433	335	1010	1374
+"IA"	2012	"Johnson"	"CORALVILLE 02"	2	587	972	1600	581	954	1554
+"IA"	2012	"Johnson"	"CORALVILLE 03"	2	287	604	902	281	584	873
+"IA"	2012	"Johnson"	"CORALVILLE 04"	2	265	996	1302	261	948	1241
+"IA"	2012	"Johnson"	"CORALVILLE 05"	2	344	977	1360	322	962	1303
+"IA"	2012	"Johnson"	"CORALVILLE 06"	2	752	957	1724	711	966	1685
+"IA"	2012	"Johnson"	"CORALVILLE 07"	2	459	1102	1598	441	1092	1547
+"IA"	2012	"Johnson"	"FREMONT-LINCOLN (INCLUDES"	2	399	582	997	360	594	971
+"IA"	2012	"Johnson"	"GRAHAM TOWNSHIP"	2	107	187	302	103	187	292
+"IA"	2012	"Johnson"	"HARDIN TOWNSHIP"	2	145	173	324	133	177	312
+"IA"	2012	"Johnson"	"HILLS"	2	140	294	450	137	296	440
+"IA"	2012	"Johnson"	"IC 10/ELSW"	2	312	927	1265	299	896	1211
+"IA"	2012	"Johnson"	"IC 12/EAST LUCAS SE"	2	314	1184	1530	308	1152	1479
+"IA"	2012	"Johnson"	"IOWA CITY 01"	2	535	1361	1919	504	1357	1882
+"IA"	2012	"Johnson"	"IOWA CITY 02"	2	531	1228	1796	522	1189	1728
+"IA"	2012	"Johnson"	"IOWA CITY 03"	2	565	1000	1614	533	850	1411
+"IA"	2012	"Johnson"	"IOWA CITY 04"	2	345	1130	1498	326	1091	1425
+"IA"	2012	"Johnson"	"IOWA CITY 05"	2	539	1075	1670	523	892	1446
+"IA"	2012	"Johnson"	"IOWA CITY 06"	2	513	1367	1917	486	1354	1858
+"IA"	2012	"Johnson"	"IOWA CITY 07"	2	347	872	1243	334	839	1188
+"IA"	2012	"Johnson"	"IOWA CITY 08"	2	612	1085	1710	567	1079	1652
+"IA"	2012	"Johnson"	"IOWA CITY 09"	2	430	1246	1713	416	1198	1637
+"IA"	2012	"Johnson"	"IOWA CITY 11"	2	591	1090	1742	535	936	1501
+"IA"	2012	"Johnson"	"IOWA CITY 13"	2	296	1079	1419	295	994	1315
+"IA"	2012	"Johnson"	"IOWA CITY 14"	2	259	1219	1512	252	1199	1476
+"IA"	2012	"Johnson"	"IOWA CITY 15"	2	247	943	1213	239	924	1180
+"IA"	2012	"Johnson"	"IOWA CITY 16"	2	336	1353	1725	327	1337	1680
+"IA"	2012	"Johnson"	"IOWA CITY 17"	2	363	1541	1979	355	1509	1889
+"IA"	2012	"Johnson"	"IOWA CITY 18"	2	260	1595	1920	261	1563	1854
+"IA"	2012	"Johnson"	"IOWA CITY 19"	2	429	994	1489	420	841	1292
+"IA"	2012	"Johnson"	"IOWA CITY 20"	2	504	1179	1740	479	1063	1569
+"IA"	2012	"Johnson"	"IOWA CITY 21"	2	335	1340	1749	326	1288	1640
+"IA"	2012	"Johnson"	"IOWA CITY 22"	2	349	1079	1456	346	994	1358
+"IA"	2012	"Johnson"	"IOWA CITY 23"	2	525	1486	2050	489	1482	2001
+"IA"	2012	"Johnson"	"IOWA CITY 24"	2	696	1111	1824	652	1099	1764
+"IA"	2012	"Johnson"	"JEFFERSON EAST/SHUEYVILLE"	2	841	699	1563	748	745	1511
+"IA"	2012	"Johnson"	"JW/MN/SW"	2	702	735	1445	627	783	1422
+"IA"	2012	"Johnson"	"LIBERTY-PLEASANT VALLEY"	2	157	223	384	132	240	378
+"IA"	2012	"Johnson"	"NEWPORT TOWNSHIP"	2	646	936	1600	603	960	1568
+"IA"	2012	"Johnson"	"NL06/MADISON /CCN"	2	787	1102	1932	732	1084	1844
+"IA"	2012	"Johnson"	"NORTH LIBERTY 01"	2	502	821	1340	486	782	1289
+"IA"	2012	"Johnson"	"NORTH LIBERTY 02"	2	497	849	1360	451	850	1321
+"IA"	2012	"Johnson"	"NORTH LIBERTY 03 (PW)"	2	603	890	1522	556	903	1473
+"IA"	2012	"Johnson"	"NORTH LIBERTY 04"	2	359	904	1285	338	869	1226
+"IA"	2012	"Johnson"	"NORTH LIBERTY 05"	2	459	837	1317	421	806	1240
+"IA"	2012	"Johnson"	"OXFORD TOWNSHIP/OXFORD"	2	304	539	855	272	534	826
+"IA"	2012	"Johnson"	"PENN/ EAST LUCAS NORTH"	2	715	1223	1961	682	1219	1918
+"IA"	2012	"Johnson"	"SCOTT TWP-WEST BRANCH"	2	352	630	1000	333	634	974
+"IA"	2012	"Johnson"	"SHARON TOWNSHIP"	2	208	150	364	197	151	352
+"IA"	2012	"Johnson"	"SOLON"	2	447	715	1179	397	724	1139
+"IA"	2012	"Johnson"	"UNION TOWNSHIP"	2	180	248	433	153	259	418
+"IA"	2012	"Johnson"	"UNIVERSITY HEIGHTS"	2	233	531	773	226	513	747
+"IA"	2012	"Johnson"	"WASHINGTON TOWNSHIP"	2	262	207	479	266	195	464
+"IA"	2012	"Johnson"	"WEST LUCAS TOWNSHIP"	2	203	511	722	187	494	695
+"IA"	2012	"Jones"	"ANN-ANAMOSA NORTH/CASS"	1	502	657	1179	475	649	1142
+"IA"	2012	"Jones"	"ANS-ANAMOSA SOUTH/JACKSON"	1	673	992	1702	655	956	1656
+"IA"	2012	"Jones"	"CGLW-CASTLE GRV/LOV/WAYN"	1	632	566	1218	580	585	1201
+"IA"	2012	"Jones"	"FV-FAIRVIEW"	1	570	537	1119	556	523	1101
+"IA"	2012	"Jones"	"GF-GREENFIELD"	1	202	197	411	199	202	409
+"IA"	2012	"Jones"	"MN1-MONTICELLO 1"	1	186	289	482	192	275	471
+"IA"	2012	"Jones"	"MN2-MONTICELLO 2"	1	218	303	534	211	297	521
+"IA"	2012	"Jones"	"MN3-MONTICELLO 3"	1	157	290	452	150	276	443
+"IA"	2012	"Jones"	"MN4-MONTICELLO 4"	1	225	258	496	213	259	483
+"IA"	2012	"Jones"	"OX-OXFORD"	1	152	170	329	137	174	318
+"IA"	2012	"Jones"	"RLWS-RICHLAND/WASHINGTON"	1	354	288	653	344	292	643
+"IA"	2012	"Jones"	"ROHA-ROME/HALE"	1	308	427	752	307	408	732
+"IA"	2012	"Jones"	"SGMC-SC GRV/MADISON/CLAY"	1	354	320	683	333	318	668
+"IA"	2012	"Jones"	"WY-WYOMING"	1	188	240	439	187	229	425
+"IA"	2012	"Keokuk"	"ADAMS"	2	146	99	249	128	102	231
+"IA"	2012	"Keokuk"	"BENTON, STEADY RUN"	2	328	260	601	309	246	574
+"IA"	2012	"Keokuk"	"EAST, WEST LANCASTER"	2	107	64	178	97	64	163
+"IA"	2012	"Keokuk"	"ENGLISH RIVER, LIBERTY"	2	232	188	433	193	202	412
+"IA"	2012	"Keokuk"	"JACKSON"	2	138	123	264	132	110	249
+"IA"	2012	"Keokuk"	"LAFAYETTE, CLEAR CREEK"	2	412	348	772	379	342	732
+"IA"	2012	"Keokuk"	"PRAIRIE"	2	119	87	211	111	79	194
+"IA"	2012	"Keokuk"	"RICHLAND"	2	251	153	416	232	160	397
+"IA"	2012	"Keokuk"	"SIG 1"	2	138	120	262	144	102	250
+"IA"	2012	"Keokuk"	"SIG 2"	2	132	121	254	115	125	244
+"IA"	2012	"Keokuk"	"SIG 3"	2	119	110	233	118	95	215
+"IA"	2012	"Keokuk"	"SIG 4"	2	170	119	294	145	130	280
+"IA"	2012	"Keokuk"	"SIGOURNEY, PLANK,  VAN BUREN"	2	253	170	434	230	161	401
+"IA"	2012	"Keokuk"	"WARREN"	2	96	121	228	90	111	204
+"IA"	2012	"Keokuk"	"WHAT CHEER,  WASHINGTON"	2	202	220	437	191	202	406
+"IA"	2012	"Kossuth"	"AL1"	4	344	379	736	322	397	728
+"IA"	2012	"Kossuth"	"AL2"	4	465	438	908	446	429	890
+"IA"	2012	"Kossuth"	"AL3"	4	370	400	780	327	432	775
+"IA"	2012	"Kossuth"	"AL4"	4	365	349	730	344	360	721
+"IA"	2012	"Kossuth"	"BF, PT                        "	4	303	220	528	286	213	519
+"IA"	2012	"Kossuth"	"BT, FT, UN                    "	4	413	382	810	394	371	793
+"IA"	2012	"Kossuth"	"CR 1"	4	26	11	37	21	15	36
+"IA"	2012	"Kossuth"	"CR 2"	4	124	75	200	106	90	199
+"IA"	2012	"Kossuth"	"CR, IV, RV                    "	4	337	246	592	333	248	592
+"IA"	2012	"Kossuth"	"EG, GT, HS, SW                "	4	382	175	569	343	209	568
+"IA"	2012	"Kossuth"	"GF, WM                        "	4	331	209	549	297	231	540
+"IA"	2012	"Kossuth"	"GM, RM                        "	4	328	275	607	302	287	605
+"IA"	2012	"Kossuth"	"GW, SN                        "	4	106	68	181	106	66	181
+"IA"	2012	"Kossuth"	"HB, LY, LN, SF                "	4	295	180	483	261	200	478
+"IA"	2012	"Kossuth"	"IV, PC                        "	4	62	37	100	57	38	100
+"IA"	2012	"Kossuth"	"LC"	4	82	38	121	78	38	119
+"IA"	2012	"Kossuth"	"LV, SM                        "	4	184	120	313	174	129	312
+"IA"	2012	"Kossuth"	"PC"	4	128	38	167	114	48	163
+"IA"	2012	"Kossuth"	"PR, WL                        "	4	252	174	435	241	182	429
+"IA"	2012	"Kossuth"	"UN"	4	40	36	77	32	43	78
+"IA"	2012	"Lee"	"CENTRAL LEE HIGH SCHOOL-C"	2	551	546	1125	480	604	1106
+"IA"	2012	"Lee"	"CITY CAR BARN"	2	184	494	692	167	485	671
+"IA"	2012	"Lee"	"EVANGELICAL FREE CHURCH"	2	157	432	607	134	444	591
+"IA"	2012	"Lee"	"FT MADISON CITY HALL"	2	207	325	552	197	330	536
+"IA"	2012	"Lee"	"FT MADISON PUBLIC LIBRARY"	2	311	638	968	280	642	938
+"IA"	2012	"Lee"	"GRACE BIBLE CHURCH-GB"	2	877	799	1701	808	853	1692
+"IA"	2012	"Lee"	"HAWTHORNE SCHOOL"	2	381	472	869	338	492	847
+"IA"	2012	"Lee"	"HERITAGE CENTER A"	2	54	153	215	44	160	214
+"IA"	2012	"Lee"	"HERITAGE CENTER B"	2	108	282	405	91	296	396
+"IA"	2012	"Lee"	"HILLVIEW VILLAGE"	2	339	702	1052	311	702	1035
+"IA"	2012	"Lee"	"HOLY TRINITY HIGH SCHOOL"	2	297	511	830	277	526	818
+"IA"	2012	"Lee"	"IVOR FOWLER COMM CENTER-M"	2	475	594	1109	446	607	1078
+"IA"	2012	"Lee"	"JACKSON TWP FIRE STATION"	2	524	553	1098	462	600	1084
+"IA"	2012	"Lee"	"JIM BAIER FORD"	2	346	360	718	319	366	695
+"IA"	2012	"Lee"	"KEOKUK PUBLIC LIBRARY"	2	223	422	672	203	438	658
+"IA"	2012	"Lee"	"LEARNING CENTER"	2	338	509	855	295	541	845
+"IA"	2012	"Lee"	"MCALEER HALL"	2	328	554	900	308	559	884
+"IA"	2012	"Lee"	"PILOT GROVE BANK COMM ROO"	2	678	665	1372	586	726	1336
+"IA"	2012	"Lee"	"SOUTH LEE COUNTY COURTHOU"	2	243	350	612	227	367	600
+"IA"	2012	"Lee"	"WEST POINT LIBRARY-PR"	2	944	1065	2044	872	1090	1998
+"IA"	2012	"Linn"	"CR01 River of Life Ministries"	1	633	824	1495	632	787	1447
+"IA"	2012	"Linn"	"CR02 Northbrook Baptist Church"	1	578	821	1427	555	785	1376
+"IA"	2012	"Linn"	"CR03 Noelridge Christian Church"	1	506	491	1012	476	489	975
+"IA"	2012	"Linn"	"CR04 St Marks Lutheran Church"	1	777	601	1392	737	600	1348
+"IA"	2012	"Linn"	"CR05 Mt Zion Missionary Baptist Church"	1	586	914	1534	599	844	1463
+"IA"	2012	"Linn"	"CR06 Peace Christian Church"	1	828	848	1709	785	858	1667
+"IA"	2012	"Linn"	"CR07 Kirkwood Training Center"	1	330	634	992	314	622	956
+"IA"	2012	"Linn"	"CR08 Harding Middle School"	1	514	898	1443	490	887	1404
+"IA"	2012	"Linn"	"CR09 St Pius X Catholic Church"	1	457	853	1350	461	822	1314
+"IA"	2012	"Linn"	"CR10 Lovely Lane United Methodist Church"	1	909	1047	1984	849	1043	1918
+"IA"	2012	"Linn"	"CR11 Community of Christ"	1	1033	734	1775	949	767	1726
+"IA"	2012	"Linn"	"CR12 Oakland Church of the Nazarene"	1	1118	967	2104	1020	1017	2050
+"IA"	2012	"Linn"	"CR13 Isaac Newton Christian Academy"	1	528	1107	1680	529	1064	1643
+"IA"	2012	"Linn"	"CR14 Arthur Elementary School"	1	551	1079	1671	533	1069	1632
+"IA"	2012	"Linn"	"CR15 Washington High School"	1	494	738	1259	481	728	1231
+"IA"	2012	"Linn"	"CR16 Franklin Middle School"	1	473	1006	1531	473	978	1490
+"IA"	2012	"Linn"	"CR17 First Lutheran Church"	1	294	973	1309	284	946	1258
+"IA"	2012	"Linn"	"CR18 St James United Methodist Church"	1	409	736	1163	404	690	1129
+"IA"	2012	"Linn"	"CR19 Madison Elementary School"	1	720	1160	1919	690	1126	1852
+"IA"	2012	"Linn"	"CR20 Holy Redeemer Lutheran Church"	1	727	1100	1856	686	1079	1797
+"IA"	2012	"Linn"	"CR21 Immanuel Baptist Church"	1	533	1043	1606	489	1040	1559
+"IA"	2012	"Linn"	"CR22 First Presbyterian Church"	1	142	698	866	152	644	823
+"IA"	2012	"Linn"	"CR23 Johnson Elementary School"	1	303	1154	1493	299	1107	1444
+"IA"	2012	"Linn"	"CR24 Bethany Lutheran Church"	1	843	1035	1905	801	1041	1866
+"IA"	2012	"Linn"	"CR25 Calvin Sinclair Presbyterian Church"	1	1036	1269	2339	977	1269	2273
+"IA"	2012	"Linn"	"CR26 Grant Wood Elementary School"	1	619	1364	2024	611	1321	1971
+"IA"	2012	"Linn"	"CR27 Linn County Day Care"	1	370	961	1369	348	942	1334
+"IA"	2012	"Linn"	"CR28 CR First Church of the Nazarene"	1	578	1292	1907	552	1269	1855
+"IA"	2012	"Linn"	"CR29 IBEW Local 405"	1	565	1098	1695	525	1096	1645
+"IA"	2012	"Linn"	"CR30 Gloria Dei Lutheran Church"	1	597	1157	1790	558	1144	1739
+"IA"	2012	"Linn"	"CR31 Cedar Hills Community Church"	1	942	991	1954	885	995	1903
+"IA"	2012	"Linn"	"CR32 Calvary Baptist Church"	1	450	1046	1521	444	994	1473
+"IA"	2012	"Linn"	"CR33 Taylor Elementary School"	1	370	1177	1583	369	1122	1534
+"IA"	2012	"Linn"	"CR34 Linn County Elections Depot"	1	274	1041	1354	276	997	1315
+"IA"	2012	"Linn"	"CR35 African-American Historical Museum"	1	257	996	1292	245	950	1254
+"IA"	2012	"Linn"	"CR36 St Stephens Lutheran Church"	1	653	1269	1955	621	1226	1909
+"IA"	2012	"Linn"	"CR37 Hope Lutheran Church"	1	498	1324	1848	496	1266	1794
+"IA"	2012	"Linn"	"CR38 Elks Lodge"	1	423	985	1433	416	940	1397
+"IA"	2012	"Linn"	"CR39 Linn County Community Services Building"	1	621	1239	1896	596	1199	1833
+"IA"	2012	"Linn"	"CR40 Salem Methodist Church"	1	345	893	1258	339	871	1237
+"IA"	2012	"Linn"	"CR41 Moose Lodge"	1	654	1160	1848	643	1108	1782
+"IA"	2012	"Linn"	"CR42 Grant Wood AEA"	1	495	707	1224	478	679	1177
+"IA"	2012	"Linn"	"CR43 Recreation Center - Kirkwood Community College"	1	300	847	1177	301	801	1128
+"IA"	2012	"Linn"	"CR44 Recreation Center - Kirkwood Community College"	1	231	614	870	242	569	833
+"IA"	2012	"Linn"	"FAI Fairfax Public Library"	1	642	687	1351	596	703	1319
+"IA"	2012	"Linn"	"HIA01 Hope United Church of Christ"	1	817	990	1842	776	970	1779
+"IA"	2012	"Linn"	"HIA02 Hiawatha City Hall Comm Center"	1	425	900	1351	429	881	1323
+"IA"	2012	"Linn"	"HIA03 Hiawatha City Hall Multi Purpose Rm"	1	247	270	525	238	263	514
+"IA"	2012	"Linn"	"HIA04 King of Kings Lutheran Church"	1	120	50	174	118	49	167
+"IA"	2012	"Linn"	"MR01 Marion Public Library"	1	425	851	1316	414	825	1273
+"IA"	2012	"Linn"	"MR02 Kirkwood Training Services"	1	366	506	894	350	502	865
+"IA"	2012	"Linn"	"MR03 Grace Baptist Church"	1	517	787	1336	512	771	1308
+"IA"	2012	"Linn"	"MR04 Marion School Admin Building"	1	446	708	1185	410	698	1131
+"IA"	2012	"Linn"	"MR05 Lutheran Church of the Resurrection"	1	780	828	1629	738	822	1574
+"IA"	2012	"Linn"	"MR06 First Baptist Church"	1	964	1106	2115	930	1098	2063
+"IA"	2012	"Linn"	"MR07 St Pauls Lutheran Church"	1	1036	813	1881	992	812	1825
+"IA"	2012	"Linn"	"MR08 Squaw Creek Baptist Church"	1	626	975	1644	642	920	1595
+"IA"	2012	"Linn"	"MR09 Ascension Lutheran Church"	1	649	874	1561	633	859	1528
+"IA"	2012	"Linn"	"MR10 Marion Fire Department Headquarters"	1	500	835	1368	482	814	1321
+"IA"	2012	"Linn"	"MR11 Marion Christian Church"	1	1117	832	1972	1069	835	1927
+"IA"	2012	"Linn"	"MR12 Lowe Park Arts and Environment Center"	1	397	473	888	375	471	856
+"IA"	2012	"Linn"	"MR13 Christ Community Church"	1	623	636	1282	600	622	1240
+"IA"	2012	"Linn"	"MR14 Faith Lutheran Church"	1	754	461	1227	706	472	1190
+"IA"	2012	"Linn"	"MVN Mount Vernon City Hall"	1	280	613	916	266	614	892
+"IA"	2012	"Linn"	"MVS St Johns Catholic Church"	1	494	1160	1697	488	1080	1604
+"IA"	2012	"Linn"	"ROB Robins Community Center"	1	1295	760	2093	1203	817	2040
+"IA"	2012	"Linn"	"TBER Antioch Christian Church"	1	1226	934	2196	1159	940	2140
+"IA"	2012	"Linn"	"TBOU Prairieburg City Hall"	1	150	155	310	140	157	299
+"IA"	2012	"Linn"	"TBRO Springville Memorial Library"	1	581	600	1198	536	607	1161
+"IA"	2012	"Linn"	"TBUF Camp Wakonda"	1	144	162	309	148	155	307
+"IA"	2012	"Linn"	"TCLI Stoney Point YMCA"	1	237	239	486	231	245	483
+"IA"	2012	"Linn"	"TCOL Prairie High School"	1	165	220	390	151	224	384
+"IA"	2012	"Linn"	"TFAI Guaranty Bank"	1	448	459	923	435	456	904
+"IA"	2012	"Linn"	"TFAY Palo City Hall and Community Center"	1	337	357	699	323	354	687
+"IA"	2012	"Linn"	"TFRA Lisbon City Hall"	1	618	995	1646	596	968	1592
+"IA"	2012	"Linn"	"TGRA Walker Community Room"	1	333	391	733	299	410	716
+"IA"	2012	"Linn"	"TJAC Coggon American Legion"	1	348	442	808	345	431	787
+"IA"	2012	"Linn"	"TLIN Community Bible Church"	1	286	202	494	263	209	479
+"IA"	2012	"Linn"	"TMAI Falcon Civic Center"	1	434	556	999	425	536	980
+"IA"	2012	"Linn"	"TMAR Knights of Columbus Hall"	1	667	429	1119	635	452	1098
+"IA"	2012	"Linn"	"TMON1 King of Kings Lutheran Church"	1	718	566	1304	697	551	1264
+"IA"	2012	"Linn"	"TMON2 Blair Ridge Baptist Church"	1	800	412	1225	760	427	1200
+"IA"	2012	"Linn"	"TOTT Alburnett United Methodist Church"	1	437	380	827	406	381	805
+"IA"	2012	"Linn"	"TPUT Ely Public Library"	1	567	844	1421	538	836	1388
+"IA"	2012	"Linn"	"TSPR North Linn High School"	1	199	232	440	201	225	430
+"IA"	2012	"Linn"	"TWAS Center Point City Hall"	1	843	1000	1867	838	957	1817
+"IA"	2012	"Louisa"	"Columbus Junction"	2	235	365	611	230	347	592
+"IA"	2012	"Louisa"	"Grandview-Port Louisa"	2	445	503	964	430	467	929
+"IA"	2012	"Louisa"	"Morning Sun - Marshall"	2	333	318	668	327	296	639
+"IA"	2012	"Louisa"	"Southeast Louisa"	2	829	771	1631	785	739	1568
+"IA"	2012	"Louisa"	"West Louisa"	2	578	495	1094	574	452	1055
+"IA"	2012	"Lucas"	"Chariton City Hall"	2	428	490	940	401	454	876
+"IA"	2012	"Lucas"	"Chariton Community Center"	2	499	476	983	454	435	914
+"IA"	2012	"Lucas"	"L.C. Extension Office"	2	244	154	404	229	147	384
+"IA"	2012	"Lucas"	"Lucas"	2	289	217	519	268	222	507
+"IA"	2012	"Lucas"	"Pine Oak Marsh"	2	265	185	456	230	189	428
+"IA"	2012	"Lucas"	"Russell"	2	231	227	469	233	199	441
+"IA"	2012	"Lucas"	"Williamson"	2	298	238	552	281	230	520
+"IA"	2012	"Lyon"	"Doon - P2"	4	817	82	905	801	89	895
+"IA"	2012	"Lyon"	"George -  P1"	4	1056	227	1296	1014	221	1261
+"IA"	2012	"Lyon"	"Inwood - P3"	4	474	130	612	459	134	601
+"IA"	2012	"Lyon"	"Larchwood - P4"	4	421	281	728	391	269	675
+"IA"	2012	"Lyon"	"Lester - P5"	4	389	76	472	368	91	463
+"IA"	2012	"Lyon"	"Little Rock - P6"	4	272	86	365	268	85	359
+"IA"	2012	"Lyon"	"Rock Rapids - P7"	4	610	250	884	598	232	848
+"IA"	2012	"Lyon"	"Rock Rapids - P8"	4	939	291	1247	884	295	1202
+"IA"	2012	"Madison"	"Grand River - Monroe - Webster - Macksburg"	3	256	154	424	265	128	416
+"IA"	2012	"Madison"	"Jackson - Douglas - Lincoln"	3	419	278	712	440	222	696
+"IA"	2012	"Madison"	"Jefferson - Lee"	3	510	298	825	553	235	818
+"IA"	2012	"Madison"	"Penn - Madison - Earlham"	3	682	456	1158	724	359	1126
+"IA"	2012	"Madison"	"South - St. Charles"	3	450	363	836	492	285	820
+"IA"	2012	"Madison"	"Union - Crawford - Scott - Bevington - Patterson"	3	646	504	1185	693	412	1169
+"IA"	2012	"Madison"	"Walnut - Ohio - East Peru - Truro"	3	369	305	690	390	245	669
+"IA"	2012	"Madison"	"Winterset 1"	3	617	590	1233	702	439	1198
+"IA"	2012	"Madison"	"Winterset 2"	3	689	682	1395	770	530	1368
+"IA"	2012	"Mahaska"	"AD/MN/PG/UN"	2	398	159	569	370	165	544
+"IA"	2012	"Mahaska"	"BO/ST"	2	560	129	691	535	131	675
+"IA"	2012	"Mahaska"	"CE/HA/WO"	2	582	384	989	570	359	952
+"IA"	2012	"Mahaska"	"EDM/JF/WDM"	2	227	157	394	219	145	373
+"IA"	2012	"Mahaska"	"GF/LN/MD"	2	678	335	1022	647	311	978
+"IA"	2012	"Mahaska"	"OSKALOOSA - 1ST WARD"	2	494	618	1148	514	557	1107
+"IA"	2012	"Mahaska"	"OSKALOOSA - 2ND WARD"	2	654	561	1249	626	511	1162
+"IA"	2012	"Mahaska"	"OSKALOOSA - 3RD WARD/UNIVERSITY PARK"	2	935	716	1691	898	659	1589
+"IA"	2012	"Mahaska"	"OSKALOOSA - 4TH WARD"	2	737	583	1347	718	544	1284
+"IA"	2012	"Mahaska"	"PR/RL"	2	728	376	1120	709	344	1076
+"IA"	2012	"Mahaska"	"SP/KE"	2	455	195	663	443	190	640
+"IA"	2012	"Marion"	"Clay"	2	276	206	491	262	196	472
+"IA"	2012	"Marion"	"Dallas"	2	312	496	828	288	494	797
+"IA"	2012	"Marion"	"Indiana Township"	2	177	208	390	167	200	372
+"IA"	2012	"Marion"	"Knoxville Four"	2	314	390	724	282	400	694
+"IA"	2012	"Marion"	"Knoxville One"	2	308	496	822	299	453	774
+"IA"	2012	"Marion"	"Knoxville Three"	2	430	665	1111	408	636	1062
+"IA"	2012	"Marion"	"Knoxville Township"	2	821	766	1616	752	768	1547
+"IA"	2012	"Marion"	"Knoxville Two"	2	400	506	927	387	486	893
+"IA"	2012	"Marion"	"Lake Prairie Township"	2	1000	277	1289	969	276	1254
+"IA"	2012	"Marion"	"Liberty"	2	207	230	447	198	232	435
+"IA"	2012	"Marion"	"Otley"	2	787	355	1173	772	353	1138
+"IA"	2012	"Marion"	"Pella Four"	2	614	411	1056	595	334	949
+"IA"	2012	"Marion"	"Pella One"	2	1005	486	1527	962	465	1449
+"IA"	2012	"Marion"	"Pella Three"	2	1141	506	1675	1111	472	1602
+"IA"	2012	"Marion"	"Pella Two"	2	1060	461	1546	1023	446	1483
+"IA"	2012	"Marion"	"Pleasantville"	2	844	915	1793	778	896	1714
+"IA"	2012	"Marion"	"Washington Township"	2	132	133	272	120	133	254
+"IA"	2012	"Marshall"	"BANGOR/LISCOMB"	1	243	206	464	242	175	431
+"IA"	2012	"Marshall"	"EDEN/LOGAN"	1	455	499	973	444	456	930
+"IA"	2012	"Marshall"	"FIRST BAPTIST CHURCH 4-1"	1	487	917	1428	461	875	1372
+"IA"	2012	"Marshall"	"FIRST BAPTIST CHURCH 4-2"	1	799	818	1641	770	772	1578
+"IA"	2012	"Marshall"	"FISHER COMM CENTER 3-2"	1	991	1022	2042	936	945	1934
+"IA"	2012	"Marshall"	"FISHER COMMUNTY CENTR 3-1"	1	785	835	1642	749	807	1582
+"IA"	2012	"Marshall"	"GREEN CASTLE"	1	278	275	566	263	257	541
+"IA"	2012	"Marshall"	"IVH MALLOY HALL 2-2"	1	862	944	1832	819	905	1751
+"IA"	2012	"Marshall"	"JEFFERSON"	1	215	238	464	210	219	441
+"IA"	2012	"Marshall"	"LEGRAND"	1	434	419	867	412	370	804
+"IA"	2012	"Marshall"	"LIBERTY/MINERVA"	1	218	174	400	215	152	379
+"IA"	2012	"Marshall"	"MARIETTA/WASHINGTON"	1	255	186	446	246	162	421
+"IA"	2012	"Marshall"	"MARION/VIENNA"	1	396	298	705	380	287	678
+"IA"	2012	"Marshall"	"MILLER MIDDLE SCHOOL 2-1"	1	491	882	1396	487	805	1332
+"IA"	2012	"Marshall"	"PUBLIC LIBRARY 1-1"	1	100	651	769	114	600	732
+"IA"	2012	"Marshall"	"PUBLIC LIBRARY 1-2"	1	229	742	998	244	661	938
+"IA"	2012	"Marshall"	"STATE CENTER"	1	549	502	1079	521	448	1007
+"IA"	2012	"Marshall"	"TAYLOR"	1	336	352	698	317	324	664
+"IA"	2012	"Marshall"	"TIMBER CREEK"	1	349	297	654	338	260	614
+"IA"	2012	"Mills"	"Deer Creek Twp - White Cloud Twp"	3	112	71	189	119	46	176
+"IA"	2012	"Mills"	"Emerson - Hastings - Indian Creek Township"	3	253	146	408	259	109	396
+"IA"	2012	"Mills"	"Glenwood Township"	3	432	220	663	430	163	626
+"IA"	2012	"Mills"	"Glenwood Ward 1"	3	302	270	582	312	194	534
+"IA"	2012	"Mills"	"Glenwood Ward 2"	3	375	303	691	377	231	645
+"IA"	2012	"Mills"	"Glenwood Ward 3"	3	518	407	948	517	305	872
+"IA"	2012	"Mills"	"Henderson - Anderson Twp"	3	145	95	247	145	74	241
+"IA"	2012	"Mills"	"Malvern - Tabor/Center Twp - Rawles Twp - Silver Creek Twp"	3	678	528	1226	736	359	1169
+"IA"	2012	"Mills"	"Oak Twp - Saint Mary Twp"	3	914	496	1439	894	391	1361
+"IA"	2012	"Mills"	"Pacific Junction - Lyon Twp - Plattville Twp"	3	299	201	517	293	135	483
+"IA"	2012	"Mills"	"Silver City - Ingraham Twp"	3	188	111	302	195	77	294
+"IA"	2012	"Mitchell"	"Carpenter Community Center"	1	195	200	403	202	175	385
+"IA"	2012	"Mitchell"	"Lincoln School"	1	191	241	445	191	213	420
+"IA"	2012	"Mitchell"	"Mitchell City Hall"	1	411	315	736	367	296	678
+"IA"	2012	"Mitchell"	"Mitchell County Courthouse"	1	193	265	465	182	242	436
+"IA"	2012	"Mitchell"	"New Haven Chruch"	1	161	141	307	159	121	284
+"IA"	2012	"Mitchell"	"Osage City Hall"	1	221	295	537	219	267	498
+"IA"	2012	"Mitchell"	"Osage Methodist Church"	1	214	184	406	195	168	377
+"IA"	2012	"Mitchell"	"Our Saviors Lutheran Church"	1	229	276	510	214	247	475
+"IA"	2012	"Mitchell"	"Riceville City Hall"	1	202	275	483	194	254	457
+"IA"	2012	"Mitchell"	"St. Ansgar Lutheran Center"	1	457	424	903	461	370	849
+"IA"	2012	"Mitchell"	"Stacyville Library"	1	169	215	391	156	178	346
+"IA"	2012	"Monona"	"AS001"	4	257	173	437	271	150	429
+"IA"	2012	"Monona"	"CN002"	4	131	110	245	142	98	246
+"IA"	2012	"Monona"	"CP003"	4	415	402	828	453	349	818
+"IA"	2012	"Monona"	"FV004"	4	443	285	741	450	271	732
+"IA"	2012	"Monona"	"MH005"	4	242	216	469	265	180	461
+"IA"	2012	"Monona"	"ON106"	4	140	158	302	146	142	296
+"IA"	2012	"Monona"	"ON207"	4	252	171	430	260	153	427
+"IA"	2012	"Monona"	"ON308"	4	220	182	411	230	165	404
+"IA"	2012	"Monona"	"ON409"	4	146	145	297	153	134	297
+"IA"	2012	"Monona"	"SH010"	4	155	134	297	169	123	297
+"IA"	2012	"Monona"	"STC11"	4	156	125	285	159	111	281
+"IA"	2012	"Monroe"	"No. 1 - Albia 1st Ward"	2	246	207	462	215	218	438
+"IA"	2012	"Monroe"	"No. 2 - Albia 2nd Ward"	2	206	208	419	184	190	388
+"IA"	2012	"Monroe"	"No. 3 - Albia 3rd Ward"	2	148	206	357	148	186	340
+"IA"	2012	"Monroe"	"No. 4 - Albia 4th Ward"	2	184	236	424	168	226	401
+"IA"	2012	"Monroe"	"No. 5 - Courthouse"	2	748	452	1229	658	498	1181
+"IA"	2012	"Monroe"	"No. 6 - Lovilia Community Center"	2	328	262	611	302	275	588
+"IA"	2012	"Monroe"	"No. 7 - St. Patrick's Church - FR,JK,WY Townships/ML City"	2	166	160	328	144	169	318
+"IA"	2012	"Montgomery"	"Precinct Five - Grant"	3	187	87	281	187	69	274
+"IA"	2012	"Montgomery"	"Precinct Four - Elliott"	3	304	153	465	322	95	450
+"IA"	2012	"Montgomery"	"Precinct One - Gold Fair Building"	3	549	363	926	596	252	896
+"IA"	2012	"Montgomery"	"Precinct Seven - Villisca"	3	396	300	718	447	213	696
+"IA"	2012	"Montgomery"	"Precinct Six - Stanton"	3	416	206	637	424	141	612
+"IA"	2012	"Montgomery"	"Precinct Three - First Christian Church"	3	678	404	1100	714	312	1054
+"IA"	2012	"Montgomery"	"Precinct Two - Red Oak Fire Station"	3	471	409	898	506	313	865
+"IA"	2012	"Muscatine"	"Bloomington"	2	832	538	1384	827	501	1340
+"IA"	2012	"Muscatine"	"Fruitland One"	2	245	421	681	235	404	656
+"IA"	2012	"Muscatine"	"Fruitland Two/Lake"	2	300	259	568	302	230	539
+"IA"	2012	"Muscatine"	"Fulton/Montpelier"	2	464	414	894	444	391	864
+"IA"	2012	"Muscatine"	"Goshen"	2	116	156	278	115	141	268
+"IA"	2012	"Muscatine"	"Muscatine Eighth"	2	233	575	825	226	548	793
+"IA"	2012	"Muscatine"	"Muscatine Fifth"	2	216	565	808	209	534	773
+"IA"	2012	"Muscatine"	"Muscatine First"	2	676	681	1373	680	628	1323
+"IA"	2012	"Muscatine"	"Muscatine Fourth"	2	273	520	815	253	516	787
+"IA"	2012	"Muscatine"	"Muscatine Ninth"	2	341	686	1042	341	631	998
+"IA"	2012	"Muscatine"	"Muscatine Second"	2	435	651	1110	419	617	1061
+"IA"	2012	"Muscatine"	"Muscatine Seventh"	2	285	606	918	271	595	896
+"IA"	2012	"Muscatine"	"Muscatine Sixth"	2	621	733	1372	599	707	1332
+"IA"	2012	"Muscatine"	"Muscatine Tenth"	2	318	649	978	294	628	937
+"IA"	2012	"Muscatine"	"Muscatine Third"	2	298	622	943	288	604	919
+"IA"	2012	"Muscatine"	"Orono"	2	82	99	185	80	95	178
+"IA"	2012	"Muscatine"	"Pike"	2	180	226	416	180	211	400
+"IA"	2012	"Muscatine"	"Seventy-Six/Cedar"	2	182	170	355	168	166	343
+"IA"	2012	"Muscatine"	"Sweetland"	2	601	549	1173	594	504	1123
+"IA"	2012	"Muscatine"	"West Liberty 2"	2	135	477	626	135	461	612
+"IA"	2012	"Muscatine"	"West Liberty/Wapsie"	2	418	698	1130	404	675	1102
+"IA"	2012	"Muscatine"	"Wilton City"	2	606	775	1409	624	691	1353
+"IA"	2012	"Muscatine"	"Wilton/Moscow"	2	311	253	582	306	249	561
+"IA"	2012	"O'Brien"	"Carroll - Floyd"	4	315	72	393	310	72	391
+"IA"	2012	"O'Brien"	"Franklin"	4	673	170	853	668	156	836
+"IA"	2012	"O'Brien"	"Hartley - Lincoln - Omega"	4	716	388	1125	731	359	1109
+"IA"	2012	"O'Brien"	"Sheldon 1st Ward"	4	864	177	1048	836	176	1027
+"IA"	2012	"O'Brien"	"Sheldon 2nd Ward"	4	575	195	781	547	208	763
+"IA"	2012	"O'Brien"	"Sheldon 3rd Ward"	4	495	173	682	496	162	671
+"IA"	2012	"O'Brien"	"Summit - Center - Dale - Highland"	4	571	316	894	579	302	888
+"IA"	2012	"O'Brien"	"Union - Baker- Caledonia"	4	648	247	914	656	227	895
+"IA"	2012	"O'Brien"	"Waterman - Grant - Liberty"	4	409	231	651	414	207	640
+"IA"	2012	"Osceola"	"Ashton Precinct"	4	289	100	393	305	78	390
+"IA"	2012	"Osceola"	"Harris Precinct"	4	123	54	183	123	54	181
+"IA"	2012	"Osceola"	"May City Precinct"	4	124	53	178	114	61	177
+"IA"	2012	"Osceola"	"Melvin Precinct"	4	191	74	266	191	63	260
+"IA"	2012	"Osceola"	"Ocheyedan Precinct"	4	208	93	315	213	85	303
+"IA"	2012	"Osceola"	"Osceola 1 Precinct"	4	352	150	507	343	145	503
+"IA"	2012	"Osceola"	"Osceola 2 Precinct"	4	469	184	669	471	165	655
+"IA"	2012	"Osceola"	"Osceola 3 Precinct"	4	474	204	683	482	182	674
+"IA"	2012	"Page"	"Clarinda Ward 1"	3	166	107	278	176	84	272
+"IA"	2012	"Page"	"Clarinda Ward 2"	3	508	383	905	519	334	888
+"IA"	2012	"Page"	"Clarinda Ward 3"	3	576	388	983	605	331	968
+"IA"	2012	"Page"	"Coin Community Building"	3	235	106	352	245	87	349
+"IA"	2012	"Page"	"Essex"	3	395	176	582	409	140	573
+"IA"	2012	"Page"	"Page County Courthouse"	3	556	204	772	576	165	762
+"IA"	2012	"Page"	"Shambaugh Community Building"	3	358	192	558	348	168	546
+"IA"	2012	"Page"	"Shenandoah Fire Station"	3	316	127	450	322	102	442
+"IA"	2012	"Page"	"Shenandoah Ward 1"	3	249	298	552	272	233	531
+"IA"	2012	"Page"	"Shenandoah Ward 2"	3	469	297	784	478	244	758
+"IA"	2012	"Page"	"Shenandoah Ward 3"	3	520	335	863	527	284	840
+"IA"	2012	"Palo Alto"	"EM Ward 3/SL/pt. HL&WL&EM"	4	489	416	922	463	421	905
+"IA"	2012	"Palo Alto"	"EM Ward 4/FV/FF/FR/IN/VN/pt. EM"	4	552	466	1040	532	469	1014
+"IA"	2012	"Palo Alto"	"Emmetsburg Ward 1"	4	265	244	513	255	234	503
+"IA"	2012	"Palo Alto"	"Emmetsburg Ward 2"	4	195	256	459	193	246	446
+"IA"	2012	"Palo Alto"	"GR/RV/LI pt. HL & WL"	4	411	474	901	406	440	877
+"IA"	2012	"Palo Alto"	"WB/EL/RL/BO/GO/NV"	4	748	283	1052	712	305	1041
+"IA"	2012	"Plymouth"	"Akron Library"	4	500	332	845	513	302	834
+"IA"	2012	"Plymouth"	"American Bank"	4	334	120	461	340	112	455
+"IA"	2012	"Plymouth"	"Brunsville Legion"	4	543	229	786	552	211	774
+"IA"	2012	"Plymouth"	"Courthouse Annex"	4	373	108	485	355	111	479
+"IA"	2012	"Plymouth"	"Hinton Community Center"	4	799	365	1178	793	359	1169
+"IA"	2012	"Plymouth"	"Kingsley Community Center"	4	680	303	992	704	269	984
+"IA"	2012	"Plymouth"	"Kissinger Community Center"	4	548	337	902	583	299	891
+"IA"	2012	"Plymouth"	"Le Mars Convention Center - 11"	4	1061	593	1679	1041	585	1652
+"IA"	2012	"Plymouth"	"Le Mars Convention Center - 12"	4	1232	569	1819	1203	570	1786
+"IA"	2012	"Plymouth"	"Le Mars Convention Center - 13"	4	742	477	1253	751	452	1232
+"IA"	2012	"Plymouth"	"Perry Township Hall"	4	659	262	933	653	251	920
+"IA"	2012	"Plymouth"	"Remsen Library"	4	869	333	1215	870	322	1203
+"IA"	2012	"Plymouth"	"Westfield Community Center"	4	257	136	402	257	130	395
+"IA"	2012	"Pocahontas"	"Bellville-Lizard-S Lincoln-S Lake"	4	287	125	420	288	126	417
+"IA"	2012	"Pocahontas"	"Cedar-Colfax-Dover"	4	306	212	534	310	203	528
+"IA"	2012	"Pocahontas"	"Des Moines-Cummins-Powhatan-N Garland-N Sherman-N Roosevelt"	4	487	283	789	456	292	769
+"IA"	2012	"Pocahontas"	"Grant-S Marshall-S Sherman"	4	147	66	223	147	60	214
+"IA"	2012	"Pocahontas"	"Pocahontas #1"	4	478	387	886	446	402	868
+"IA"	2012	"Pocahontas"	"Pocahontas #2-Center-S Roosevelt-N Lincoln-N Lake-S Garfield"	4	228	148	385	226	153	380
+"IA"	2012	"Pocahontas"	"Swan Lake-N Marshall"	4	463	302	795	458	291	772
+"IA"	2012	"Polk"	"ALLEMAN-1"	3	345	194	550	375	152	543
+"IA"	2012	"Polk"	"ALLEN-1"	3	103	144	251	113	129	247
+"IA"	2012	"Polk"	"ALTOONA-1"	3	433	659	1114	507	497	1067
+"IA"	2012	"Polk"	"ALTOONA-2"	3	681	873	1596	754	732	1557
+"IA"	2012	"Polk"	"ALTOONA-3"	3	894	1056	1988	997	854	1940
+"IA"	2012	"Polk"	"ALTOONA-4"	3	955	960	1961	1062	786	1919
+"IA"	2012	"Polk"	"ALTOONA-5"	3	904	721	1642	987	588	1612
+"IA"	2012	"Polk"	"ANKENY-1"	3	1293	1026	2352	1399	802	2274
+"IA"	2012	"Polk"	"ANKENY-10"	3	929	776	1746	1043	599	1708
+"IA"	2012	"Polk"	"ANKENY-11"	3	988	862	1893	1059	700	1835
+"IA"	2012	"Polk"	"ANKENY-12"	3	1069	822	1928	1176	635	1870
+"IA"	2012	"Polk"	"ANKENY-13"	3	1449	976	2458	1558	801	2406
+"IA"	2012	"Polk"	"ANKENY-14"	3	748	706	1481	813	577	1431
+"IA"	2012	"Polk"	"ANKENY-15"	3	909	749	1686	1009	580	1640
+"IA"	2012	"Polk"	"ANKENY-2"	3	1190	739	1942	1250	605	1896
+"IA"	2012	"Polk"	"ANKENY-3"	3	773	690	1501	867	536	1449
+"IA"	2012	"Polk"	"ANKENY-4"	3	999	853	1892	1086	695	1848
+"IA"	2012	"Polk"	"ANKENY-5"	3	972	975	1996	1045	809	1939
+"IA"	2012	"Polk"	"ANKENY-6"	3	948	888	1862	1014	742	1820
+"IA"	2012	"Polk"	"ANKENY-7"	3	647	727	1416	733	579	1368
+"IA"	2012	"Polk"	"ANKENY-8"	3	947	802	1785	1014	658	1743
+"IA"	2012	"Polk"	"ANKENY-9"	3	679	759	1464	731	620	1426
+"IA"	2012	"Polk"	"BONDURANT-1"	3	548	494	1069	611	381	1026
+"IA"	2012	"Polk"	"BONDURANT-2"	3	570	493	1090	624	384	1059
+"IA"	2012	"Polk"	"CLAY-1"	3	346	289	649	374	225	631
+"IA"	2012	"Polk"	"CLIVE-1"	3	393	566	982	424	499	964
+"IA"	2012	"Polk"	"CLIVE-2"	3	684	769	1484	761	634	1450
+"IA"	2012	"Polk"	"CLIVE-3"	3	1128	907	2059	1212	750	2008
+"IA"	2012	"Polk"	"CLIVE-4"	3	1200	706	1921	1273	589	1884
+"IA"	2012	"Polk"	"CROCKER-1"	3	830	653	1491	860	536	1457
+"IA"	2012	"Polk"	"CROCKER-2"	3	495	298	800	522	245	783
+"IA"	2012	"Polk"	"DELAWARE-1"	3	415	775	1224	475	643	1206
+"IA"	2012	"Polk"	"DELAWARE-2"	3	133	214	354	146	181	347
+"IA"	2012	"Polk"	"DES MOINES-1"	3	226	360	598	250	299	585
+"IA"	2012	"Polk"	"DES MOINES-10"	3	589	964	1582	653	839	1544
+"IA"	2012	"Polk"	"DES MOINES-11"	3	587	940	1551	650	797	1500
+"IA"	2012	"Polk"	"DES MOINES-12"	3	275	563	859	308	481	840
+"IA"	2012	"Polk"	"DES MOINES-13"	3	373	675	1076	435	559	1042
+"IA"	2012	"Polk"	"DES MOINES-14"	3	282	671	988	333	589	968
+"IA"	2012	"Polk"	"DES MOINES-15"	3	765	1513	2327	896	1317	2276
+"IA"	2012	"Polk"	"DES MOINES-16"	3	632	1306	1984	721	1144	1946
+"IA"	2012	"Polk"	"DES MOINES-17"	3	256	737	1012	290	661	994
+"IA"	2012	"Polk"	"DES MOINES-18"	3	97	550	658	120	495	650
+"IA"	2012	"Polk"	"DES MOINES-19"	3	134	499	647	167	432	632
+"IA"	2012	"Polk"	"DES MOINES-2"	3	296	770	1085	351	640	1062
+"IA"	2012	"Polk"	"DES MOINES-20"	3	320	931	1278	367	792	1248
+"IA"	2012	"Polk"	"DES MOINES-21"	3	373	933	1344	427	806	1294
+"IA"	2012	"Polk"	"DES MOINES-22"	3	237	811	1076	285	725	1072
+"IA"	2012	"Polk"	"DES MOINES-23"	3	99	814	927	118	757	911
+"IA"	2012	"Polk"	"DES MOINES-24"	3	259	478	760	283	412	741
+"IA"	2012	"Polk"	"DES MOINES-25"	3	321	677	1021	337	590	996
+"IA"	2012	"Polk"	"DES MOINES-26"	3	488	961	1493	551	822	1463
+"IA"	2012	"Polk"	"DES MOINES-27"	3	365	720	1122	403	631	1099
+"IA"	2012	"Polk"	"DES MOINES-28"	3	537	1110	1683	608	947	1658
+"IA"	2012	"Polk"	"DES MOINES-29"	3	581	722	1320	643	608	1290
+"IA"	2012	"Polk"	"DES MOINES-3"	3	555	1054	1635	581	943	1597
+"IA"	2012	"Polk"	"DES MOINES-30"	3	334	691	1053	385	592	1028
+"IA"	2012	"Polk"	"DES MOINES-31"	3	340	933	1305	412	795	1292
+"IA"	2012	"Polk"	"DES MOINES-32"	3	182	785	993	213	685	969
+"IA"	2012	"Polk"	"DES MOINES-33"	3	118	686	822	154	611	806
+"IA"	2012	"Polk"	"DES MOINES-34"	3	78	417	502	94	378	488
+"IA"	2012	"Polk"	"DES MOINES-35"	3	52	419	482	66	407	499
+"IA"	2012	"Polk"	"DES MOINES-36"	3	64	903	983	96	861	986
+"IA"	2012	"Polk"	"DES MOINES-37"	3	101	701	819	130	650	829
+"IA"	2012	"Polk"	"DES MOINES-38"	3	256	486	757	280	392	709
+"IA"	2012	"Polk"	"DES MOINES-39"	3	453	1228	1721	511	1097	1691
+"IA"	2012	"Polk"	"DES MOINES-4"	3	259	645	934	298	580	917
+"IA"	2012	"Polk"	"DES MOINES-40"	3	230	521	774	237	476	735
+"IA"	2012	"Polk"	"DES MOINES-41"	3	609	1444	2098	696	1275	2047
+"IA"	2012	"Polk"	"DES MOINES-42"	3	699	1260	1999	785	1064	1946
+"IA"	2012	"Polk"	"DES MOINES-43"	3	384	900	1312	424	798	1276
+"IA"	2012	"Polk"	"DES MOINES-44"	3	343	1104	1486	391	980	1445
+"IA"	2012	"Polk"	"DES MOINES-45"	3	135	627	782	167	549	749
+"IA"	2012	"Polk"	"DES MOINES-46"	3	149	809	980	170	743	956
+"IA"	2012	"Polk"	"DES MOINES-47"	3	123	705	854	144	647	837
+"IA"	2012	"Polk"	"DES MOINES-48"	3	30	154	186	36	138	182
+"IA"	2012	"Polk"	"DES MOINES-49"	3	103	362	476	117	330	467
+"IA"	2012	"Polk"	"DES MOINES-5"	3	209	455	676	238	388	657
+"IA"	2012	"Polk"	"DES MOINES-50"	3	371	723	1121	408	644	1092
+"IA"	2012	"Polk"	"DES MOINES-51"	3	215	662	892	239	589	870
+"IA"	2012	"Polk"	"DES MOINES-52"	3	182	541	730	194	489	714
+"IA"	2012	"Polk"	"DES MOINES-53"	3	164	449	626	180	386	610
+"IA"	2012	"Polk"	"DES MOINES-54"	3	95	343	441	104	301	427
+"IA"	2012	"Polk"	"DES MOINES-55"	3	350	1062	1452	411	948	1404
+"IA"	2012	"Polk"	"DES MOINES-56"	3	210	843	1090	249	754	1056
+"IA"	2012	"Polk"	"DES MOINES-57"	3	119	569	711	140	522	691
+"IA"	2012	"Polk"	"DES MOINES-58"	3	292	980	1315	338	879	1289
+"IA"	2012	"Polk"	"DES MOINES-59"	3	406	1031	1480	452	918	1424
+"IA"	2012	"Polk"	"DES MOINES-6"	3	223	562	807	266	460	787
+"IA"	2012	"Polk"	"DES MOINES-60"	3	299	880	1205	353	780	1178
+"IA"	2012	"Polk"	"DES MOINES-61"	3	493	773	1275	543	681	1250
+"IA"	2012	"Polk"	"DES MOINES-62"	3	803	1474	2304	928	1289	2270
+"IA"	2012	"Polk"	"DES MOINES-63"	3	448	921	1385	516	808	1365
+"IA"	2012	"Polk"	"DES MOINES-64"	3	407	920	1351	453	830	1320
+"IA"	2012	"Polk"	"DES MOINES-65"	3	749	960	1737	801	868	1704
+"IA"	2012	"Polk"	"DES MOINES-66"	3	635	1125	1794	709	978	1764
+"IA"	2012	"Polk"	"DES MOINES-67"	3	62	213	281	80	183	274
+"IA"	2012	"Polk"	"DES MOINES-68"	3	271	642	938	315	551	924
+"IA"	2012	"Polk"	"DES MOINES-69"	3	371	877	1267	405	773	1243
+"IA"	2012	"Polk"	"DES MOINES-7"	3	404	1067	1515	450	917	1479
+"IA"	2012	"Polk"	"DES MOINES-70"	3	248	625	894	295	529	870
+"IA"	2012	"Polk"	"DES MOINES-71"	3	622	912	1564	662	801	1532
+"IA"	2012	"Polk"	"DES MOINES-72"	3	39	44	83	42	36	83
+"IA"	2012	"Polk"	"DES MOINES-73"	3	526	706	1254	565	605	1215
+"IA"	2012	"Polk"	"DES MOINES-74"	3	227	297	531	246	259	526
+"IA"	2012	"Polk"	"DES MOINES-75"	3	368	810	1204	400	713	1176
+"IA"	2012	"Polk"	"DES MOINES-76"	3	395	864	1281	458	749	1257
+"IA"	2012	"Polk"	"DES MOINES-77"	3	342	802	1159	386	689	1144
+"IA"	2012	"Polk"	"DES MOINES-78"	3	370	755	1147	410	648	1125
+"IA"	2012	"Polk"	"DES MOINES-79"	3	405	1006	1457	466	855	1416
+"IA"	2012	"Polk"	"DES MOINES-8"	3	266	600	884	305	514	866
+"IA"	2012	"Polk"	"DES MOINES-80"	3	624	1153	1811	681	997	1766
+"IA"	2012	"Polk"	"DES MOINES-81"	3	395	699	1118	432	613	1105
+"IA"	2012	"Polk"	"DES MOINES-82"	3	402	614	1028	440	521	1007
+"IA"	2012	"Polk"	"DES MOINES-83"	3	477	990	1504	539	847	1468
+"IA"	2012	"Polk"	"DES MOINES-84"	3	176	557	754	230	469	735
+"IA"	2012	"Polk"	"DES MOINES-9"	3	526	925	1475	564	810	1435
+"IA"	2012	"Polk"	"DOUGLAS-1"	3	445	264	723	460	231	713
+"IA"	2012	"Polk"	"ELKHART-1"	3	497	334	847	519	284	837
+"IA"	2012	"Polk"	"FOUR MILE-1"	3	795	599	1418	845	495	1392
+"IA"	2012	"Polk"	"FRANKLIN-1"	3	503	352	862	525	299	844
+"IA"	2012	"Polk"	"GRANGER-1"	3	90	46	137	95	38	133
+"IA"	2012	"Polk"	"GRIMES-1"	3	1154	884	2076	1283	662	2016
+"IA"	2012	"Polk"	"GRIMES-2"	3	1134	880	2047	1224	690	1991
+"IA"	2012	"Polk"	"GRIMES-3"	3	537	568	1134	612	447	1101
+"IA"	2012	"Polk"	"JEFFERSON-1"	3	796	437	1251	820	357	1225
+"IA"	2012	"Polk"	"JOHNSTON-1"	3	1051	960	2062	1117	793	1990
+"IA"	2012	"Polk"	"JOHNSTON-2"	3	897	935	1857	959	799	1802
+"IA"	2012	"Polk"	"JOHNSTON-3"	3	1060	632	1714	1114	525	1679
+"IA"	2012	"Polk"	"JOHNSTON-4"	3	1181	717	1910	1238	594	1856
+"IA"	2012	"Polk"	"JOHNSTON-5"	3	1266	1054	2353	1344	868	2279
+"IA"	2012	"Polk"	"JOHNSTON-6"	3	660	398	1078	687	343	1058
+"IA"	2012	"Polk"	"MADISON-1"	3	71	31	106	75	27	103
+"IA"	2012	"Polk"	"MITCHELLVILLE-1"	3	709	639	1378	740	548	1360
+"IA"	2012	"Polk"	"PLEASANT HILL-1"	3	753	945	1733	806	807	1693
+"IA"	2012	"Polk"	"PLEASANT HILL-2"	3	760	834	1617	825	707	1582
+"IA"	2012	"Polk"	"PLEASANT HILL-3"	3	709	738	1472	755	622	1436
+"IA"	2012	"Polk"	"POLK CITY-1"	3	1202	934	2186	1287	784	2137
+"IA"	2012	"Polk"	"RUNNELLS-1"	3	720	552	1298	748	460	1271
+"IA"	2012	"Polk"	"SAYLOR-1"	3	785	839	1655	832	701	1623
+"IA"	2012	"Polk"	"SAYLOR-2"	3	583	675	1291	623	571	1264
+"IA"	2012	"Polk"	"SHELDAHL-1"	3	185	119	306	202	93	299
+"IA"	2012	"Polk"	"URBANDALE-1"	3	806	880	1712	855	754	1669
+"IA"	2012	"Polk"	"URBANDALE-10"	3	968	814	1800	1065	645	1768
+"IA"	2012	"Polk"	"URBANDALE-11"	3	983	587	1587	1040	488	1555
+"IA"	2012	"Polk"	"URBANDALE-2"	3	818	972	1821	916	797	1774
+"IA"	2012	"Polk"	"URBANDALE-3"	3	788	997	1812	862	840	1784
+"IA"	2012	"Polk"	"URBANDALE-4"	3	958	787	1770	1048	648	1737
+"IA"	2012	"Polk"	"URBANDALE-5"	3	783	850	1663	863	710	1621
+"IA"	2012	"Polk"	"URBANDALE-6"	3	743	1002	1773	840	838	1731
+"IA"	2012	"Polk"	"URBANDALE-7"	3	1185	878	2088	1282	723	2051
+"IA"	2012	"Polk"	"URBANDALE-8"	3	858	905	1794	947	755	1766
+"IA"	2012	"Polk"	"URBANDALE-9"	3	936	945	1913	1022	791	1871
+"IA"	2012	"Polk"	"WASHINGTON-1"	3	164	95	266	176	73	262
+"IA"	2012	"Polk"	"WDM-111"	3	449	803	1274	502	673	1239
+"IA"	2012	"Polk"	"WDM-112"	3	331	468	821	358	418	810
+"IA"	2012	"Polk"	"WDM-113"	3	416	858	1311	477	734	1275
+"IA"	2012	"Polk"	"WDM-114"	3	814	1044	1887	886	898	1841
+"IA"	2012	"Polk"	"WDM-115"	3	632	624	1268	685	538	1252
+"IA"	2012	"Polk"	"WDM-116"	3	758	831	1608	815	704	1566
+"IA"	2012	"Polk"	"WDM-117"	3	743	765	1528	788	673	1507
+"IA"	2012	"Polk"	"WDM-118"	3	495	894	1416	547	751	1359
+"IA"	2012	"Polk"	"WDM-211"	3	608	710	1337	676	586	1302
+"IA"	2012	"Polk"	"WDM-212"	3	661	970	1656	736	821	1612
+"IA"	2012	"Polk"	"WDM-213"	3	709	454	1183	768	373	1160
+"IA"	2012	"Polk"	"WDM-311"	3	1025	695	1739	1095	578	1697
+"IA"	2012	"Polk"	"WDM-312"	3	828	787	1648	887	677	1609
+"IA"	2012	"Polk"	"WDM-313"	3	489	333	839	530	257	807
+"IA"	2012	"Polk"	"WDM-314"	3	286	396	699	315	348	680
+"IA"	2012	"Polk"	"WDM-315"	3	760	843	1628	831	707	1577
+"IA"	2012	"Polk"	"WDM-316"	3	1039	834	1902	1101	721	1865
+"IA"	2012	"Polk"	"WDM-317"	3	1100	742	1864	1144	630	1808
+"IA"	2012	"Polk"	"WDM-318"	3	497	182	682	516	148	675
+"IA"	2012	"Polk"	"WEBSTER-1"	3	142	190	339	159	156	333
+"IA"	2012	"Polk"	"WINDSOR HEIGHTS-1"	3	382	548	944	419	472	923
+"IA"	2012	"Polk"	"WINDSOR HEIGHTS-2"	3	474	555	1040	511	492	1028
+"IA"	2012	"Polk"	"WINDSOR HEIGHTS-3"	3	453	770	1247	487	678	1213
+"IA"	2012	"Pottawattamie"	"Avoca"	3	580	496	1091	598	376	1034
+"IA"	2012	"Pottawattamie"	"CB 01"	3	290	473	785	302	385	743
+"IA"	2012	"Pottawattamie"	"CB 02"	3	528	645	1203	545	542	1158
+"IA"	2012	"Pottawattamie"	"CB 03"	3	395	558	976	395	474	929
+"IA"	2012	"Pottawattamie"	"CB 04"	3	379	570	968	406	438	909
+"IA"	2012	"Pottawattamie"	"CB 05"	3	421	603	1037	430	497	1002
+"IA"	2012	"Pottawattamie"	"CB 06"	3	719	728	1468	764	590	1406
+"IA"	2012	"Pottawattamie"	"CB 07"	3	637	696	1362	649	586	1311
+"IA"	2012	"Pottawattamie"	"CB 08"	3	815	798	1650	861	650	1574
+"IA"	2012	"Pottawattamie"	"CB 09"	3	672	652	1345	695	526	1266
+"IA"	2012	"Pottawattamie"	"CB 10A"	3	976	818	1812	980	684	1739
+"IA"	2012	"Pottawattamie"	"CB 10B"	3	834	489	1337	811	425	1278
+"IA"	2012	"Pottawattamie"	"CB 11"	3	639	785	1460	682	638	1394
+"IA"	2012	"Pottawattamie"	"CB 12"	3	762	646	1445	800	531	1390
+"IA"	2012	"Pottawattamie"	"CB 13"	3	294	488	802	326	403	769
+"IA"	2012	"Pottawattamie"	"CB 14"	3	296	527	844	324	418	812
+"IA"	2012	"Pottawattamie"	"CB 15"	3	314	570	906	347	467	872
+"IA"	2012	"Pottawattamie"	"CB 16"	3	353	640	1024	401	492	978
+"IA"	2012	"Pottawattamie"	"CB 17"	3	491	753	1276	526	607	1207
+"IA"	2012	"Pottawattamie"	"CB 18"	3	469	612	1105	482	493	1046
+"IA"	2012	"Pottawattamie"	"CB 19"	3	313	408	735	345	317	707
+"IA"	2012	"Pottawattamie"	"CB 20"	3	461	432	910	469	347	873
+"IA"	2012	"Pottawattamie"	"CB 21"	3	382	441	846	399	358	817
+"IA"	2012	"Pottawattamie"	"Carson"	3	306	186	497	304	139	466
+"IA"	2012	"Pottawattamie"	"Carter Lake 1"	3	357	353	724	354	297	691
+"IA"	2012	"Pottawattamie"	"Carter Lake 2"	3	353	408	778	365	316	733
+"IA"	2012	"Pottawattamie"	"Crescent"	3	898	662	1593	879	552	1514
+"IA"	2012	"Pottawattamie"	"GLWCW"	3	308	157	470	315	112	451
+"IA"	2012	"Pottawattamie"	"Garner"	3	1213	646	1888	1195	522	1786
+"IA"	2012	"Pottawattamie"	"Hancock"	3	146	82	231	153	52	224
+"IA"	2012	"Pottawattamie"	"Lewis 1"	3	883	508	1411	878	411	1354
+"IA"	2012	"Pottawattamie"	"Lewis 2"	3	1027	506	1568	974	437	1486
+"IA"	2012	"Pottawattamie"	"Macedonia"	3	134	75	211	131	60	204
+"IA"	2012	"Pottawattamie"	"McClelland"	3	465	170	641	469	123	616
+"IA"	2012	"Pottawattamie"	"Minden"	3	475	216	698	468	167	665
+"IA"	2012	"Pottawattamie"	"Neola"	3	627	356	1003	648	261	965
+"IA"	2012	"Pottawattamie"	"Oakland"	3	710	381	1118	748	278	1084
+"IA"	2012	"Pottawattamie"	"Treynor"	3	749	286	1048	749	197	989
+"IA"	2012	"Pottawattamie"	"Underwood"	3	905	597	1521	919	467	1455
+"IA"	2012	"Pottawattamie"	"Walnut"	3	284	227	514	298	180	497
+"IA"	2012	"Poweshiek"	"1ST WARD - 06.06GR"	1	267	1115	1414	247	1085	1342
+"IA"	2012	"Poweshiek"	"2ND WARD - 07.07GR"	1	604	819	1448	576	808	1403
+"IA"	2012	"Poweshiek"	"3RD WARD - 08.08GR"	1	282	668	967	297	616	935
+"IA"	2012	"Poweshiek"	"4TH WARD - 09.09GR"	1	421	727	1182	398	726	1155
+"IA"	2012	"Poweshiek"	"BMWJ"	1	857	685	1570	645	897	1554
+"IA"	2012	"Poweshiek"	"CGWS"	1	564	352	935	544	351	908
+"IA"	2012	"Poweshiek"	"DRL"	1	252	127	387	222	143	372
+"IA"	2012	"Poweshiek"	"JUPS"	1	602	349	966	559	349	925
+"IA"	2012	"Poweshiek"	"MONTEZUMA - 11.11MO"	1	382	319	704	331	316	654
+"IA"	2012	"Poweshiek"	"MS"	1	193	196	402	167	226	396
+"IA"	2012	"Ringgold"	"Athens"	3	156	130	291	164	118	292
+"IA"	2012	"Ringgold"	"Clinton"	3	96	81	184	96	75	178
+"IA"	2012	"Ringgold"	"Mount Ayr 1"	3	312	310	626	334	269	620
+"IA"	2012	"Ringgold"	"Mount Ayr 2"	3	336	307	650	339	278	638
+"IA"	2012	"Ringgold"	"Tingley"	3	101	64	170	100	57	165
+"IA"	2012	"Ringgold"	"Union"	3	128	108	240	135	87	230
+"IA"	2012	"Ringgold"	"Washington"	3	239	186	438	253	153	432
+"IA"	2012	"Sac"	"Auburn"	4	159	126	293	182	108	295
+"IA"	2012	"Sac"	"Early"	4	234	151	393	243	137	389
+"IA"	2012	"Sac"	"Lake View"	4	542	365	921	605	293	915
+"IA"	2012	"Sac"	"Lytton"	4	180	122	306	182	112	296
+"IA"	2012	"Sac"	"Nemaha"	4	143	70	215	153	57	215
+"IA"	2012	"Sac"	"Odebolt"	4	453	231	691	524	156	685
+"IA"	2012	"Sac"	"Sac City"	4	608	605	1229	635	548	1220
+"IA"	2012	"Sac"	"Schaller"	4	386	255	652	399	229	641
+"IA"	2012	"Sac"	"Wall Lake"	4	389	197	591	439	144	587
+"IA"	2012	"Scott"	"(AG) ALLEN'S GROVE TOWNSHIP AG"	2	211	128	342	208	120	334
+"IA"	2012	"Scott"	"(B11) CITY OF BETTENDORF B11"	2	962	1062	2052	983	972	1995
+"IA"	2012	"Scott"	"(B12) CITY OF BETTENDORF B12"	2	893	1085	2008	860	1026	1924
+"IA"	2012	"Scott"	"(B21) CITY OF BETTENDORF B21"	2	546	726	1295	552	666	1242
+"IA"	2012	"Scott"	"(B22) CITY OF BETTENDORF B22"	2	1020	1090	2145	1049	1001	2075
+"IA"	2012	"Scott"	"(B23) CITY OF BETTENDORF B23"	2	220	186	410	213	170	390
+"IA"	2012	"Scott"	"(B31) CITY OF BETTENDORF B31"	2	914	1001	1937	912	907	1853
+"IA"	2012	"Scott"	"(B32) CITY OF BETTENDORF B32"	2	923	1035	1975	928	950	1899
+"IA"	2012	"Scott"	"(B41) CITY OF BETTENDORF B41"	2	1420	793	2227	1454	699	2169
+"IA"	2012	"Scott"	"(B42) CITY OF BETTENDORF B42"	2	1172	1061	2278	1171	991	2194
+"IA"	2012	"Scott"	"(B51) CITY OF BETTENDORF B51"	2	1191	1002	2226	1203	903	2139
+"IA"	2012	"Scott"	"(B52) CITY OF BETTENDORF B52"	2	1511	820	2356	1520	746	2291
+"IA"	2012	"Scott"	"(BF) CITY OF BUFFALO BF"	2	211	391	615	221	360	596
+"IA"	2012	"Scott"	"(BG) BLUE GRASS TOWNSHIP BG"	2	839	775	1633	798	730	1560
+"IA"	2012	"Scott"	"(BU) BUFFALO TOWNSHIP BU"	2	968	858	1860	934	795	1770
+"IA"	2012	"Scott"	"(D11) CITY OF DAVENPORT D11"	2	588	860	1467	598	798	1424
+"IA"	2012	"Scott"	"(D12) CITY OF DAVENPORT D12"	2	434	1056	1512	452	971	1452
+"IA"	2012	"Scott"	"(D13) CITY OF DAVENPORT D13"	2	608	1191	1823	615	1109	1767
+"IA"	2012	"Scott"	"(D14) CITY OF DAVENPORT D14"	2	382	971	1385	402	894	1339
+"IA"	2012	"Scott"	"(D21) CITY OF DAVENPORT D21"	2	603	1104	1732	619	1011	1667
+"IA"	2012	"Scott"	"(D22) CITY OF DAVENPORT D22"	2	442	834	1305	467	765	1259
+"IA"	2012	"Scott"	"(D23) CITY OF DAVENPORT D23"	2	624	754	1400	624	714	1364
+"IA"	2012	"Scott"	"(D24) CITY OF DAVENPORT D24"	2	554	1110	1687	530	1050	1611
+"IA"	2012	"Scott"	"(D31) CITY OF DAVENPORT D31"	2	284	1000	1311	307	929	1273
+"IA"	2012	"Scott"	"(D32) CITY OF DAVENPORT D32"	2	169	809	999	189	743	961
+"IA"	2012	"Scott"	"(D33) CITY OF DAVENPORT D33"	2	177	723	924	185	665	884
+"IA"	2012	"Scott"	"(D34) CITY OF DAVENPORT D34"	2	210	1043	1280	236	974	1239
+"IA"	2012	"Scott"	"(D41) CITY OF DAVENPORT D41"	2	616	1239	1889	620	1156	1818
+"IA"	2012	"Scott"	"(D42) CITY OF DAVENPORT D42"	2	421	987	1431	429	891	1360
+"IA"	2012	"Scott"	"(D43) CITY OF DAVENPORT D43"	2	507	892	1421	503	817	1343
+"IA"	2012	"Scott"	"(D44) CITY OF DAVENPORT D44"	2	303	985	1314	318	920	1253
+"IA"	2012	"Scott"	"(D51) CITY OF DAVENPORT D51"	2	661	1167	1860	675	1067	1779
+"IA"	2012	"Scott"	"(D52) CITY OF DAVENPORT D52"	2	477	984	1488	492	910	1425
+"IA"	2012	"Scott"	"(D53) CITY OF DAVENPORT D53"	2	525	1092	1640	544	1005	1585
+"IA"	2012	"Scott"	"(D54) CITY OF DAVENPORT D54"	2	226	1024	1284	250	965	1252
+"IA"	2012	"Scott"	"(D61) CITY OF DAVENPORT D61"	2	982	780	1773	969	730	1719
+"IA"	2012	"Scott"	"(D62) CITY OF DAVENPORT D62"	2	1058	742	1813	1055	686	1766
+"IA"	2012	"Scott"	"(D63) CITY OF DAVENPORT D63"	2	872	1146	2048	883	1043	1955
+"IA"	2012	"Scott"	"(D64) CITY OF DAVENPORT D64"	2	1075	1299	2412	1075	1240	2340
+"IA"	2012	"Scott"	"(D71) CITY OF DAVENPORT D71"	2	853	1192	2082	870	1109	2008
+"IA"	2012	"Scott"	"(D72) CITY OF DAVENPORT D72"	2	626	1171	1823	637	1091	1763
+"IA"	2012	"Scott"	"(D73) CITY OF DAVENPORT D73"	2	634	1058	1720	636	990	1653
+"IA"	2012	"Scott"	"(D74) CITY OF DAVENPORT D74"	2	294	739	1052	302	703	1024
+"IA"	2012	"Scott"	"(D81) CITY OF DAVENPORT D81"	2	417	1113	1551	420	1027	1491
+"IA"	2012	"Scott"	"(D82) CITY OF DAVENPORT D82"	2	666	1241	1926	665	1122	1831
+"IA"	2012	"Scott"	"(D83) CITY OF DAVENPORT D83"	2	668	1180	1874	682	1094	1809
+"IA"	2012	"Scott"	"(D84) CITY OF DAVENPORT D84"	2	630	600	1252	631	556	1206
+"IA"	2012	"Scott"	"(DH) CITY OF DONAHUE DH"	2	77	115	195	78	108	188
+"IA"	2012	"Scott"	"(EL1) CITY OF ELDRIDGE EL1"	2	974	899	1895	995	806	1821
+"IA"	2012	"Scott"	"(EL2) CITY OF ELDRIDGE EL2"	2	1034	829	1884	1032	739	1793
+"IA"	2012	"Scott"	"(HG) HICKORY GROVE TOWNSHIP HG"	2	224	148	378	220	139	365
+"IA"	2012	"Scott"	"(LB) LIBERTY TOWNSHIP LB"	2	259	183	447	251	166	430
+"IA"	2012	"Scott"	"(LC1) CITY OF LECLAIRE LC1"	2	613	638	1277	629	588	1239
+"IA"	2012	"Scott"	"(LC2) CITY OF LECLAIRE LC2"	2	581	458	1058	584	426	1020
+"IA"	2012	"Scott"	"(LCT) LECLAIRE TOWNSHIP LCT"	2	544	400	961	562	364	942
+"IA"	2012	"Scott"	"(LG) CITY OF LONG GROVE LG"	2	247	247	498	243	226	473
+"IA"	2012	"Scott"	"(MC) MCCAUSLAND MC"	2	308	277	597	305	249	570
+"IA"	2012	"Scott"	"(PKV) PARK VIEW PKV"	2	917	787	1736	953	676	1667
+"IA"	2012	"Scott"	"(PR) PRINCETON TOWNSHIP PR"	2	414	403	827	408	384	803
+"IA"	2012	"Scott"	"(PV) PLEASANT VALLEY PV"	2	483	286	776	486	268	762
+"IA"	2012	"Scott"	"(RV) CITY OF RIVERDALE RV"	2	130	131	263	133	116	252
+"IA"	2012	"Scott"	"(WC) WALCOTT PRECINCT"	2	566	493	1078	558	457	1039
+"IA"	2012	"Scott"	"(WF) WINFIELD TOWNSHIP WF"	2	293	259	556	282	241	531
+"IA"	2012	"Shelby"	"EH-K School"	4	395	235	643	378	239	633
+"IA"	2012	"Shelby"	"Harlan 1"	4	288	263	563	259	243	527
+"IA"	2012	"Shelby"	"Harlan 2"	4	465	230	707	431	246	685
+"IA"	2012	"Shelby"	"Harlan 3"	4	428	301	736	397	311	720
+"IA"	2012	"Shelby"	"Harlan 4"	4	295	261	571	277	252	545
+"IA"	2012	"Shelby"	"Irwin Community Building"	4	476	208	688	435	225	672
+"IA"	2012	"Shelby"	"Shelby Community Hall"	4	398	236	640	370	228	613
+"IA"	2012	"Shelby"	"St. Joseph Hall"	4	594	433	1045	553	439	1013
+"IA"	2012	"Shelby"	"Therkildsen Center"	4	572	302	890	537	308	857
+"IA"	2012	"Sioux"	"Alton/Nassau"	4	719	306	1037	696	311	1019
+"IA"	2012	"Sioux"	"Floyd/Lynn"	4	672	114	792	660	117	784
+"IA"	2012	"Sioux"	"Grant/Sheridan"	4	689	146	842	683	140	834
+"IA"	2012	"Sioux"	"Hawarden/Buncombe/Logan/Washington/Eagle South"	4	770	538	1328	747	516	1291
+"IA"	2012	"Sioux"	"Lincoln"	4	1396	118	1528	1384	118	1513
+"IA"	2012	"Sioux"	"Orange City #1/Holland West"	4	1543	261	1830	1511	289	1815
+"IA"	2012	"Sioux"	"Orange City #2/Holland East"	4	1357	293	1673	1324	313	1642
+"IA"	2012	"Sioux"	"Plato/Garfield/Settlers/Sioux/Eagle North"	4	688	94	783	676	97	778
+"IA"	2012	"Sioux"	"Reading/Center South"	4	432	79	526	417	82	510
+"IA"	2012	"Sioux"	"Rock Valley East"	4	861	115	982	831	135	974
+"IA"	2012	"Sioux"	"Rock Valley West/Rock"	4	1127	97	1231	1103	101	1216
+"IA"	2012	"Sioux"	"Sherman"	4	315	35	351	310	35	349
+"IA"	2012	"Sioux"	"Sioux Center Central"	4	814	168	1007	799	169	984
+"IA"	2012	"Sioux"	"Sioux Center North/Capel/Welcome"	4	1039	109	1155	1028	116	1150
+"IA"	2012	"Sioux"	"Sioux Center South"	4	1548	191	1769	1517	201	1736
+"IA"	2012	"Sioux"	"West Branch/Center North"	4	437	36	474	425	37	466
+"IA"	2012	"Story"	"Ames 1-1"	4	633	918	1602	587	926	1549
+"IA"	2012	"Story"	"Ames 1-2"	4	555	1027	1632	501	1016	1560
+"IA"	2012	"Story"	"Ames 1-3 - Grant Twp 2"	4	369	694	1110	353	678	1071
+"IA"	2012	"Story"	"Ames 1-4"	4	427	1172	1663	423	1176	1630
+"IA"	2012	"Story"	"Ames 1-5"	4	706	1160	1909	664	1177	1873
+"IA"	2012	"Story"	"Ames 2-1"	4	458	1123	1644	450	1088	1573
+"IA"	2012	"Story"	"Ames 2-2"	4	462	1007	1527	437	1014	1481
+"IA"	2012	"Story"	"Ames 2-3"	4	622	1049	1712	585	1084	1689
+"IA"	2012	"Story"	"Ames 2-4"	4	792	1010	1824	706	1056	1796
+"IA"	2012	"Story"	"Ames 2-5"	4	933	939	1891	845	981	1849
+"IA"	2012	"Story"	"Ames 3-1"	4	594	836	1480	550	854	1433
+"IA"	2012	"Story"	"Ames 3-2"	4	451	699	1180	419	678	1119
+"IA"	2012	"Story"	"Ames 3-3"	4	315	658	1025	318	655	1000
+"IA"	2012	"Story"	"Ames 3-4"	4	591	813	1456	574	788	1398
+"IA"	2012	"Story"	"Ames 3-5"	4	496	1010	1539	459	1009	1500
+"IA"	2012	"Story"	"Ames 4-1"	4	545	701	1293	496	678	1194
+"IA"	2012	"Story"	"Ames 4-2"	4	417	613	1066	381	514	925
+"IA"	2012	"Story"	"Ames 4-3"	4	355	625	1036	340	563	928
+"IA"	2012	"Story"	"Ames 4-4"	4	453	987	1489	411	982	1421
+"IA"	2012	"Story"	"Ames 4-5"	4	737	1022	1804	665	1067	1762
+"IA"	2012	"Story"	"Collins Twp-Collins"	4	234	186	423	227	180	416
+"IA"	2012	"Story"	"Franklin Twp-Gilbert"	4	1110	941	2096	1050	963	2064
+"IA"	2012	"Story"	"Grant Township"	4	152	116	275	141	122	272
+"IA"	2012	"Story"	"Howard Twp-Roland"	4	548	489	1067	515	503	1050
+"IA"	2012	"Story"	"Huxley"	4	916	767	1717	849	780	1680
+"IA"	2012	"Story"	"Indian Creek Twp-Maxwell"	4	418	377	814	400	366	799
+"IA"	2012	"Story"	"Lafayette Township"	4	163	100	273	158	109	273
+"IA"	2012	"Story"	"Lincoln Twp-Zearing"	4	218	172	398	211	167	394
+"IA"	2012	"Story"	"Milford Township"	4	191	139	340	184	142	337
+"IA"	2012	"Story"	"Nevada 1"	4	341	487	856	327	481	837
+"IA"	2012	"Story"	"Nevada 2"	4	286	504	811	284	485	801
+"IA"	2012	"Story"	"Nevada 3-Grant Twp 3"	4	403	469	895	356	494	876
+"IA"	2012	"Story"	"Nevada 4"	4	381	476	873	366	473	861
+"IA"	2012	"Story"	"Nevada Township"	4	238	206	457	234	202	443
+"IA"	2012	"Story"	"New Albany Twp-Colo"	4	353	283	648	341	288	650
+"IA"	2012	"Story"	"Palestine Township"	4	290	209	506	280	210	497
+"IA"	2012	"Story"	"Richland Township"	4	131	81	217	125	82	214
+"IA"	2012	"Story"	"Sherman Township"	4	82	42	127	82	40	127
+"IA"	2012	"Story"	"Slater-Sheldahl-Pal 2"	4	475	477	974	443	488	953
+"IA"	2012	"Story"	"Story City"	4	1014	893	1936	965	891	1906
+"IA"	2012	"Story"	"Union Twp-Cambridge"	4	351	344	715	353	330	709
+"IA"	2012	"Story"	"Warren Twp-McCallsburg"	4	181	116	303	171	119	298
+"IA"	2012	"Story"	"Washington Twp-Kelley"	4	281	255	547	267	262	543
+"IA"	2012	"Tama"	"CARLTON"	1	214	230	452	211	216	440
+"IA"	2012	"Tama"	"CARROLL/ONEIDA/N OTTER"	1	240	179	424	226	186	417
+"IA"	2012	"Tama"	"CLARK/GENESECLARK/GENESEO"	1	685	481	1187	644	509	1168
+"IA"	2012	"Tama"	"COLUMBIA/TAMA"	1	451	886	1360	455	846	1318
+"IA"	2012	"Tama"	"GRANT TWP"	1	83	72	158	89	68	158
+"IA"	2012	"Tama"	"HIGHLAND/INDIAN VILLAGE"	1	239	229	474	232	222	459
+"IA"	2012	"Tama"	"IS"	1	20	380	402	25	370	396
+"IA"	2012	"Tama"	"LINCOLN"	1	125	80	208	126	75	205
+"IA"	2012	"Tama"	"PERRY/BUCKINGHAM/E CRYSTA"	1	657	624	1306	627	633	1271
+"IA"	2012	"Tama"	"RICHLARICHLAND/SALT CREEK"	1	150	173	333	140	184	329
+"IA"	2012	"Tama"	"S. OTTER CREEK"	1	51	52	104	45	54	101
+"IA"	2012	"Tama"	"SPRING CREEK/W CRYSTAL"	1	501	337	851	475	334	822
+"IA"	2012	"Tama"	"TOLEDO 2"	1	99	229	331	94	218	319
+"IA"	2012	"Tama"	"TOLEDO 3"	1	124	258	388	129	235	373
+"IA"	2012	"Tama"	"TOLEDO/HOWARD"	1	323	423	760	312	420	741
+"IA"	2012	"Tama"	"YORK"	1	136	135	279	134	140	278
+"IA"	2012	"Taylor"	"Blockton"	3	122	73	199	135	56	201
+"IA"	2012	"Taylor"	"City of Bedford"	3	407	287	708	425	225	681
+"IA"	2012	"Taylor"	"Clearfield"	3	97	117	215	111	92	211
+"IA"	2012	"Taylor"	"Gravity"	3	149	88	243	149	80	240
+"IA"	2012	"Taylor"	"Legion"	3	252	117	371	251	100	359
+"IA"	2012	"Taylor"	"Lenox"	3	402	465	887	466	351	854
+"IA"	2012	"Taylor"	"New Market"	3	254	115	372	248	104	362
+"IA"	2012	"Union"	"Afton Methodist Church"	3	351	403	777	417	288	759
+"IA"	2012	"Union"	"Arispe Methodist Church"	3	154	101	261	170	76	256
+"IA"	2012	"Union"	"CS1 Salem Lutheran Church"	3	223	336	566	259	270	554
+"IA"	2012	"Union"	"CS2 SWCC"	3	803	661	1476	861	544	1455
+"IA"	2012	"Union"	"CS3 Trinity Lutheran Church"	3	300	446	756	353	360	743
+"IA"	2012	"Union"	"CS4 Supertel Inn"	3	301	426	745	342	351	726
+"IA"	2012	"Union"	"CS5 Crest Baptist Church"	3	508	488	1015	565	391	997
+"IA"	2012	"Union"	"Lorimor City Hall"	3	173	182	361	190	142	352
+"IA"	2012	"Van Buren"	"Birmingham"	2	346	184	546	324	198	537
+"IA"	2012	"Van Buren"	"Bonaparte"	2	288	216	520	264	233	506
+"IA"	2012	"Van Buren"	"Cantril"	2	135	81	219	119	91	215
+"IA"	2012	"Van Buren"	"Douds"	2	266	136	421	240	159	412
+"IA"	2012	"Van Buren"	"Farmington"	2	235	207	448	205	225	439
+"IA"	2012	"Van Buren"	"Keosauqua"	2	491	415	929	451	429	904
+"IA"	2012	"Van Buren"	"Milton"	2	160	97	272	140	124	273
+"IA"	2012	"Van Buren"	"Stockport"	2	143	66	214	121	88	211
+"IA"	2012	"Wapello"	"Adams/Blakesburg/Polk"	2	356	332	701	315	349	680
+"IA"	2012	"Wapello"	"Agency/Agency/Pleasant"	2	365	363	747	333	369	723
+"IA"	2012	"Wapello"	"Cass/Chillicothe"	2	68	41	114	64	39	113
+"IA"	2012	"Wapello"	"Center Twp"	2	378	360	748	339	359	722
+"IA"	2012	"Wapello"	"Columbia/Eddyville"	2	206	255	470	200	239	455
+"IA"	2012	"Wapello"	"Competine Twp"	2	81	31	115	68	38	111
+"IA"	2012	"Wapello"	"Dahlonega Twp"	2	189	113	308	168	125	299
+"IA"	2012	"Wapello"	"Green Twp"	2	244	164	412	217	175	395
+"IA"	2012	"Wapello"	"Highland Twp"	2	98	46	149	95	45	145
+"IA"	2012	"Wapello"	"Keokuk Twp"	2	211	217	438	194	228	432
+"IA"	2012	"Wapello"	"Precinct 1"	2	365	664	1051	358	621	1021
+"IA"	2012	"Wapello"	"Precinct 10"	2	357	643	1010	344	606	972
+"IA"	2012	"Wapello"	"Precinct 2"	2	654	671	1342	627	657	1301
+"IA"	2012	"Wapello"	"Precinct 3"	2	760	749	1538	718	754	1497
+"IA"	2012	"Wapello"	"Precinct 4"	2	241	542	800	229	496	764
+"IA"	2012	"Wapello"	"Precinct 5"	2	277	553	853	268	528	825
+"IA"	2012	"Wapello"	"Precinct 6"	2	322	562	911	302	524	876
+"IA"	2012	"Wapello"	"Precinct 7"	2	282	543	847	279	513	823
+"IA"	2012	"Wapello"	"Precinct 8"	2	364	620	1009	342	578	957
+"IA"	2012	"Wapello"	"Precinct 9"	2	498	720	1237	475	707	1196
+"IA"	2012	"Wapello"	"Richland/Kirkville"	2	182	196	382	161	190	363
+"IA"	2012	"Wapello"	"Washington/Eldon"	2	291	278	588	281	276	572
+"IA"	2012	"Warren"	"Allen 2"	3	485	543	1048	546	447	1029
+"IA"	2012	"Warren"	"Allen 3"	3	627	614	1255	677	494	1225
+"IA"	2012	"Warren"	"Belmont"	3	142	76	221	144	64	216
+"IA"	2012	"Warren"	"Cumming/West DM"	3	205	104	312	211	85	304
+"IA"	2012	"Warren"	"GR1DM86 City"	3	36	51	88	40	43	86
+"IA"	2012	"Warren"	"Greenfield 1 DM 85"	3	386	600	1008	417	534	994
+"IA"	2012	"Warren"	"Greenfield 1 Twp"	3	464	371	850	469	320	831
+"IA"	2012	"Warren"	"Greenfield 2/Lincoln 2"	3	752	581	1354	781	489	1329
+"IA"	2012	"Warren"	"Indianola 1"	3	310	285	604	327	229	581
+"IA"	2012	"Warren"	"Indianola 2"	3	633	705	1365	683	575	1312
+"IA"	2012	"Warren"	"Indianola 3"	3	240	388	644	279	317	620
+"IA"	2012	"Warren"	"Indianola 4"	3	777	835	1629	872	676	1583
+"IA"	2012	"Warren"	"Indianola 5"	3	545	588	1149	603	465	1109
+"IA"	2012	"Warren"	"Indianola 6"	3	411	456	888	460	358	864
+"IA"	2012	"Warren"	"Indianola 7"	3	640	852	1535	727	674	1480
+"IA"	2012	"Warren"	"Jackson"	3	289	223	522	310	187	519
+"IA"	2012	"Warren"	"Jefferson"	3	537	453	1001	568	379	982
+"IA"	2012	"Warren"	"Liberty Twp"	3	154	113	273	156	101	267
+"IA"	2012	"Warren"	"Lincoln 1 Twp"	3	210	184	405	231	156	401
+"IA"	2012	"Warren"	"Norwalk 1"	3	740	617	1383	822	474	1347
+"IA"	2012	"Warren"	"Norwalk 2/Greenfield 1"	3	580	594	1192	661	441	1143
+"IA"	2012	"Warren"	"Norwalk 3/Linn"	3	910	870	1811	985	707	1763
+"IA"	2012	"Warren"	"Norwalk 4"	3	761	625	1413	848	495	1381
+"IA"	2012	"Warren"	"Otter/Milo"	3	469	390	877	506	308	857
+"IA"	2012	"Warren"	"Palmyra"	3	175	144	325	181	124	317
+"IA"	2012	"Warren"	"Richland/Palmyra"	3	338	310	659	363	252	645
+"IA"	2012	"Warren"	"Squaw Creek"	3	221	174	403	226	153	400
+"IA"	2012	"Warren"	"Union"	3	167	131	300	178	109	295
+"IA"	2012	"Warren"	"Virginia"	3	331	249	593	334	214	582
+"IA"	2012	"Warren"	"White Breast"	3	184	202	400	214	159	394
+"IA"	2012	"Warren"	"White Oak"	3	333	223	565	348	172	551
+"IA"	2012	"Washington"	"Ainsworth"	2	532	601	1166	488	621	1127
+"IA"	2012	"Washington"	"Brighton/Marion/Crawford"	2	573	417	1024	561	436	1009
+"IA"	2012	"Washington"	"Kalona"	2	808	618	1445	745	625	1388
+"IA"	2012	"Washington"	"Riverside"	2	248	520	787	229	516	757
+"IA"	2012	"Washington"	"Ward Four"	2	615	587	1237	555	613	1186
+"IA"	2012	"Washington"	"Ward One"	2	388	461	884	364	467	846
+"IA"	2012	"Washington"	"Ward Three City"	2	553	549	1140	529	562	1105
+"IA"	2012	"Washington"	"Ward Two"	2	502	546	1086	466	557	1041
+"IA"	2012	"Washington"	"Wellman"	2	874	602	1530	818	630	1471
+"IA"	2012	"Washington"	"West Chester"	2	469	214	705	442	229	676
+"IA"	2012	"Wayne"	"A-01 Allerton-Clio-Lineville"	2	392	287	696	345	300	661
+"IA"	2012	"Wayne"	"C-02 Corydon"	2	510	399	932	444	433	896
+"IA"	2012	"Wayne"	"H-03 Humeston-Millerton"	2	332	283	630	290	300	602
+"IA"	2012	"Wayne"	"S-04 Seymour-Promise City"	2	349	282	642	312	293	620
+"IA"	2012	"Webster"	"Badger-NW Cooper"	4	430	292	736	398	307	722
+"IA"	2012	"Webster"	"Clay-Roland"	4	266	161	431	254	156	423
+"IA"	2012	"Webster"	"Colfax-Duncombe"	4	141	176	328	136	172	320
+"IA"	2012	"Webster"	"Cooper"	4	81	89	177	89	82	174
+"IA"	2012	"Webster"	"Dayton-Burnside"	4	404	379	791	384	367	777
+"IA"	2012	"Webster"	"Deer Creek-Jackson"	4	264	159	425	256	152	417
+"IA"	2012	"Webster"	"Douglas"	4	356	285	650	326	289	636
+"IA"	2012	"Webster"	"Elkhorn"	4	242	186	435	217	202	425
+"IA"	2012	"Webster"	"Fort Dodge 1"	4	732	612	1356	682	620	1333
+"IA"	2012	"Webster"	"Fort Dodge 10"	4	488	528	1032	466	526	1015
+"IA"	2012	"Webster"	"Fort Dodge 11"	4	795	614	1427	752	621	1395
+"IA"	2012	"Webster"	"Fort Dodge 12"	4	410	568	989	404	550	972
+"IA"	2012	"Webster"	"Fort Dodge 2"	4	505	624	1145	462	624	1123
+"IA"	2012	"Webster"	"Fort Dodge 3"	4	362	425	800	314	439	777
+"IA"	2012	"Webster"	"Fort Dodge 4"	4	330	614	958	315	599	947
+"IA"	2012	"Webster"	"Fort Dodge 5"	4	295	482	783	285	463	762
+"IA"	2012	"Webster"	"Fort Dodge 6"	4	82	254	344	86	232	332
+"IA"	2012	"Webster"	"Fort Dodge 7"	4	238	534	794	236	514	784
+"IA"	2012	"Webster"	"Fort Dodge 8"	4	235	504	757	208	504	747
+"IA"	2012	"Webster"	"Fort Dodge 9"	4	230	645	884	238	589	867
+"IA"	2012	"Webster"	"Fulton"	4	138	80	223	118	95	219
+"IA"	2012	"Webster"	"Gowrie"	4	346	303	657	333	288	649
+"IA"	2012	"Webster"	"Johnson"	4	147	115	263	139	115	260
+"IA"	2012	"Webster"	"Lost Grove"	4	171	109	290	171	104	283
+"IA"	2012	"Webster"	"Newark"	4	100	83	184	93	77	179
+"IA"	2012	"Webster"	"Otho-Pleasant Valley"	4	353	420	794	321	416	770
+"IA"	2012	"Webster"	"Sumner-Webster-Yell-Hardi"	4	228	225	462	221	215	457
+"IA"	2012	"Webster"	"Washington"	4	100	71	177	91	70	172
+"IA"	2012	"Winnebago"	"Buffalo Grant Lincoln"	4	512	369	893	465	405	884
+"IA"	2012	"Winnebago"	"Center"	4	633	695	1358	576	727	1333
+"IA"	2012	"Winnebago"	"Eden Logan Norway"	4	190	186	380	184	186	376
+"IA"	2012	"Winnebago"	"FC3 Forest D3"	4	290	318	617	267	320	606
+"IA"	2012	"Winnebago"	"Forest City Ward 1"	4	280	306	600	259	317	593
+"IA"	2012	"Winnebago"	"Forest City Ward 2"	4	195	241	454	185	237	435
+"IA"	2012	"Winnebago"	"Forest City Ward 4"	4	179	196	380	171	196	372
+"IA"	2012	"Winnebago"	"King Linden"	4	227	218	450	211	217	436
+"IA"	2012	"Winnebago"	"Mt. Valley Forest D2"	4	176	148	329	176	141	326
+"IA"	2012	"Winnebago"	"Newton Forest D1"	4	224	226	457	228	207	450
+"IA"	2012	"Winneshiek"	"PCT 1 - HE/HI/PL"	1	277	347	636	283	314	604
+"IA"	2012	"Winneshiek"	"PCT 10 - JA/SU/WA"	1	376	433	829	366	409	790
+"IA"	2012	"Winneshiek"	"PCT 11- Decorah Twp Sup 5"	1	39	70	110	41	61	102
+"IA"	2012	"Winneshiek"	"PCT 2 - FR/GL/DEW3/DETSUP1"	1	737	971	1733	740	933	1689
+"IA"	2012	"Winneshiek"	"PCT 3 - DEW1/DETSUP2"	1	635	847	1507	632	790	1447
+"IA"	2012	"Winneshiek"	"PCT 4 - Decorah Ward 2"	1	304	659	987	301	634	947
+"IA"	2012	"Winneshiek"	"PCT 5 - CN/DEW4/DETSUP3"	1	408	740	1170	418	644	1086
+"IA"	2012	"Winneshiek"	"PCT 6 - Decorah Ward 5"	1	246	476	732	250	423	684
+"IA"	2012	"Winneshiek"	"PCT 7 - CA/SP"	1	548	610	1185	552	571	1143
+"IA"	2012	"Winneshiek"	"PCT 8 - MI/BLM"	1	455	447	923	470	418	903
+"IA"	2012	"Winneshiek"	"PCT 9 - BLF/BO/FR/LI/MA/OR"	1	597	656	1272	593	622	1233
+"IA"	2012	"Woodbury"	"1 HEARTLAND BAPTIST CH"	4	794	571	1391	769	574	1373
+"IA"	2012	"Woodbury"	"10 CLARK SCHOOL"	4	939	560	1515	876	600	1496
+"IA"	2012	"Woodbury"	"11 GIRLS INC"	4	96	447	552	119	416	548
+"IA"	2012	"Woodbury"	"12 LINCOLN SCHOOL"	4	688	796	1515	673	801	1502
+"IA"	2012	"Woodbury"	"13 SC TRANSIT SYSTEM"	4	265	479	768	295	438	758
+"IA"	2012	"Woodbury"	"14 BOYS & GIRLS HOME"	4	262	593	871	287	532	842
+"IA"	2012	"Woodbury"	"15 UNITY SCHOOL/CONCORD"	4	702	637	1380	713	612	1360
+"IA"	2012	"Woodbury"	"16 TRIMBLE UNITED METH CH"	4	511	745	1283	547	693	1272
+"IA"	2012	"Woodbury"	"17 BRYANT SCHOOL"	4	735	744	1497	752	715	1486
+"IA"	2012	"Woodbury"	"18 LEEDS ELEM SCHOOL"	4	616	739	1374	643	676	1352
+"IA"	2012	"Woodbury"	"19 NORTH MIDDLE SCHOOL"	4	920	723	1667	911	706	1636
+"IA"	2012	"Woodbury"	"2 CENTRAL ASSEMBLY OF GOD"	4	293	777	1096	316	725	1066
+"IA"	2012	"Woodbury"	"20 IRVING SCHOOL"	4	153	479	653	177	442	643
+"IA"	2012	"Woodbury"	"21 M'SIDE LUTHERAN CHURCH"	4	547	670	1252	574	620	1229
+"IA"	2012	"Woodbury"	"22 MORNINGSIDE LIBRARY"	4	698	855	1599	741	781	1571
+"IA"	2012	"Woodbury"	"23 COMM. ACTION AGENCY"	4	567	797	1407	596	746	1373
+"IA"	2012	"Woodbury"	"24 WASHINGTON HEIGHTS"	4	739	726	1486	732	700	1467
+"IA"	2012	"Woodbury"	"25 M'SIDE COLLEGE EPPLEY"	4	608	731	1368	635	687	1346
+"IA"	2012	"Woodbury"	"26 EAST MIDDLE SCHOOL"	4	933	597	1549	912	583	1522
+"IA"	2012	"Woodbury"	"27 ST JAMES UNITED METH."	4	728	720	1492	723	715	1476
+"IA"	2012	"Woodbury"	"28 NODLAND SCHOOL"	4	1634	858	2521	1595	867	2494
+"IA"	2012	"Woodbury"	"29 SGT BLUFF EAST/WDBY"	4	980	619	1637	990	595	1617
+"IA"	2012	"Woodbury"	"3 WEST MIDDLE SCHOOL"	4	647	786	1459	670	735	1435
+"IA"	2012	"Woodbury"	"30 SGT BLUFF WEST"	4	771	529	1319	758	517	1296
+"IA"	2012	"Woodbury"	"31 SALIX/LIB-LAK TWP"	4	397	266	679	391	255	671
+"IA"	2012	"Woodbury"	"32 BRONSON/FLO-GRG TWP"	4	409	209	624	413	196	617
+"IA"	2012	"Woodbury"	"33 PIERSON/RUTLAND TWP"	4	201	106	309	199	100	307
+"IA"	2012	"Woodbury"	"34 C'VILLE/KED-UNI TWP"	4	327	254	588	359	213	587
+"IA"	2012	"Woodbury"	"35 MOVILLE/ARL-MOV-WOL TW"	4	903	475	1395	938	428	1389
+"IA"	2012	"Woodbury"	"36 LAWTON/BANNER TWP"	4	488	233	734	486	224	723
+"IA"	2012	"Woodbury"	"37 CLIMBING HILL/GRT-WES"	4	189	81	277	189	81	275
+"IA"	2012	"Woodbury"	"38 SLOAN/SLOAN TWP"	4	361	228	602	357	222	597
+"IA"	2012	"Woodbury"	"39 HORNICK/WILLOW TWP"	4	173	64	245	181	58	243
+"IA"	2012	"Woodbury"	"4 EMERSON SCHOOL"	4	201	552	767	229	507	754
+"IA"	2012	"Woodbury"	"40 ANTHON/MILLER TWP"	4	246	151	402	268	121	402
+"IA"	2012	"Woodbury"	"41 DANBURY/LIS-MOR TWP"	4	227	110	343	232	102	338
+"IA"	2012	"Woodbury"	"42 SMITHLAND/LITTLE SIOUX"	4	139	85	231	142	82	227
+"IA"	2012	"Woodbury"	"43 OTO/OTO TWP"	4	68	73	141	81	56	140
+"IA"	2012	"Woodbury"	"44 CUSHING/ROCK TWP"	4	119	88	209	133	73	207
+"IA"	2012	"Woodbury"	"5 RIVERSIDE SCHOOL"	4	351	852	1228	408	773	1216
+"IA"	2012	"Woodbury"	"6 FAITH LUTHERAN CHURCH"	4	501	735	1256	523	684	1229
+"IA"	2012	"Woodbury"	"7 CRESCENT PARK SCHOOL"	4	473	746	1255	513	672	1228
+"IA"	2012	"Woodbury"	"8 MT. ZION BAPTIST CHURCH"	4	148	520	683	162	481	666
+"IA"	2012	"Woodbury"	"9 BOYS & GIRLS HOME"	4	94	296	400	105	273	390
+"IA"	2012	"Worth"	"Barton-Deer Creek-Union-Grafton"	1	238	271	511	214	246	468
+"IA"	2012	"Worth"	"Bristol-Silver Lake-Joice"	1	189	211	408	172	196	386
+"IA"	2012	"Worth"	"Brookfield-Kensett"	1	170	233	412	172	214	400
+"IA"	2012	"Worth"	"Danville-Hanlontown"	1	120	136	260	113	124	243
+"IA"	2012	"Worth"	"Deer Creek-Grove-Hartland-Northwood"	1	583	758	1365	599	638	1280
+"IA"	2012	"Worth"	"Fertile"	1	195	178	385	191	155	361
+"IA"	2012	"Worth"	"Lincoln Manly"	1	249	563	831	226	536	790
+"IA"	2012	"Wright"	"BELMOND PRECINCT"	4	805	826	1658	770	824	1625
+"IA"	2012	"Wright"	"BIG 6"	4	427	231	663	428	212	647
+"IA"	2012	"Wright"	"CLARION PRECINCT"	4	648	596	1266	612	579	1220
+"IA"	2012	"Wright"	"DOWS PRECINCT"	4	184	188	377	191	166	367
+"IA"	2012	"Wright"	"EAGLE GROVE - WARD #1"	4	111	169	283	112	159	279
+"IA"	2012	"Wright"	"EAGLE GROVE - WARD #2"	4	200	187	392	194	177	382
+"IA"	2012	"Wright"	"EAGLE GROVE - WARD #3"	4	255	167	429	246	160	419
+"IA"	2012	"Wright"	"EAGLE GROVE - WARD #4"	4	188	169	362	179	162	349
+"IA"	2012	"Wright"	"GOLDFIELD PRECINCT"	4	275	165	449	265	164	444
+"IA"	2012	"Wright"	"RURAL EAGLE GROVE"	4	256	138	399	260	124	397

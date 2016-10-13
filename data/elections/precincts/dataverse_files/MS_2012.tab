@@ -1,0 +1,1879 @@
+state	year	county	electiondistrictbeat	precinct	precinct_code	cd	g2012_USH_dv	g2012_USH_rv	g2012_USH_tv	cd2	g2012_USH_dv2	g2012_USH_rv2	g2012_USH_tv2	g2012_USP_dv	g2012_USP_rv	g2012_USP_tv	g2012_USS_dv	g2012_USS_rv	g2012_USS_tv
+"MS"	2012	"Adams"	5	"Airport"		3		266	427					521	195	717	495	191	686
+"MS"	2012	"Adams"	1	"By-Pass Fire"		3		293	450					658	249	910	603	234	837
+"MS"	2012	"Adams"	1	"Bellemont"		3		1303	1497					507	1201	1728	459	1169	1628
+"MS"	2012	"Adams"	2	"Beau Pre"		3		490	599					318	428	750	310	408	718
+"MS"	2012	"Adams"	3	"Concord"		3		122	318					640	23	666	548	30	578
+"MS"	2012	"Adams"	1	"Courthouse"		3		519	596					182	490	678	165	473	638
+"MS"	2012	"Adams"	4	"Carpenter"		3		183	319					354	128	486	324	129	453
+"MS"	2012	"Adams"	2	"Duncan Park"		3		601	753					366	544	920	333	513	846
+"MS"	2012	"Adams"	5	"Foster Mound"		3		185	522					975	58	1035	882	67	949
+"MS"	2012	"Adams"	2	"Kingston"		3		521	571					122	520	645	141	471	612
+"MS"	2012	"Adams"	2	"Liberty Park"		3		662	711					133	661	799	137	618	755
+"MS"	2012	"Adams"	4	"Morgantown"		3		193	326					341	133	476	318	133	451
+"MS"	2012	"Adams"	3	"Maryland Heights"		3		122	334					644	26	672	530	34	564
+"MS"	2012	"Adams"	3	"Nps Multi Purpose Buliding"		3		204	308					285	173	464	252	161	413
+"MS"	2012	"Adams"	4	"Northside"		3		127	362					789	2	794	690	22	712
+"MS"	2012	"Adams"	5	"Oakland"		3		646	843					493	605	1107	457	570	1027
+"MS"	2012	"Adams"	3	"Palestine"		3		424	620					550	363	918	497	342	839
+"MS"	2012	"Adams"	4	"Pine Ridge"		3		141	264					425	86	513	385	92	477
+"MS"	2012	"Adams"	4	"Thompson"		3		120	273					574	37	611	498	47	545
+"MS"	2012	"Adams"	5	"Washington"		3		381	453					184	371	558	183	348	531
+"MS"	2012	"Alcorn"		"Bethel"		1	21	52	73					3	73	77	14	62	76
+"MS"	2012	"Alcorn"		"Biggersville"		1	179	422	601					159	483	654	170	452	622
+"MS"	2012	"Alcorn"	2	"Central"		1	247	983	1230					200	1139	1361	241	1040	1281
+"MS"	2012	"Alcorn"		"College Hill"		1	476	971	1447					458	1109	1587	489	1037	1526
+"MS"	2012	"Alcorn"		"East Third Street"		1	127	280	407					113	318	435	115	303	418
+"MS"	2012	"Alcorn"		"East Corinth"		1	348	840	1188					366	888	1266	340	877	1217
+"MS"	2012	"Alcorn"	1	"Five Points"		1	279	1015	1294					241	1175	1429	255	1100	1355
+"MS"	2012	"Alcorn"		"Glen"		1	232	606	838					163	739	927	184	685	869
+"MS"	2012	"Alcorn"		"Jacinto"		1	64	209	273					45	251	299	60	220	280
+"MS"	2012	"Alcorn"		"Kossuth"		1	214	1063	1277					141	1215	1372	184	1146	1330
+"MS"	2012	"Alcorn"		"North Corinth"		1	192	788	980					187	856	1060	205	815	1020
+"MS"	2012	"Alcorn"		"Rienzi"		1	230	555	785					206	638	858	206	638	844
+"MS"	2012	"Alcorn"		"South Corinth"		1	715	382	1097					795	414	1224	795	414	1209
+"MS"	2012	"Alcorn"		"Union Center"		1	196	648	844					134	774	919	134	774	908
+"MS"	2012	"Alcorn"		"West Corinth"		1	129	382	511					115	434	559	115	434	549
+"MS"	2012	"Alcorn"		"Wenasoga"		1	207	517	724					185	605	803	185	605	790
+"MS"	2012	"Amite"		"East Gloster"		3		224	270					88	209	302	86	199	285
+"MS"	2012	"Amite"		"Liberty"		3		415	472					135	400	539	137	388	525
+"MS"	2012	"Amite"		"New Zion"		3		295	360					100	287	395	102	279	381
+"MS"	2012	"Amite"		"Zion Hill"		3		282	295					31	275	308	35	257	292
+"MS"	2012	"Amite"		"Amite River"		3		128	259					266	67	334	231	78	309
+"MS"	2012	"Amite"		"Ariel"		3		88	139					129	60	189	117	60	177
+"MS"	2012	"Amite"		"Berwick"		3		103	268					280	50	332	268	48	316
+"MS"	2012	"Amite"		"East Centervill"		3		248	323					153	222	375	142	207	349
+"MS"	2012	"Amite"		"Street"		3		181	220					87	176	264	84	166	250
+"MS"	2012	"Amite"		"Crosby"		3		110	168					130	88	221	123	92	215
+"MS"	2012	"Amite"		"Gloster"		3		338	615					720	195	921	637	198	835
+"MS"	2012	"Amite"		"Homochitto"		3		73	78					7	72	80	10	68	78
+"MS"	2012	"Amite"		"Oneil"		3		204	212					9	211	221	17	197	214
+"MS"	2012	"Amite"		"East Fork"		3		402	476					144	376	524	133	367	500
+"MS"	2012	"Amite"		"East Liberty"		3		200	243					105	175	283	97	172	269
+"MS"	2012	"Amite"		"Smithdale"		3		301	368					158	282	441	129	279	408
+"MS"	2012	"Amite"		"Tangipahoa"		3		394	431					68	378	447	55	375	430
+"MS"	2012	"Amite"		"Riceville"		3		206	285					173	171	347	143	187	330
+"MS"	2012	"Amite"		"South Liberty"		3		316	389					140	296	440	130	283	413
+"MS"	2012	"Amite"		"Tickfaw"		3		89	120					96	76	172	86	75	161
+"MS"	2012	"Amite"		"Walls"		3		371	449					223	348	571	197	340	537
+"MS"	2012	"Attala"		"South Central"		2	399	396	795					382	452	840	356	445	801
+"MS"	2012	"Attala"		"Williamsville"		2	399	622	1021					375	720	1099	331	693	1024
+"MS"	2012	"Attala"		"North East"		2	877	256	1133					898	272	1174	776	293	1069
+"MS"	2012	"Attala"		"Mccool"		2	137	138	275					130	171	303	122	160	282
+"MS"	2012	"Attala"		"Liberty Chapel"		2	88	164	252					68	196	264	68	181	249
+"MS"	2012	"Attala"		"Berea"		2	22	87	109					8	105	116	14	101	115
+"MS"	2012	"Attala"		"North West"		2	331	267	598					329	315	647	265	330	595
+"MS"	2012	"Attala"		"North Central"		2	44	221	265					29	247	278	32	241	273
+"MS"	2012	"Attala"		"Aponaug"		2	95	121	216					81	150	231	71	145	216
+"MS"	2012	"Attala"		"Carmack"		2	37	153	190					13	192	208	19	179	198
+"MS"	2012	"Attala"		"Possumneck"		2	100	111	211					93	137	230	87	133	220
+"MS"	2012	"Attala"		"Hesterville"		2	37	151	188					30	174	204	33	165	198
+"MS"	2012	"Attala"		"South West"		2	186	51	237					193	62	256	162	71	233
+"MS"	2012	"Attala"		"Newport"		2	143	121	264					138	137	275	118	134	252
+"MS"	2012	"Attala"		"Sallis"		2	642	208	850					641	236	877	574	248	822
+"MS"	2012	"Attala"		"Mcadams"		2	153	121	274					142	140	288	121	150	271
+"MS"	2012	"Attala"		"East"		2	158	574	732					146	636	784	124	632	756
+"MS"	2012	"Attala"		"Providence"		2	50	204	254					26	253	279	31	238	269
+"MS"	2012	"Attala"		"Zama"		2	142	86	228					78	161	242	67	160	227
+"MS"	2012	"Attala"		"Thompson"		2	23	94	117					9	123	132	14	113	127
+"MS"	2012	"Attala"		"Ethel"		2	162	162	324					118	237	355	107	225	332
+"MS"	2012	"Benton"		"Ashland"	"3"	1	330	405	735					384	441	829	342	427	769
+"MS"	2012	"Benton"		"Canaan"	"1"	1	479	281	760					581	280	863	503	283	786
+"MS"	2012	"Benton"		"Floyd"	"4"	1	218	467	685					227	525	759	231	488	719
+"MS"	2012	"Benton"		"Hickorty Flat"	"5"	1	190	558	748					179	613	802	149	631	780
+"MS"	2012	"Benton"		"Lamar"	"2"	1	613	180	793					680	182	863	641	181	822
+"MS"	2012	"Bolivar"		"Beulah"		2	190	13	203					192	14	208	140	22	162
+"MS"	2012	"Bolivar"		"Benoit"		2	265	82	347					275	95	375	171	103	274
+"MS"	2012	"Bolivar"		"Boyle"		2	239	433	672					213	480	697	168	480	648
+"MS"	2012	"Bolivar"		"Cleveland Courthouse"		2	68	167	235					64	182	252	48	194	242
+"MS"	2012	"Bolivar"		"Choctaw"		2	169	22	191					172	33	208	116	42	158
+"MS"	2012	"Bolivar"		"Duncan-Alligator"		2	210	49	259					214	52	269	175	62	237
+"MS"	2012	"Bolivar"		"East Central Celveland"		2	453	4	457					469	4	480	376	13	389
+"MS"	2012	"Bolivar"		"Eastgate"		2	48	562	610					568	51	626	438	72	510
+"MS"	2012	"Bolivar"		"East Rosedale"		2	553	21	574					583	21	607	387	46	433
+"MS"	2012	"Bolivar"		"East Cleveland"		2	1142	30	1172					1165	35	1208	999	48	1047
+"MS"	2012	"Bolivar"		"Gunnison"		2	254	67	321					247	86	338	165	86	251
+"MS"	2012	"Bolivar"		"Longshot"		2	30	44	74					26	54	80	20	55	75
+"MS"	2012	"Bolivar"		"Mound Bayou"		2	1158	53	1211					1197	55	1269	952	95	1047
+"MS"	2012	"Bolivar"		"Merigold"		2	175	126	301					172	144	318	126	140	266
+"MS"	2012	"Bolivar"		"North Cleveland"		2	362	99	461					364	107	478	309	116	425
+"MS"	2012	"Bolivar"		"North West Cleeland"		2	123	599	722					88	675	769	79	657	736
+"MS"	2012	"Bolivar"		"Pace"		2	267	57	324					264	67	333	220	74	294
+"MS"	2012	"Bolivar"		"Renova"		2	278	12	290					280	13	296	233	22	255
+"MS"	2012	"Bolivar"		"Shelby"		2	1065	77	1142					1090	89	1186	847	124	971
+"MS"	2012	"Bolivar"		"South Cleveland"		2	881	31	912					903	33	944	651	68	719
+"MS"	2012	"Bolivar"		"Scott"		2	88	45	133					86	50	137	66	51	117
+"MS"	2012	"Bolivar"		"Skene"		2	27	156	183					19	171	192	22	163	185
+"MS"	2012	"Bolivar"		"Stringtown"		2	8	33	41					7	33	40	5	33	38
+"MS"	2012	"Bolivar"		"Shaw"		2	1056	141	1197					1072	158	1239	839	183	1022
+"MS"	2012	"Bolivar"		"West Central Cleveland"		2	174	605	779					117	704	829	110	674	784
+"MS"	2012	"Bolivar"		"West Rosedale"		2	281	55	336					276	72	351	214	85	299
+"MS"	2012	"Bolivar"		"West Cleveland"		2	297	1098	1395					243	1216	1475	226	1206	1432
+"MS"	2012	"Bolivar"		"Winstonville"		2	209	6	215					216	7	224	175	16	191
+"MS"	2012	"Calhoun"		"Calhoun City #1"		1	448	308	756					517	311	832	450	346	796
+"MS"	2012	"Calhoun"		"Pittsboro #1"		1	501	116	617					591	82	675	481	145	626
+"MS"	2012	"Calhoun"		"Northeast Calhoun"		1	174	354	528					149	596	755	141	599	740
+"MS"	2012	"Calhoun"		"Pittsboro #2"		1	166	354	520					161	389	557	141	398	539
+"MS"	2012	"Calhoun"		"Bruce #3"		1	289	664	953					285	712	1007	241	738	979
+"MS"	2012	"Calhoun"		"Banner"		1	70	296	366					49	332	386	45	332	377
+"MS"	2012	"Calhoun"		"Calhoun City #4"		1	291	787	1078					326	812	1149	271	846	1117
+"MS"	2012	"Calhoun"		"Oerma #4"		1	109	299	408					106	319	433	105	328	433
+"MS"	2012	"Calhoun"		"Oerma#5"		1	113	327	440					113	346	463	98	353	451
+"MS"	2012	"Calhoun"		"Varaman"		1	268	477	745					289	513	811	243	541	784
+"MS"	2012	"Carroll"		"430 School"		2	245	102	347					250	108	359	197	116	313
+"MS"	2012	"Carroll"		"Black Hawk"		2	67	161	228					49	194	244	38	188	226
+"MS"	2012	"Carroll"		"Calvary"		2	10	104	114					2	119	121	10	110	120
+"MS"	2012	"Carroll"		"Carrollton"		2	34	223	257					28	238	267	24	232	256
+"MS"	2012	"Carroll"		"East Valden"		2	357	281	638					332	334	668	268	336	604
+"MS"	2012	"Carroll"		"Fire Tower"		2	344	205	549					345	212	559	285	234	519
+"MS"	2012	"Carroll"		"Gravel Hill"		2	65	403	468					49	440	491	65	409	474
+"MS"	2012	"Carroll"		"Rays Shop"		2	101	713	814					71	783	857	77	742	819
+"MS"	2012	"Carroll"		"Salem"		2	156	67	223					159	67	226	147	70	217
+"MS"	2012	"Carroll"		"West Carroll"		2	45	464	509					40	477	520	42	470	512
+"MS"	2012	"Carroll"		"West Valden"		2	240	186	426					224	224	451	189	227	416
+"MS"	2012	"Carroll"		"Mcarley"		2	152	203	355					152	226	381	140	218	358
+"MS"	2012	"Carroll"		"North Carrollton"		2	279	368	647					271	403	677	226	400	626
+"MS"	2012	"Carroll"		"Jefferson"		2	39	130	169					35	135	171	30	129	159
+"MS"	2012	"Chickasaw"		"Anchor"	"1"	1	128	437	565					138	450	598	127	457	584
+"MS"	2012	"Chickasaw"		"Buena Vista"	"2"	1	416	98	514					455	94	557	423	112	535
+"MS"	2012	"Chickasaw"		"Egypt"	"3"	1	278	108	386					269	123	402	258	140	398
+"MS"	2012	"Chickasaw"		"East Okolona"	"4"	1	692	88	780					782	72	863	705	110	815
+"MS"	2012	"Chickasaw"		"North Houlka"	"5"	1	163	125	288					226	125	360	179	148	327
+"MS"	2012	"Chickasaw"		"North Okolona"	"6"	1	324	218	542					344	234	582	313	247	560
+"MS"	2012	"Chickasaw"		"Northwest Houston"	"7"	1	640	194	834					796	159	962	675	220	895
+"MS"	2012	"Chickasaw"		"Pleasant Grove Thorn"	"8"	1	83	426	509					70	451	545	61	464	525
+"MS"	2012	"Chickasaw"		"Pearsall"	"9"	1	107	201	308					115	207	326	102	212	314
+"MS"	2012	"Chickasaw"		"Southeast Houston"	"10"	1	302	910	1212					273	990	1275	270	975	1245
+"MS"	2012	"Chickasaw"		"South Houlka"	"11"	1	153	294	447					153	315	479	140	331	471
+"MS"	2012	"Chickasaw"		"Sparta"	"12"	1	79	133	212					85	144	236	85	144	229
+"MS"	2012	"Chickasaw"		"Van Vleet"	"13"	1	129	139	268					127	156	284	127	156	283
+"MS"	2012	"Chickasaw"		"West Ololona"	"14"	1	378	313	691					382	351	744	382	351	733
+"MS"	2012	"Chickasaw"		"Woodland"	"15"	1	123	130	253					163	123	290	163	123	286
+"MS"	2012	"Choctaw"		"District 5"		1	168	774	942					203	793	1006	171	799	970
+"MS"	2012	"Choctaw"		"Chester"		1	80	163	243					99	170	270	82	179	261
+"MS"	2012	"Choctaw"		"East Weir"		1	225	80	305					251	75	329	220	95	315
+"MS"	2012	"Choctaw"		"French Camp"		1	61	218	279					76	222	303	63	222	285
+"MS"	2012	"Choctaw"		"Fentress"		1	76	200	276					83	214	298	73	202	275
+"MS"	2012	"Choctaw"		"Hebron"		1	28	169	197					24	185	213	28	178	206
+"MS"	2012	"Choctaw"		"Kenego"		1	20	201	221					20	218	240	14	213	227
+"MS"	2012	"Choctaw"		"Panhandle"		1	94	127	221					98	137	236	87	142	229
+"MS"	2012	"Choctaw"		"Reform"		1	100	177	277					110	187	298	100	191	291
+"MS"	2012	"Choctaw"		"Sherwood"		1	17	288	305					12	301	315	18	290	308
+"MS"	2012	"Choctaw"		"Southwest Ackerman"		1	226	44	270					288	36	326	234	56	290
+"MS"	2012	"Choctaw"		"Bywy"		1	69	125	194					76	130	207	73	128	201
+"MS"	2012	"Choctaw"		"West Weir"		1	72	138	210					88	144	232	73	140	213
+"MS"	2012	"Choctaw"		"FRENCH CAMP FIRE DEPT"		1			0							0			0
+"MS"	2012	"Choctaw"		"ACKERMAN TOWN HALL"		1			0							0			0
+"MS"	2012	"Choctaw"		"WEIR FIRE DEPT"		1			0							0			0
+"MS"	2012	"Claiborne"		"1-A"		2	121	59	180					125	61	186	110	63	173
+"MS"	2012	"Claiborne"		"1-B"		2	512	30	542					522	32	554	452	49	501
+"MS"	2012	"Claiborne"		"1-C"		2	574	7	581					603	1	605	566	20	586
+"MS"	2012	"Claiborne"		"2"		2	953	58	1011					981	56	1042	806	108	914
+"MS"	2012	"Claiborne"		"3-A"		2	532	234	766					556	245	805	487	276	763
+"MS"	2012	"Claiborne"		"3-B"		2	51	91	142					57	95	153	46	93	139
+"MS"	2012	"Claiborne"		"4-A"		2	407	24	431					425	24	449	365	41	406
+"MS"	2012	"Claiborne"		"4-B"		2	480	37	517					487	35	524	400	62	462
+"MS"	2012	"Claiborne"		"4-C"		2	91	2	93					94	0	94	83	3	86
+"MS"	2012	"Claiborne"		"5-A"		2	558	29	587					574	29	610	479	55	534
+"MS"	2012	"Claiborne"		"5-B"		2	401	45	446					414	47	462	335	73	408
+"MS"	2012	"Clarke"		"South Quitman"		3		0	618					550	236	797	468	259	727
+"MS"	2012	"Clarke"		"Harmony - 1"		3		0	104					51	75	127	49	66	115
+"MS"	2012	"Clarke"		"Stonewall - 1"		3		0	241					249	96	348	223	95	318
+"MS"	2012	"Clarke"		"Shubuta"		4	421	113	534					480	106	595	429	121	550
+"MS"	2012	"Clarke"		"Beaverdam"		3		0	133					165	25	192	158	58	216
+"MS"	2012	"Clarke"		"Harmony"		3		0	247					118	161	281	110	160	270
+"MS"	2012	"Clarke"		"Oakgrove"		3		0	190					250	40	291	202	48	250
+"MS"	2012	"Clarke"		"Pachuta"		3		0	215					197	85	287	177	86	263
+"MS"	2012	"Clarke"		"Souinlovie"		3		0	159					33	127	165	30	119	149
+"MS"	2012	"Clarke"		"Rolling Creek"		3		0	203					17	188	205	18	176	194
+"MS"	2012	"Clarke"		"Stonewall - 3"		3		0	378					73	318	402	63	311	374
+"MS"	2012	"Clarke"		"Enterprise"		3		0	1025					232	885	1127	216	861	1077
+"MS"	2012	"Clarke"		"Pineridge"		3		0	90					82	59	142	69	60	129
+"MS"	2012	"Clarke"		"Snell"		3		0	170					11	160	174	7	155	162
+"MS"	2012	"Clarke"		"Energy"		3		0	184					16	183	201	10	178	188
+"MS"	2012	"Clarke"		"Union"		3		0	562					38	535	577	32	533	565
+"MS"	2012	"Clarke"		"Norht Quitman"		3		0	326					88	262	354	71	267	338
+"MS"	2012	"Clarke"		"Langsdale"		4	43	17	60					48	17	66	40	23	63
+"MS"	2012	"Clarke"		"Manassa"		4	3	94	97					6	106	113	5	102	107
+"MS"	2012	"Clarke"		"Springs"		4	62	66	128					76	61	139	67	67	134
+"MS"	2012	"Clarke"		"DeSoto"		3		0	172					130	98	232	108	96	204
+"MS"	2012	"Clarke"		"Carmichael"		4	64	157	221					84	160	245	70	160	230
+"MS"	2012	"Clarke"		"East Quitman"		3		0	1121					117	1033	1160	117	1033	1150
+"MS"	2012	"Clay"		"Cairo"		1	174	169	343					194	166	360	177	169	346
+"MS"	2012	"Clay"		"Caradine"		1	631	136	767					683	98	790	631	136	767
+"MS"	2012	"Clay"		"Cedar Bluff"		1	25	172	197					30	167	199	25	172	197
+"MS"	2012	"Clay"		"Central-West Point"		1	448	430	878					498	397	904	448	430	878
+"MS"	2012	"Clay"		"East-West Point"		1	500	918	1418					551	893	1449	500	918	1418
+"MS"	2012	"Clay"		"North-West Point"		1	771	578	1349					853	542	1398	771	578	1349
+"MS"	2012	"Clay"		"Pheba"		1	256	239	495					294	225	519	256	239	495
+"MS"	2012	"Clay"		"Pine Bluff"		1	308	100	408					359	68	434	308	100	408
+"MS"	2012	"Clay"		"Siloam"		1	317	510	827					349	500	859	317	510	827
+"MS"	2012	"Clay"		"South-West Point"		1	770	376	1146					856	344	1201	770	376	1146
+"MS"	2012	"Clay"		"Tibbee"		1	186	123	309					204	119	326	186	123	309
+"MS"	2012	"Clay"		"Union Star"		1	307	262	569					333	251	586	307	262	569
+"MS"	2012	"Clay"		"Vinton"		1	309	208	517					328	212	542	309	208	517
+"MS"	2012	"Clay"		"West-West Point"		1	1062	358	1420					1180	309	1505	1062	358	1420
+"MS"	2012	"Coahoma"		"Lula"		2	163	109	272					172	129	302	156	121	277
+"MS"	2012	"Coahoma"		"Coahoma"		2	244	13	257					256	18	275	187	27	214
+"MS"	2012	"Coahoma"		"Lyon"		2	372	570	942					368	632	1005	336	614	950
+"MS"	2012	"Coahoma"		"Clarksdale Courthouse"		2	490	249	739					498	277	787	434	276	710
+"MS"	2012	"Coahoma"		"Friars Point"		2	558	38	596					577	41	620	512	45	557
+"MS"	2012	"Coahoma"		"Farrell"		2	151	15	166					151	18	169	139	20	159
+"MS"	2012	"Coahoma"		"Sherard"		2	23	6	29					24	8	32	17	12	29
+"MS"	2012	"Coahoma"		"Clarksdale #2"		2	827	620	1447					818	701	1529	724	686	1410
+"MS"	2012	"Coahoma"		"Jonestown"		2	700	12	712					734	6	740	675	20	695
+"MS"	2012	"Coahoma"		"Dublin"		2	84	95	179					70	111	182	56	102	158
+"MS"	2012	"Coahoma"		"Clarksdale #3"		2	501	53	554					524	58	583	441	74	515
+"MS"	2012	"Coahoma"		"Sassee Street Fire Station"		2	520	8	528					535	12	549	472	19	491
+"MS"	2012	"Coahoma"		"Cagle Crossing"		2	18	37	55					20	41	61	18	38	56
+"MS"	2012	"Coahoma"		"Clarksdale #4"		2	1413	40	1453					1503	40	1546	1319	86	1405
+"MS"	2012	"Coahoma"		"Clarksdale #4 North"		2	127	85	212					133	93	228	116	93	209
+"MS"	2012	"Coahoma"		"Rena Lara"		2	43	138	181					27	178	206	39	156	195
+"MS"	2012	"Coahoma"		"Bobo"		2	90	36	126					94	40	134	75	41	116
+"MS"	2012	"Coahoma"		"Roundaway"		2	64	32	96					63	36	101	51	35	86
+"MS"	2012	"Coahoma"		"Clarksdale #5"		2	1174	232	1406					1225	273	1500	1040	304	1344
+"MS"	2012	"Copiah"		"Beauregard"		2	201	445	646					156	512	674	148	499	647
+"MS"	2012	"Copiah"		"Centerpoint"		2	390	398	788					354	472	838	305	463	768
+"MS"	2012	"Copiah"		"Carpenter"		2	139	52	191					142	58	200	126	60	186
+"MS"	2012	"Copiah"		"Crystal Springs East"		2	776	1018	1794					774	1117	1910	642	1136	1778
+"MS"	2012	"Copiah"		"Crystal Springs North"		2	305	82	387					320	87	409	262	102	364
+"MS"	2012	"Copiah"		"Crystal Springs South"		2	1106	374	1480					1154	401	1565	985	449	1434
+"MS"	2012	"Copiah"		"Crystal Springs West"		2	429	465	894					425	501	933	371	510	881
+"MS"	2012	"Copiah"		"Dentville"		2	65	105	170					44	141	185	41	138	179
+"MS"	2012	"Copiah"		"Georgetown North"		2	178	66	244					180	74	254	151	72	223
+"MS"	2012	"Copiah"		"Georgetown South"		2	180	183	363					175	222	399	133	229	362
+"MS"	2012	"Copiah"		"Hazlehurst East"		2	1084	48	1132					1114	50	1171	961	80	1041
+"MS"	2012	"Copiah"		"Hazlehurst North"		2	175	76	251					175	82	260	145	92	237
+"MS"	2012	"Copiah"		"Hazlehurst South"		2	329	103	432					320	130	451	282	136	418
+"MS"	2012	"Copiah"		"Hazlehurst West"		2	1103	249	1352					1137	272	1416	996	310	1306
+"MS"	2012	"Copiah"		"Martinsville"		2	255	107	362					242	126	369	208	133	341
+"MS"	2012	"Copiah"		"Shady Grove"		2	132	263	395					97	315	416	93	308	401
+"MS"	2012	"Copiah"		"Stronghouse Union"		2	60	293	353					37	328	369	35	326	361
+"MS"	2012	"Copiah"		"Weston"	"*"	2	147	464	611					89	557	650	98	533	631
+"MS"	2012	"Copiah"		"Gallart"	"*"	2	794	785	1579					814	840	1657	690	870	1560
+"MS"	2012	"Covington"		"Seminary"		3		1285	1417					199	1262	1474	208	1215	1423
+"MS"	2012	"Covington"		"Sirahan"		3		95	127					45	91	136	41	89	130
+"MS"	2012	"Covington"		"West Collings"		3		236	254					26	227	260	26	220	246
+"MS"	2012	"Covington"		"Richmond"		3		589	634					41	605	653	59	567	626
+"MS"	2012	"Covington"		"Sanford"		3		695	756					81	700	792	78	689	767
+"MS"	2012	"Covington"		"South Collins"		3		277	307					43	273	320	36	268	304
+"MS"	2012	"Covington"		"Collins"		3		790	1279					876	622	1506	783	657	1440
+"MS"	2012	"Covington"		"Williamsburg"		3		247	269					56	238	296	53	228	281
+"MS"	2012	"Covington"		"Dry Creek"		3		144	286					323	70	395	264	93	357
+"MS"	2012	"Covington"		"Lone Star / Black Luck"	"*"	3		177	225					82	172	254	73	170	243
+"MS"	2012	"Covington"		"Mt Olive"		3		610	919					671	470	1145	564	502	1066
+"MS"	2012	"Covington"		"Rock Hill"		3		108	123					16	112	129	17	105	122
+"MS"	2012	"Covington"		"Kilmer"	"*"	3		111	272					342	46	390	281	65	346
+"MS"	2012	"Covington"		"Mtchell"		3		160	166					11	161	172	12	154	166
+"MS"	2012	"Covington"		"Okahay"	"*"	3		200	510					670	64	738	563	111	674
+"MS"	2012	"Covington"		"Station Creek"	"*"	3		154	267					285	104	389	231	127	358
+"MS"	2012	"Covington"		"Yawn"	"*"	3		198	249					111	188	299	93	180	273
+"MS"	2012	"DeSoto"		"Ingramus Mill"		1	298	514	812					313	532	850	298	520	818
+"MS"	2012	"DeSoto"		"Lewisburg East"		1	36	327	363					50	327	381	42	325	367
+"MS"	2012	"DeSoto"		"Miller"		1	829	1728	2557					901	1757	2678	860	1712	2572
+"MS"	2012	"DeSoto"		"Fairhaven"		1	641	932	1573					703	943	1669	668	918	1586
+"MS"	2012	"DeSoto"		"Olive Branch South"		1	533	1913	2446					551	2009	2587	565	1931	2496
+"MS"	2012	"DeSoto"		"Olive Branch North"		1	617	1240	1857					656	1290	1959	646	1248	1894
+"MS"	2012	"DeSoto"		"Mineral Wells"		1	618	1525	2143					645	1586	2253	631	1542	2173
+"MS"	2012	"DeSoto"		"Greenbrook North"		1	1007	1200	2207					1060	1236	2323	1044	1186	2230
+"MS"	2012	"DeSoto"		"Southaven North"		1	537	1222	1759					566	1280	1871	583	1195	1778
+"MS"	2012	"DeSoto"		"Greenbrook South"		1	757	2150	2907					800	2233	3065	800	2133	2933
+"MS"	2012	"DeSoto"		"Summershill"		1	453	1474	1927					496	1519	2032	480	1469	1949
+"MS"	2012	"DeSoto"		"Pleasant Hill North"		1	385	1547	1932					423	1577	2017	417	1533	1950
+"MS"	2012	"DeSoto"		"Elmore"		1	194	613	807					199	637	847	212	608	820
+"MS"	2012	"DeSoto"		"Cherry Valley"		1	194	572	766					214	606	831	219	561	780
+"MS"	2012	"DeSoto"		"Southaven West"		1	703	885	1588					758	896	1676	737	857	1594
+"MS"	2012	"DeSoto"		"Horn Lak North"		1	754	576	1330					810	575	1400	773	555	1328
+"MS"	2012	"DeSoto"		"Horn Lake West"		1	675	631	1306					719	660	1394	715	609	1324
+"MS"	2012	"DeSoto"		"Walls"		1	795	1006	1801					852	1047	1909	841	981	1822
+"MS"	2012	"DeSoto"		"Lake Cormorant"		1	146	268	414					153	273	430	156	258	414
+"MS"	2012	"DeSoto"		"Southaven South"		1	530	261	791					562	271	840	546	253	799
+"MS"	2012	"DeSoto"		"Horn Lake East"		1	745	459	1204					787	471	1274	786	428	1214
+"MS"	2012	"DeSoto"		"Nesbit West"		1	332	752	1084					361	792	1156	350	750	1100
+"MS"	2012	"DeSoto"		"Eudora"		1	276	794	1070					318	795	1137	305	780	1085
+"MS"	2012	"DeSoto"		"DeSoto Central"		1	764	2040	2804					825	2060	2911	793	2020	2813
+"MS"	2012	"DeSoto"		"Newbit East"		1	410	857	1267					430	872	1311	424	858	1282
+"MS"	2012	"DeSoto"		"Bridgetown"		1	297	1345	1642					310	1416	1737	326	1348	1674
+"MS"	2012	"DeSoto"		"Lewisburg"		1	450	1721	2171					470	1758	2258	486	1708	2194
+"MS"	2012	"DeSoto"		"Hernando East"		1	622	3134	3756					653	3229	3910	647	3156	3803
+"MS"	2012	"DeSoto"		"Hernando West"		1	671	1703	2374					709	1753	2482	686	1722	2408
+"MS"	2012	"DeSoto"		"Love"		1	202	813	1015					216	850	1078	219	806	1025
+"MS"	2012	"DeSoto"		"Alphaba-Cockrum"		1	78	584	662					105	601	714	87	579	666
+"MS"	2012	"DeSoto"		"Hernando Central"		1	397	1600	1997					427	1623	2074	412	1603	2015
+"MS"	2012	"DeSoto"		"Horn Lake Central"		1	439	583	1022					473	599	1086	474	554	1028
+"MS"	2012	"DeSoto"		"Hacks cross Road"		1	637	1115	1752					711	1153	1896	699	1095	1794
+"MS"	2012	"DeSoto"		"Olive Branch West"		1	231	438	669					259	445	711	244	431	675
+"MS"	2012	"DeSoto"		"Horn Lack Intermediate"		1	687	655	1342					736	662	1420	741	611	1352
+"MS"	2012	"DeSoto"		"Cumberland"		1	683	800	1483					719	830	1563	720	483	1203
+"MS"	2012	"DeSoto"		"Civic Center"		1	1548	2307	3855					1635	2396	4064	1623	2276	3899
+"MS"	2012	"Forrest"		"Sigler Center"		4	662	307	969					750	293	1065	674	330	1004
+"MS"	2012	"Forrest"		"Dantzler"		4	24	389	413					25	427	466	42	399	441
+"MS"	2012	"Forrest"		"Dixie"		4	197	1304	1501					215	1414	1650	206	1351	1557
+"MS"	2012	"Forrest"		"Kamper Park"		4	463	556	1019					530	571	1145	501	578	1079
+"MS"	2012	"Forrest"		"Westside"		4	539	396	935					603	396	1021	559	415	974
+"MS"	2012	"Forrest"		"Rawls Springs"		4	366	430	796					403	458	870	383	450	833
+"MS"	2012	"Forrest"		"Hattiesburg Cultural Center"		4	603	68	671					694	43	741	613	67	680
+"MS"	2012	"Forrest"		"Train depot"		4	315	62	377					381	47	430	335	66	401
+"MS"	2012	"Forrest"		"Burger Center"		4	403	26	429					518	2	520	425	29	454
+"MS"	2012	"Forrest"		"North Heights"		4	655	123	778					759	99	863	664	140	804
+"MS"	2012	"Forrest"		"Batonville"		4	153	526	679					170	554	734	163	540	703
+"MS"	2012	"Forrest"		"Glendale"		4	607	317	924					699	296	999	640	322	962
+"MS"	2012	"Forrest"		"Bar Mac"		4	270	1578	1848					289	1666	1975	286	1620	1906
+"MS"	2012	"Forrest"		"Petal Civic Center"		4	187	1052	1239					212	1123	1359	214	1089	1303
+"MS"	2012	"Forrest"		"Leeville"		4	104	835	939					126	875	1009	120	870	990
+"MS"	2012	"Forrest"		"Petal Masonic"		4	145	919	1064					160	1000	1178	152	977	1129
+"MS"	2012	"Forrest"		"Sunrise"		4	402	2040	2442					451	2128	2598	421	2100	2521
+"MS"	2012	"Forrest"		"Dixie Pine Central"		4	732	185	917					876	170	1053	755	190	945
+"MS"	2012	"Forrest"		"Rowan"		4	601	31	632					737	2	739	620	29	649
+"MS"	2012	"Forrest"		"Salvation Army"		4	960	98	1058					1092	44	1141	992	92	1084
+"MS"	2012	"Forrest"		"Court Street"		4	411	102	513					464	89	556	417	110	527
+"MS"	2012	"Forrest"		"Camp"		4	154	182	336					189	195	392	155	202	357
+"MS"	2012	"Forrest"		"West Petal"		4	112	323	435					127	350	485	131	335	466
+"MS"	2012	"Forrest"		"McLaurin"		4	52	252	304					65	261	332	55	262	317
+"MS"	2012	"Forrest"		"Lillie Burney"	"*"	4	422	29	451					499	4	503	443	32	475
+"MS"	2012	"Forrest"		"West Hills"		4	172	371	543					196	390	596	193	374	567
+"MS"	2012	"Forrest"		"Highland Park"		4	488	283	771					558	263	832	519	275	794
+"MS"	2012	"Forrest"		"Brooklyn"		4	40	350	390					38	388	430	47	367	414
+"MS"	2012	"Forrest"		"Carnes"	"*"	4	41	540	581					35	613	656	52	574	626
+"MS"	2012	"Forrest"		"Maxie"		4	20	127	147					33	132	165	29	128	157
+"MS"	2012	"Forrest"		"Pinecrest"		4	655	518	1173					761	508	1307	699	528	1227
+"MS"	2012	"Forrest"		"Thames"		4	432	1356	1788					504	1379	1915	449	1410	1859
+"MS"	2012	"Forrest"		"Timberton"		4	105	285	390					212	404	620	102	408	510
+"MS"	2012	"Franklin"		"Knoxville"		3		102	135					79	94	174	82	90	172
+"MS"	2012	"Franklin"		"Roxie"		3		229	332					314	159	473	273	161	434
+"MS"	2012	"Franklin"		"Antioch"		3		233	333					227	175	404	201	178	379
+"MS"	2012	"Franklin"		"hamburg"		3		103	175					209	65	275	186	60	246
+"MS"	2012	"Franklin"		"Meadville"		3		355	391					71	245	319	77	316	393
+"MS"	2012	"Franklin"		"Bude"		3		388	593					462	268	735	422	272	694
+"MS"	2012	"Franklin"		"Pine Grove"		3		112	116					13	107	121	13	12	25
+"MS"	2012	"Franklin"		"Wesley Chapel"		3		54	92					82	30	112	74	33	107
+"MS"	2012	"Franklin"		"Eddiceton"		3		318	346					60	306	372	66	296	362
+"MS"	2012	"Franklin"		"Lucien"		3		168	179					24	162	187	22	163	185
+"MS"	2012	"Franklin"		"McCall"		3		255	286					74	247	322	61	244	305
+"MS"	2012	"Franklin"		"Bad Bayou"		3		352	364					22	344	370	16	344	360
+"MS"	2012	"Franklin"		"Cains"		3		203	231					57	197	254	55	195	250
+"MS"	2012	"Franklin"		"Whittington"		3		252	262					32	236	275	31	232	263
+"MS"	2012	"George"		"Rocky Creek"		4	120	987	1107					84	1096	1194	140	971	1111
+"MS"	2012	"George"		"Multi Mart"		4	24	248	272					20	269	296	40	239	279
+"MS"	2012	"George"		"Ward"		4	11	239	250					16	259	276	19	241	260
+"MS"	2012	"George"		"Shipman"		4	30	230	260					28	266	297	41	226	267
+"MS"	2012	"George"		"Courthouse"		4	39	208	247					36	232	271	44	206	250
+"MS"	2012	"George"		"Pine Level"		4	31	275	306					27	304	338	32	284	316
+"MS"	2012	"George"		"Agricola"		4	74	723	797					43	833	886	85	739	824
+"MS"	2012	"George"		"Howell"		4	29	304	333					23	340	364	45	287	332
+"MS"	2012	"George"		"Movella"		4	26	259	285					21	305	330	39	266	305
+"MS"	2012	"George"		"Multi-Purpose"		4	49	243	292					43	267	311	60	239	299
+"MS"	2012	"George"		"Basin"		4	203	590	793					201	678	889	227	615	842
+"MS"	2012	"George"		"Davis"		4	33	273	306					32	298	337	51	266	317
+"MS"	2012	"George"		"Barton"		4	70	440	510					74	498	580	84	451	535
+"MS"	2012	"George"		"City Hall"		4	97	390	487					80	442	534	114	303	417
+"MS"	2012	"George"		"Shady Grove"		4	97	600	697					62	679	749	132	572	704
+"MS"	2012	"George"		"Bexley"		4	95	317	412					117	339	457	122	308	430
+"MS"	2012	"George"		"Salem"		4	15	58	73					16	65	82	19	57	76
+"MS"	2012	"George"		"Middle School"		4	190	262	452					236	278	518	219	266	485
+"MS"	2012	"George"		"Central"		4	16	134	150					6	149	157	22	132	154
+"MS"	2012	"George"		"Benndale"		4	135	347	482					164	385	559	151	343	494
+"MS"	2012	"George"		"Broome"		4	13	131	144					5	153	162	16	140	156
+"MS"	2012	"George"		"Twin Creek"		4	32	206	238					25	241	269	49	203	252
+"MS"	2012	"Greene"		"Leakesville"		4	149	927	1076					133	1020	1173	194	885	1079
+"MS"	2012	"Greene"		"North Leakesville"		4	189	112	301					235	109	345	186	107	293
+"MS"	2012	"Greene"		"State Line"		4	391	250	641					435	270	711	393	252	645
+"MS"	2012	"Greene"		"Mutual Rights"		4	21	168	189					16	197	215	33	164	197
+"MS"	2012	"Greene"		"Wade"		4	40	428	468					29	476	509	44	425	469
+"MS"	2012	"Greene"		"Jones"		4	7	188	195					5	194	202	11	179	190
+"MS"	2012	"Greene"		"Piave"		4	13	315	328					4	343	348	22	310	332
+"MS"	2012	"Greene"		"Maples"		4	99	415	514					86	493	586	117	395	512
+"MS"	2012	"Greene"		"Vernal"		4	92	441	533					87	495	585	116	407	523
+"MS"	2012	"Greene"		"Washington Neely"		4	26	281	307					15	350	371	41	273	314
+"MS"	2012	"Greene"		"Leaf"		4	45	79	124					55	82	144	52	81	133
+"MS"	2012	"Greene"		"Mclain"		4	179	169	348					208	198	410	203	159	362
+"MS"	2012	"Greene"		"Jonathan"		4	24	261	285					17	304	323	50	247	297
+"MS"	2012	"Grenada"		"Box 1"		2	109	546	655					82	627	721	92	608	700
+"MS"	2012	"Grenada"		"Box 2 Grendada Co"		2	558	245	803					559	303	865	517	306	823
+"MS"	2012	"Grenada"		"Box 3 City Auditorium"		2	1089	259	1348					1135	280	1420	1036	304	1340
+"MS"	2012	"Grenada"		"Holcomb Community Center"		2	248	491	739					210	580	796	198	553	751
+"MS"	2012	"Grenada"		"Box 4"		2	1425	191	1616					1462	217	1682	1353	241	1594
+"MS"	2012	"Grenada"		"Box 5"		2	379	859	1238					321	1020	1345	321	963	1284
+"MS"	2012	"Grenada"		"The Plant"		2	515	630	1145					504	704	1212	450	707	1157
+"MS"	2012	"Grenada"		"Elliott Vol Fire Stateion"		2	101	231	332					72	288	361	66	285	351
+"MS"	2012	"Grenada"		"Sweethome Hol#2 Fire Station"		2	129	201	330					123	240	364	121	227	348
+"MS"	2012	"Grenada"		"Gore Springs Comm Center"		2	175	306	481					151	359	514	159	342	501
+"MS"	2012	"Grenada"		"Futheyville 1st Pentecost"		2	210	418	628					184	476	663	188	461	649
+"MS"	2012	"Grenada"		"Providence Gore Springs Community Center"		2			0							0			0
+"MS"	2012	"Grenada"		"Mt Nebo Parker's Grocerty"		2			0							0			0
+"MS"	2012	"Grenada"		"Pleasant Grove Community Center"		2	331	172	503					335	209	551	307	206	513
+"MS"	2012	"Grenada"		"Geeslin"		2	224	564	788					150	683	841	155	654	809
+"MS"	2012	"Grenada"		"Hardy"		2	0	0	0					0	0	0	0	0	0
+"MS"	2012	"Grenada"		"Millcreek"		2			0							0			0
+"MS"	2012	"Hancock"		"Ansley"		4	28	56	84					19	81	101	27	59	86
+"MS"	2012	"Hancock"		"Lakeshore"		4	142	413	555					149	500	668	170	426	596
+"MS"	2012	"Hancock"		"Clermont Harbor"		4	49	181	230					34	226	265	49	195	244
+"MS"	2012	"Hancock"		"Arlington"		4	91	171	262					92	200	294	82	198	280
+"MS"	2012	"Hancock"		"Waveland East"		4	251	428	679					296	472	779	175	453	628
+"MS"	2012	"Hancock"		"Lee Town"		4	69	496	565					54	571	635	89	491	580
+"MS"	2012	"Hancock"		"Flat Top"		4	68	462	530					59	537	604	84	467	551
+"MS"	2012	"Hancock"		"Catahoula"		4	19	90	109					14	111	125	19	101	120
+"MS"	2012	"Hancock"		"Pearlington"		4	208	284	492					235	309	552	230	280	510
+"MS"	2012	"Hancock"		"Bayou Phillip"		4	76	106	182					85	124	209	89	100	189
+"MS"	2012	"Hancock"		"Waveland West"		4	276	586	862					275	678	970	269	636	905
+"MS"	2012	"Hancock"		"Crane Creek"		4	89	539	628					62	646	714	91	564	655
+"MS"	2012	"Hancock"		"Dedeaux"		4	60	303	363					53	366	429	77	328	405
+"MS"	2012	"Hancock"		"North Bay West"		4	152	482	634					147	602	769	147	576	723
+"MS"	2012	"Hancock"		"Diamondhead East"		4	499	2187	2686					512	2455	3021	523	2338	2861
+"MS"	2012	"Hancock"		"Courthouse"		4	55	117	172					50	139	189	42	136	178
+"MS"	2012	"Hancock"		"Kiln West"		4	132	444	576					126	519	656	132	475	607
+"MS"	2012	"Hancock"		"West Shoreline Park"		4	77	161	238					96	172	273	80	167	247
+"MS"	2012	"Hancock"		"City Hall"		4	389	122	511					427	133	572	399	140	539
+"MS"	2012	"Hancock"		"South Bay"		4	319	544	863					331	645	992	305	646	951
+"MS"	2012	"Hancock"		"North Bay East"		4	214	284	498					214	331	558	200	323	523
+"MS"	2012	"Hancock"		"Standard"		4	99	498	597					89	616	715	127	534	661
+"MS"	2012	"Hancock"		"Edwardsville"		4	56	258	314					55	298	358	50	281	331
+"MS"	2012	"Hancock"		"Fenton"		4	87	470	557					79	566	656	119	490	609
+"MS"	2012	"Hancock"		"Kiln East"		4	58	362	420					56	420	490	69	384	453
+"MS"	2012	"Hancock"		"Diamondhead West"		4	175	804	979					198	891	1104	182	860	1042
+"MS"	2012	"Hancock"		"Garden Isle"		4	112	304	416					110	356	469	111	332	443
+"MS"	2012	"Harrison"		"Biloxi 1"		4	23	72	95					25	83	108	23	78	101
+"MS"	2012	"Harrison"		"Biloxi 2"		4	126	101	227					144	106	250	127	107	234
+"MS"	2012	"Harrison"		"Biloxi 3"		4	206	75	281					227	68	297	201	5	206
+"MS"	2012	"Harrison"		"Biloxi 4"		4	522	52	574					569	39	608	515	64	579
+"MS"	2012	"Harrison"		"Biloxi 5"		4	84	102	186					94	119	216	82	121	203
+"MS"	2012	"Harrison"		"Biloxi 6"		4	117	56	173					146	58	205	115	66	181
+"MS"	2012	"Harrison"		"Biloxi 7"		4	116	172	288					134	200	341	119	202	321
+"MS"	2012	"Harrison"		"Biloxi 8"		4	197	401	598					216	436	661	188	450	638
+"MS"	2012	"Harrison"		"Biloxi Central"		4	91	158	249					98	186	290	79	195	274
+"MS"	2012	"Harrison"		"Biloxi Bay"		4	317	482	799					356	540	906	314	542	856
+"MS"	2012	"Harrison"		"North Bay"		4	905	1933	2838					906	2146	3092	886	2151	3037
+"MS"	2012	"Harrison"		"White Plains"		4	72	457	529					70	527	601	68	516	584
+"MS"	2012	"Harrison"		"Poplar Head"		4	34	180	214					37	205	242	37	198	235
+"MS"	2012	"Harrison"		"D'Iberville"		4	90	223	313					95	257	355	78	251	329
+"MS"	2012	"Harrison"		"Advance"		4	112	599	711					123	679	811	116	645	761
+"MS"	2012	"Harrison"		"East Lizana"		4	122	661	783					133	755	895	115	744	859
+"MS"	2012	"Harrison"		"East Lyman"		4	289	662	951					328	706	1042	290	720	1010
+"MS"	2012	"Harrison"		"E Orange Grove"		4	750	1133	1883					820	1238	2079	727	1262	1989
+"MS"	2012	"Harrison"		"Gulfport 4"		4	75	184	259					82	216	298	71	212	283
+"MS"	2012	"Harrison"		"Gulfport 5"		4	221	384	605					248	425	685	204	443	647
+"MS"	2012	"Harrison"		"Gulfport 7"		4	133	263	396					157	284	451	136	287	423
+"MS"	2012	"Harrison"		"Gulfport 11"		4	66	397	463					65	432	505	57	433	490
+"MS"	2012	"Harrison"		"Gulfport 12"		4	100	856	956					119	935	1063	91	935	1026
+"MS"	2012	"Harrison"		"West Lyman"		4	384	1283	1667					404	1432	1863	366	142	508
+"MS"	2012	"Harrison"		"West Orange Grove"		4	776	1850	2626					838	2057	2924	774	2011	2785
+"MS"	2012	"Harrison"		"Riceville"		4	15	106	121					18	117	135	16	116	132
+"MS"	2012	"Harrison"		"Stonewall"		4	412	980	1392					461	1085	1567	399	1096	1495
+"MS"	2012	"Harrison"		"West Handsboro"		4	214	1070	1284					249	1155	1417	210	1176	1386
+"MS"	2012	"Harrison"		"West Miss City"		4	74	223	297					87	230	327	73	244	317
+"MS"	2012	"Harrison"		"Delisle"		4	410	498	908					440	552	1000	390	573	963
+"MS"	2012	"Harrison"		"E Pass Christian"		4	606	576	1182					619	650	1288	574	686	1260
+"MS"	2012	"Harrison"		"Westside"		4	193	307	500					211	336	559	187	339	526
+"MS"	2012	"Harrison"		"W Pass Christian"		4	304	597	901					302	654	970	282	666	948
+"MS"	2012	"Harrison"		"Ladner"		4	146	571	717					154	641	809	135	637	772
+"MS"	2012	"Harrison"		"West Lizana"		4	74	372	446					68	427	502	65	420	485
+"MS"	2012	"Harrison"		"Long Beach 1"		4	154	422	576					154	474	640	141	482	623
+"MS"	2012	"Harrison"		"Long Beach 2"		4	144	589	733					154	655	825	128	658	786
+"MS"	2012	"Harrison"		"Long Beach 3"		4	162	531	693					170	603	785	149	601	750
+"MS"	2012	"Harrison"		"Long Beach 4"		4	251	693	944					263	773	1052	220	787	1007
+"MS"	2012	"Harrison"		"Long Beach 5"		4	266	1193	1459					277	1323	1619	239	1325	1564
+"MS"	2012	"Harrison"		"Long Beach 6"		4	151	636	787					148	717	876	122	726	848
+"MS"	2012	"Harrison"		"Outside Long Beach"		4	40	287	327					52	318	377	37	325	362
+"MS"	2012	"Harrison"		"Pineville"		4	205	923	1128					176	1049	1244	189	1035	1224
+"MS"	2012	"Harrison"		"Vidalla"		4	58	281	339					45	345	397	48	327	375
+"MS"	2012	"Harrison"		"Gulfport 3"		4	388	82	470					443	69	515	382	87	469
+"MS"	2012	"Harrison"		"Gulfport 8"		4	411	192	603					478	178	662	418	199	617
+"MS"	2012	"Harrison"		"Gulfport 9"		4	78	51	129					87	54	142	78	59	137
+"MS"	2012	"Harrison"		"Gulfport 13"		4	722	175	897					812	159	977	711	191	902
+"MS"	2012	"Harrison"		"Gulfport 14"		4	994	129	1123					1150	72	1229	991	141	1132
+"MS"	2012	"Harrison"		"Gulfport 16"		4	645	90	735					707	82	794	639	111	750
+"MS"	2012	"Harrison"		"East North Gulfport"		4	736	48	784					815	17	832	729	55	784
+"MS"	2012	"Harrison"		"Gulfport 15"		4	257	105	362					287	102	391	256	119	375
+"MS"	2012	"Harrison"		"North Bel-Aire"		4	1321	913	2234					1436	951	2407	1291	1015	2306
+"MS"	2012	"Harrison"		"South Bel-Aire"		4	729	585	1314					821	616	1461	728	644	1372
+"MS"	2012	"Harrison"		"West Nort Gpt"		4	1098	59	1157					1293	17	1313	1053	94	1147
+"MS"	2012	"Harrison"		"Magnolia Grove"		4	258	64	322					308	53	362	251	64	315
+"MS"	2012	"Harrison"		"New Hope"		4	149	278	427					153	309	468	145	307	452
+"MS"	2012	"Harrison"		"Biloxi 10"		4	463	874	1337					521	968	1508	469	979	1448
+"MS"	2012	"Harrison"		"Biloxi 11"		4	774	1433	2207					860	1581	2480	755	1624	2379
+"MS"	2012	"Harrison"		"East Handsboro"		4	223	694	917					273	756	1055	231	778	1009
+"MS"	2012	"Harrison"		"East Miss City"		4	508	1254	1762					582	1317	1930	493	1351	1844
+"MS"	2012	"Harrison"		"Howard Creek"		4	260	1219	1479					253	1402	1670	228	1372	1600
+"MS"	2012	"Harrison"		"Saucier"		4	170	681	851					186	755	954	162	753	915
+"MS"	2012	"Harrison"		"Peace"		4	135	1058	1193					120	1216	1347	126	1188	1314
+"MS"	2012	"Harrison"		"New Popps Ferry"		4	448	1062	1510					495	1141	1652	445	1146	1591
+"MS"	2012	"Harrison"		"Margaret Sherry"		4	521	1279	1800					557	1422	2002	488	1427	1915
+"MS"	2012	"Hinds"		"1"		3		311	563					499	167	688	448	203	651
+"MS"	2012	"Hinds"		"2"		2	155	11	166					172	1	173	130	14	144
+"MS"	2012	"Hinds"		"4"		2	418	6	424					432	1	434	390	12	402
+"MS"	2012	"Hinds"		"6"		2	439	46	485					475	46	525	400	58	458
+"MS"	2012	"Hinds"		"8"		3		260	373					217	187	416	195	200	395
+"MS"	2012	"Hinds"		"9"		3		623	788					352	495	877	308	535	843
+"MS"	2012	"Hinds"		"10"		2	293	7	300					307	3	310	246	12	258
+"MS"	2012	"Hinds"		"11"		2	353	7	360					371	1	373	308	9	317
+"MS"	2012	"Hinds"		"12"		2	157	4	161					166	1	168	139	8	147
+"MS"	2012	"Hinds"		"13"		2	522	14	536					549	2	552	471	16	487
+"MS"	2012	"Hinds"		"14"		3		512	588					184	444	635	143	470	613
+"MS"	2012	"Hinds"		"16"		2	396	83	479	3		177	291	631	211	863	559	236	795
+"MS"	2012	"Hinds"		"17"		3		312	419					249	228	487	196	251	447
+"MS"	2012	"Hinds"		"18"		2	223	8	231					232	5	239	207	12	219
+"MS"	2012	"Hinds"		"19"		2	380	13	393					406	4	410	350	17	367
+"MS"	2012	"Hinds"		"20"		2	462	13	475					477	7	484	446	16	462
+"MS"	2012	"Hinds"		"21"		2	291	5	296					308	5	313	276	11	287
+"MS"	2012	"Hinds"		"22"		2	1083	40	1123					1143	7	1158	982	34	1016
+"MS"	2012	"Hinds"		"23"		2	889	23	912					943	6	952	732	24	756
+"MS"	2012	"Hinds"		"24"		2	520	18	538					540	15	556	494	22	516
+"MS"	2012	"Hinds"		"25"		2	935	27	962					966	27	997	814	49	863
+"MS"	2012	"Hinds"		"26"		2	475	16	491					499	12	512	438	32	470
+"MS"	2012	"Hinds"		"27"		2	1019	30	1049					1075	4	1086	913	56	969
+"MS"	2012	"Hinds"		"28"		2	912	16	928					944	3	949	803	35	838
+"MS"	2012	"Hinds"		"29"		2	522	12	534					549	5	555	475	22	497
+"MS"	2012	"Hinds"		"30"		2	407	8	415					428	3	431	359	19	378
+"MS"	2012	"Hinds"		"31"		2	732	24	756					788	6	796	610	25	635
+"MS"	2012	"Hinds"		"32"		3		514	583					152	458	620	112	475	587
+"MS"	2012	"Hinds"		"33"		3		693	735					104	654	764	78	655	733
+"MS"	2012	"Hinds"		"34"		3		1152	1260					227	1046	1296	182	1085	1267
+"MS"	2012	"Hinds"		"35"		3		1098	1207					230	1007	1246	177	1042	1219
+"MS"	2012	"Hinds"		"36"		3		405	648					473	275	754	429	283	712
+"MS"	2012	"Hinds"		"37"		3		238	396					324	152	484	289	173	462
+"MS"	2012	"Hinds"		"38"		2	494	57	551					518	56	575	469	66	535
+"MS"	2012	"Hinds"		"39"		2	701	61	762					771	12	783	678	28	706
+"MS"	2012	"Hinds"		"40"		2	979	22	1001					1031	7	1039	873	30	903
+"MS"	2012	"Hinds"		"41"		2	1356	27	1383					1432	11	1444	1216	51	1267
+"MS"	2012	"Hinds"		"42"		2	895	66	961					933	59	997	870	72	942
+"MS"	2012	"Hinds"		"43"		2	1061	67	1128					1123	57	1181	1007	90	1097
+"MS"	2012	"Hinds"		"44"		3		692	1140					811	476	1304	744	500	1244
+"MS"	2012	"Hinds"		"45"		3		1190	1362					321	1100	1436	287	1097	1384
+"MS"	2012	"Hinds"		"46"		2	895	1174	2069					977	1195	2190	878	1211	2089
+"MS"	2012	"Hinds"		"47"		3		127	350					446	31	479	378	47	425
+"MS"	2012	"Hinds"		"49"		2	868	15	883					929	3	935	887	21	908
+"MS"	2012	"Hinds"		"50"		2	330	13	343					351	8	361	299	23	322
+"MS"	2012	"Hinds"		"51"		2	389	9	398					409	4	414	362	17	379
+"MS"	2012	"Hinds"		"52"		2	527	19	546					556	6	567	481	25	506
+"MS"	2012	"Hinds"		"54"		2	331	10	341					343	6	350	276	29	305
+"MS"	2012	"Hinds"		"55"		2	517	9	526					539	5	545	479	17	496
+"MS"	2012	"Hinds"		"56"		2	251	9	260					261	4	265	238	9	247
+"MS"	2012	"Hinds"		"57"		2	498	23	521					532	9	544	473	22	495
+"MS"	2012	"Hinds"		"58"		2	883	11	894					920	2	925	816	20	836
+"MS"	2012	"Hinds"		"59"		2	804	29	833					857	6	864	749	27	776
+"MS"	2012	"Hinds"		"60"		2	248	11	259					255	7	262	225	13	238
+"MS"	2012	"Hinds"		"61"		2	497	15	512					526	5	532	447	16	463
+"MS"	2012	"Hinds"		"62"		2	913	41	954					949	33	990	845	56	901
+"MS"	2012	"Hinds"		"63"		2	524	6	530					541	0	543	504	9	513
+"MS"	2012	"Hinds"		"64"		2	390	4	394					403	5	408	339	18	357
+"MS"	2012	"Hinds"		"67"		2	419	29	448					437	23	461	384	36	420
+"MS"	2012	"Hinds"		"68"		2	1363	135	1498					1420	116	1542	1292	146	1438
+"MS"	2012	"Hinds"		"69"		2	530	57	587					564	53	618	493	62	555
+"MS"	2012	"Hinds"		"70"		2	307	18	325					322	11	334	278	14	292
+"MS"	2012	"Hinds"		"71"		2	580	68	648					592	79	677	546	87	633
+"MS"	2012	"Hinds"		"72"		2	468	45	513					501	37	538	441	50	491
+"MS"	2012	"Hinds"		"73"		2	521	53	574					554	51	607	483	55	538
+"MS"	2012	"Hinds"		"74"		2	461	64	525					473	69	549	421	78	499
+"MS"	2012	"Hinds"		"75"		2	354	42	396					381	40	425	331	52	383
+"MS"	2012	"Hinds"		"76"		2	356	92	448					387	78	469	353	80	433
+"MS"	2012	"Hinds"		"77"		2	465	113	578					481	127	612	446	123	569
+"MS"	2012	"Hinds"		"78"		3		610	970					608	476	1091	562	488	1050
+"MS"	2012	"Hinds"		"79"		2	952	252	1204					1006	256	1270	899	288	1187
+"MS"	2012	"Hinds"		"80"		2	1356	42	1398					1420	20	1445	1331	49	1380
+"MS"	2012	"Hinds"		"81"		2	1364	52	1416					1428	44	1476	1275	97	1372
+"MS"	2012	"Hinds"		"82"		2	920	21	941					955	19	980	868	31	899
+"MS"	2012	"Hinds"		"83"		2	1990	36	2026					2077	17	2098	1871	54	1925
+"MS"	2012	"Hinds"		"84"		2	190	8	198					196	4	201	179	4	183
+"MS"	2012	"Hinds"		"85"		2	1799	29	1828					1889	14	1907	1626	58	1684
+"MS"	2012	"Hinds"		"86"		2	866	31	897					922	16	938	832	36	868
+"MS"	2012	"Hinds"		"87"		2	601	67	668					632	64	697	559	76	635
+"MS"	2012	"Hinds"		"88"		2	1058	60	1118					1094	53	1149	958	82	1040
+"MS"	2012	"Hinds"		"89"		2	405	32	437					429	60	494	387	40	427
+"MS"	2012	"Hinds"		"90"		2	495	91	586					523	85	614	473	96	569
+"MS"	2012	"Hinds"		"91"		2	1327	94	1421					1398	87	1491	1265	115	1380
+"MS"	2012	"Hinds"		"92"		2	1350	183	1533					1408	181	1593	1274	192	1466
+"MS"	2012	"Hinds"		"93"		2	732	120	852					765	116	885	688	138	826
+"MS"	2012	"Hinds"		"94"		2	1545	103	1648					1615	83	1703	1476	118	1594
+"MS"	2012	"Hinds"		"95"		2	250	120	370					244	144	392	215	137	352
+"MS"	2012	"Hinds"		"96"		2	913	286	1199					943	287	1236	875	295	1170
+"MS"	2012	"Hinds"		"97"		2	222	79	301					227	83	311	211	88	299
+"MS"	2012	"Hinds"		"B1"		2	1470	671	2141					1526	687	2227	1403	681	2084
+"MS"	2012	"Hinds"		"B2"		2	653	1024	1677					661	1044	1723	612	1051	1663
+"MS"	2012	"Hinds"		"B3"		2	852	428	1280					857	455	1324	802	464	1266
+"MS"	2012	"Hinds"		"B0"		2	807	239	1046					829	252	1088	708	253	961
+"MS"	2012	"Hinds"		"BR"		2	210	221	431					214	225	446	187	221	408
+"MS"	2012	"Hinds"		"C1"		2	447	695	1142					444	727	1192	388	728	1116
+"MS"	2012	"Hinds"		"C2"		2	585	1480	2065					611	1528	2157	547	1544	2091
+"MS"	2012	"Hinds"		"C3"		2	754	1146	1900					765	1206	1993	687	1209	1896
+"MS"	2012	"Hinds"		"C4"		2	98	95	193					100	96	197	91	99	190
+"MS"	2012	"Hinds"		"C5"		2	249	563	812					255	578	850	233	582	815
+"MS"	2012	"Hinds"		"C6"		2	653	640	1293					680	661	1359	614	674	1288
+"MS"	2012	"Hinds"		"C7"		2	458	901	1359					477	913	1402	423	927	1350
+"MS"	2012	"Hinds"		"CA"		2	178	71	249					175	79	255	165	79	244
+"MS"	2012	"Hinds"		"CH"		2	352	282	634					354	302	657	305	299	604
+"MS"	2012	"Hinds"		"CY"		2	405	51	456					415	54	470	359	63	422
+"MS"	2012	"Hinds"		"DG"		2	281	553	834					283	563	853	267	558	825
+"MS"	2012	"Hinds"		"ED"		2	1289	336	1625					1335	343	1691	1109	369	1478
+"MS"	2012	"Hinds"		"LE"		2	173	274	447					176	288	465	160	270	430
+"MS"	2012	"Hinds"		"OB"		2	629	848	1477					653	876	1537	601	870	1471
+"MS"	2012	"Hinds"		"PN"		2	922	1070	1992					940	1102	2049	801	1100	1901
+"MS"	2012	"Hinds"		"PO"		2	282	187	469					292	190	486	256	191	447
+"MS"	2012	"Hinds"		"R1"		2	625	942	1567					651	944	1622	555	934	1489
+"MS"	2012	"Hinds"		"R2"		2	689	1051	1740					698	1091	1800	614	1083	1697
+"MS"	2012	"Hinds"		"SR"		2	1446	1105	2551					1485	1131	2631	1358	1117	2475
+"MS"	2012	"Hinds"		"ST"		2	335	12	347					346	10	356	302	14	316
+"MS"	2012	"Hinds"		"T1"		2	989	291	1280					1010	305	1322	907	334	1241
+"MS"	2012	"Hinds"		"T2"		2	757	1647	2404					777	1703	2493	735	1639	2374
+"MS"	2012	"Hinds"		"TI"		2	219	514	733					217	538	759	197	529	726
+"MS"	2012	"Hinds"		"U1"		2	323	296	619					316	316	644	276	305	581
+"MS"	2012	"Hinds"		"U2"		2	527	90	617					533	99	634	458	106	564
+"MS"	2012	"Holmes"		"Beat 3 Coxburg (A-Z)"		2	58	101	159					55	120	175	46	126	172
+"MS"	2012	"Holmes"		"Beat 5 Tohula"		2	1134	88	1222					1240	94	1335	990	147	1137
+"MS"	2012	"Holmes"		"Beat 4 Walden Chapel (A-Z)"		2	189	10	199					200	10	213	166	19	185
+"MS"	2012	"Holmes"		"Beat 2 Durant"		2	399	149	548					399	178	580	348	193	541
+"MS"	2012	"Holmes"		"Beat 5 Lexington"		2	210	182	392					217	192	411	188	198	386
+"MS"	2012	"Holmes"		"Beat 1 Lexington"		2	961	98	1059					1019	100	1122	824	136	960
+"MS"	2012	"Holmes"		"Beat 5 Cruger (A-Z)"		2	196	64	260					209	65	274	169	72	241
+"MS"	2012	"Holmes"		"Beat 2 Sub Durant"		2	407	54	461					434	64	501	371	74	445
+"MS"	2012	"Holmes"		"Beat 4 Thornton (A-Z)"		2	292	29	321					302	30	332	269	36	305
+"MS"	2012	"Holmes"		"Beat 3 Ebenezer"		2	231	65	296					238	75	315	181	87	268
+"MS"	2012	"Holmes"		"Beat 3 Goodman"		2	498	69	567					558	67	632	424	91	515
+"MS"	2012	"Holmes"		"1 Acona"		2	474	36	510					513	34	549	433	51	484
+"MS"	2012	"Holmes"		"Beat 3 Pickers"		2	647	94	741					690	103	798	529	139	668
+"MS"	2012	"Holmes"		"2 Lexington Sandhill"		2	0	0	0					0	0	0	0	0	0
+"MS"	2012	"Holmes"		"Beat 2 West"		2	327	101	428					338	128	470	291	143	434
+"MS"	2012	"Holmes"		"Beat 4 Lexington"		2	1086	140	1226					1139	147	1291	942	189	1131
+"MS"	2012	"Holmes"		"1 Durant St. Anderson"		2	255	22	277					261	28	290	218	30	248
+"MS"	2012	"Humphreys"		"Fourmile North"	"1010"	2	10	24	34					5	35	40	7	30	37
+"MS"	2012	"Humphreys"		"Belzoni North -1"	"1020"	2	755	63	818					760	76	837	623	117	740
+"MS"	2012	"Humphreys"		"Belzoni North -2"	"1021"	2	19	52	71					16	55	71	18	53	71
+"MS"	2012	"Humphreys"		"Isola North"	"2010"	2	568	154	722					567	185	757	463	211	674
+"MS"	2012	"Humphreys"		"Belzoni North -3"	"2020"	2	302	4	306					310	2	312	230	22	252
+"MS"	2012	"Humphreys"		"Gooden Lake North"	"2030"	2	15	39	54					10	46	56	11	44	55
+"MS"	2012	"Humphreys"		"Betlzoni South"	"3010"	2	384	9	393					400	12	412	315	36	351
+"MS"	2012	"Humphreys"		"Silver City South"	"3020"	2	250	81	331					254	97	351	210	101	311
+"MS"	2012	"Humphreys"		"Lake City South"	"3030"	2	24	62	86					16	73	89	10	73	83
+"MS"	2012	"Humphreys"		"Belzoni North -4"	"4010"	2	390	206	596					381	235	616	329	247	576
+"MS"	2012	"Humphreys"		"Belzoni South -2"	"4020"	2	277	139	416					274	151	431	225	169	394
+"MS"	2012	"Humphreys"		"Putnam South"	"4030"	2	88	110	198					59	150	210	49	146	195
+"MS"	2012	"Humphreys"		"Belzoni South -3"	"5010"	2	330	2	332					347	1	349	281	19	300
+"MS"	2012	"Humphreys"		"Midnight South"	"5020"	2	96	52	148					97	64	161	70	67	137
+"MS"	2012	"Humphreys"		"Louise South"	"5030"	2	393	99	492					407	111	520	328	125	453
+"MS"	2012	"Issaquena"		"Valley Park Community Center"		2	60	81	141					61	83	146	44	81	125
+"MS"	2012	"Issaquena"		"Tallula Community Center"		2	66	74	140					67	82	149	59	78	137
+"MS"	2012	"Issaquena"		"Mayersville Courthouse"		2	136	10	146					141	7	149	114	12	126
+"MS"	2012	"Issaquena"		"Addle Voting Precinct"		2	123	43	166					133	44	178	100	46	146
+"MS"	2012	"Issaquena"		"Grace Voting Precinct"		2	83	76	159					77	86	165	65	89	154
+"MS"	2012	"Itawamba"		"Courthouse"		1	47	128	175					25	154	180	24	152	176
+"MS"	2012	"Itawamba"		"Banner-Pineville"		1	113	362	475					71	436	517	70	414	484
+"MS"	2012	"Itawamba"		"Ryan"		1	101	143	244					57	195	257	54	195	249
+"MS"	2012	"Itawamba"		"Salem-Copeland"		1	90	266	356					55	306	369	50	305	355
+"MS"	2012	"Itawamba"		"Fairview-Pleasanton"		1	32	79	111					14	104	121	17	99	116
+"MS"	2012	"Itawamba"		"Centerville"		1	89	205	294					45	256	312	48	252	300
+"MS"	2012	"Itawamba"		"Ozark"		1	31	54	85					12	76	90	14	69	83
+"MS"	2012	"Itawamba"		"Fawn Grove"		1	106	176	282					54	235	293	50	232	282
+"MS"	2012	"Itawamba"		"Ratliff"		1	45	107	152					12	141	155	15	136	151
+"MS"	2012	"Itawamba"		"Kirkville"		1	138	313	451					68	398	477	80	377	457
+"MS"	2012	"Itawamba"		"Mantachie"		1	204	531	735					85	656	760	95	651	746
+"MS"	2012	"Itawamba"		"Dorsey"		1	158	349	507					58	459	532	40	468	508
+"MS"	2012	"Itawamba"		"Friendship"		1	155	219	374					58	313	382	66	304	370
+"MS"	2012	"Itawamba"		"Cedarsville"		1	51	89	140					26	115	143	19	122	141
+"MS"	2012	"Itawamba"		"Greenwood"		1	212	147	359					170	199	381	145	221	366
+"MS"	2012	"Itawamba"		"Carolina"		1	100	140	240					65	179	248	66	175	241
+"MS"	2012	"Itawamba"		"Evergreen"		1	181	169	350					154	214	372	139	220	359
+"MS"	2012	"Itawamba"		"American Legion"		1	348	668	1016					164	869	1059	136	880	1016
+"MS"	2012	"Itawamba"		"Tremont"		1	89	245	334					52	290	354	52	294	346
+"MS"	2012	"Itawamba"		"James Creek"		1	26	121	147					11	136	156	9	135	144
+"MS"	2012	"Itawamba"		"Tilden"		1	125	218	343					71	278	356	72	276	348
+"MS"	2012	"Itawamba"		"Clay"		1	185	443	628					82	553	649	80	550	630
+"MS"	2012	"Itawamba"		"Icdc"		1	268	327	595					207	399	621	170	416	586
+"MS"	2012	"Itawamba"		"Mt Gilead"		1	27	73	100					9	91	103	12	89	101
+"MS"	2012	"Itawamba"		"Armory"		1	148	221	369					77	303	389	64	313	377
+"MS"	2012	"Itawamba"		"Bounds"		1	9	31	40					4	38	42	6	34	40
+"MS"	2012	"Jackson"		"Hwy 57"		4	18	259	277					24	295	320	20	282	302
+"MS"	2012	"Jackson"		"North Vancleave"		4	187	1177	1364					233	1321	1581	215	1248	1463
+"MS"	2012	"Jackson"		"East Central"		4	371	3407	3778					393	3836	4258	458	3607	4065
+"MS"	2012	"Jackson"		"Big Point"		4	101	1318	1419					115	1480	1609	135	1404	1539
+"MS"	2012	"Jackson"		"Escatawpa"		4	521	1582	2103					620	1822	2466	586	1738	2324
+"MS"	2012	"Jackson"		"Orange Grove"		4	167	624	791					190	792	990	191	754	945
+"MS"	2012	"Jackson"		"Rec Center"		4	2822	295	3117					3156	269	3440	2967	351	3318
+"MS"	2012	"Jackson"		"YMBC-Dantzler"		4	704	444	1148					810	468	1284	748	491	1239
+"MS"	2012	"Jackson"		"Jefferson Street"		4	1285	403	1688					1493	396	1894	1350	453	1803
+"MS"	2012	"Jackson"		"Fair"		4	1556	910	2466					1839	961	2817	1667	985	2652
+"MS"	2012	"Jackson"		"Pinecrest"		4	167	708	875					193	797	998	177	777	954
+"MS"	2012	"Jackson"		"Nazarene"		4	211	350	561					259	376	644	232	377	609
+"MS"	2012	"Jackson"		"Sacred Heart"		4	159	718	877					165	819	993	160	802	962
+"MS"	2012	"Jackson"		"Eastlawn"		4	143	789	932					173	872	1056	153	860	1013
+"MS"	2012	"Jackson"		"American Legion"		4	63	268	331					73	299	375	68	287	355
+"MS"	2012	"Jackson"		"Presbyterian"		4	101	457	558					111	532	654	98	535	633
+"MS"	2012	"Jackson"		"North Pascagoula"		4	66	307	373					84	335	420	83	327	410
+"MS"	2012	"Jackson"		"Gautier"		4	1772	2448	4220					2042	2663	4752	1869	2610	4479
+"MS"	2012	"Jackson"		"Villa Maria"		4	109	263	372					125	295	424	112	288	400
+"MS"	2012	"Jackson"		"OS Community Ctr"		4	59	140	199					70	169	241	67	160	227
+"MS"	2012	"Jackson"		"OS Armory"		4	580	1501	2081					682	1708	2443	604	1716	2320
+"MS"	2012	"Jackson"		"St. Martin"		4	1166	3004	4170					1340	3362	4781	1233	3296	4529
+"MS"	2012	"Jackson"		"Latimer"		4	291	1471	1762					343	1696	2077	322	1621	1943
+"MS"	2012	"Jackson"		"Larue"		4	17	153	170					13	176	189	18	158	176
+"MS"	2012	"Jackson"		"Hickory Hills"		4	398	1046	1444					465	1141	1632	439	1122	1561
+"MS"	2012	"Jackson"		"Fontainebleau"		4	501	1635	2136					603	1797	2430	543	1762	2305
+"MS"	2012	"Jackson"		"Gulf Park Estates"		4	409	1341	1750					445	1516	1990	404	1473	1877
+"MS"	2012	"Jackson"		"OS Civic Ctr"		4	884	2879	3763					1036	3244	4347	899	3211	4110
+"MS"	2012	"Jackson"		"South Vancleave"		4	177	1733	1910					185	1966	2180	196	1847	2043
+"MS"	2012	"Jackson"		"Red Hill"		4	12	212	224					10	239	254	18	223	241
+"MS"	2012	"Jackson"		"Carterville"		4	8	89	97					9	105	116	11	98	109
+"MS"	2012	"Jasper"		"Beat 1 Antioch 2 Judicial"		3		268	294					36	266	305	43	249	292
+"MS"	2012	"Jasper"		"Beat 1 Holders-Waldrup 1"		3		51	113					163	31	195	148	35	183
+"MS"	2012	"Jasper"		"Beat 1 Holders-Waldrup 2"		3		267	411					243	224	472	213	221	434
+"MS"	2012	"Jasper"		"Moss First"		3		37	37					0	37	37	2	33	35
+"MS"	2012	"Jasper"		"Moss Second"		3		538	638					178	532	716	176	513	689
+"MS"	2012	"Jasper"		"Palestine"		3		22	52					67	12	79	58	13	71
+"MS"	2012	"Jasper"		"Paulding"		3		315	635					600	198	801	536	216	752
+"MS"	2012	"Jasper"		"Fellowship"		3		81	87					16	77	93	16	73	89
+"MS"	2012	"Jasper"		"Midway"		3		141	226					204	94	300	180	103	283
+"MS"	2012	"Jasper"		"Rose Hill"		3		253	316					181	218	399	168	208	376
+"MS"	2012	"Jasper"		"Vossburg"		3		86	226					324	35	359	282	53	335
+"MS"	2012	"Jasper"		"Bay Springs Beat 3"		3		482	649					429	401	833	367	410	777
+"MS"	2012	"Jasper"		"Louin"		3		330	528					368	251	626	323	264	587
+"MS"	2012	"Jasper"		"Montrose"		3		207	282					174	171	346	161	174	335
+"MS"	2012	"Jasper"		"Bay Springs Beat 4"		3		537	855					611	381	998	533	408	941
+"MS"	2012	"Jasper"		"Stringer"		3		875	942					95	889	993	121	842	963
+"MS"	2012	"Jasper"		"Heidelberg Beat 5"		3		312	666					942	162	1106	850	188	1038
+"MS"	2012	"Jasper"		"Claiborne"		3		169	264					200	148	349	184	152	336
+"MS"	2012	"Jasper"		"Philadelphia"		3		109	238					266	66	332	235	77	312
+"MS"	2012	"Jefferson Davis"		"Granby"	"11"	3		61	115					105	44	150	105	44	149
+"MS"	2012	"Jefferson Davis"		"South Prentiss"	"12"	3		449	585					244	415	672	244	415	659
+"MS"	2012	"Jefferson Davis"		"South Prentiss"	"13"	3		251	404					333	162	498	333	162	495
+"MS"	2012	"Jefferson Davis"		"Bournham"	"21"	3		0	0					0	0	0	0	0	0
+"MS"	2012	"Jefferson Davis"		"Carson"	"22"	3		188	226					78	171	251	78	171	249
+"MS"	2012	"Jefferson Davis"		"Green's Creek"	"23"	3		246	307					96	221	320	96	221	317
+"MS"	2012	"Jefferson Davis"		"Hathorn"	"24"	3		140	178					63	128	195	63	128	191
+"MS"	2012	"Jefferson Davis"		"Son's Academy"	"25"	3		85	192					199	50	251	199	50	249
+"MS"	2012	"Jefferson Davis"		"Bassfield"	"26"	3		216	314					185	171	368	185	171	356
+"MS"	2012	"Jefferson Davis"		"Bassfield"	"31"	3		197	497					442	137	583	442	137	579
+"MS"	2012	"Jefferson Davis"		"Bassfield"	"32"	3		193	420					454	101	561	454	101	555
+"MS"	2012	"Jefferson Davis"		"Good Hope"	"33"	3		163	233					110	147	260	104	141	245
+"MS"	2012	"Jefferson Davis"		"Melba"	"34"	3		44	55					15	47	63	18	43	61
+"MS"	2012	"Jefferson Davis"		"Clem"	"41"	3		110	164					100	88	191	90	90	180
+"MS"	2012	"Jefferson Davis"		"Mt Carmel"	"42"	3		82	169					223	12	237	186	32	218
+"MS"	2012	"Jefferson Davis"		"North East Prentiss"	"43"	3		252	532					535	147	692	463	175	638
+"MS"	2012	"Jefferson Davis"		"Willliamson Mill"	"44"	3		211	272					130	181	316	107	183	290
+"MS"	2012	"Jefferson Davis"		"Gwinville"	"51"	3		72	119					128	34	166	119	39	158
+"MS"	2012	"Jefferson Davis"		"Hebron"	"52"	3		62	83					55	54	114	40	61	101
+"MS"	2012	"Jefferson Davis"		"North West Prentiss"	"53"	3		122	231					217	70	289	190	73	263
+"MS"	2012	"Jefferson Davis"		"Red House"	"55"	3		138	264					252	86	340	216	89	305
+"MS"	2012	"Jefferson Davis"		"Whiting"	"56"	3		97	208					303	41	347	257	53	310
+"MS"	2012	"Jefferson Davis"		"City of Prentiss"		3		0	0					0	0	0	0	0	0
+"MS"	2012	"Jefferson Davis"		"MUBASS"		3			0							0			0
+"MS"	2012	"Jefferson"		"Union Church"	"1010"	2	167	109	276					168	132	301	119	146	265
+"MS"	2012	"Jefferson"		"Harriston"	"1020"	2	175	16	191					187	17	205	160	21	181
+"MS"	2012	"Jefferson"		"Red Lick"	"1030"	2	307	42	349					314	46	360	255	66	321
+"MS"	2012	"Jefferson"		"Stampley"	"2010"	2	258	5	263					268	4	272	243	10	253
+"MS"	2012	"Jefferson"		"Superintendent Office"	"2020"	2	290	5	295					306	1	307	248	18	266
+"MS"	2012	"Jefferson"		"Rose Hill #1 Church"		2	157	33	190					160	41	201	133	46	179
+"MS"	2012	"Jefferson"		"Chancery Clerk"	"3010"	2	262	6	268					270	4	276	235	18	253
+"MS"	2012	"Jefferson"		"City Hall"	"3020"	2	342	15	357					367	7	376	298	30	328
+"MS"	2012	"Jefferson"		"Cannonsburg"	"4010"	2	232	15	247					241	14	256	209	21	230
+"MS"	2012	"Jefferson"		"Church Hill"	"4020"	2	78	12	90					79	95	175	55	105	160
+"MS"	2012	"Jefferson"		"Old Hollywood Church"	"4030"	2	488	64	552					524	44	569	434	74	508
+"MS"	2012	"Jefferson"		"Lorman"	"5010"	2	22	51	73					223	54	281	195	62	257
+"MS"	2012	"Jefferson"		"Fayett Manor"	"5020"	2	347	2	349					365	1	366	305	19	324
+"MS"	2012	"Jefferson"		"Highway 33"	"2040"	2	119	6	125					130	0	130	109	9	118
+"MS"	2012	"Jefferson"		"Chambliss's Restaurant"	"5030"	2	338	10	348					349	8	358	304	28	332
+"MS"	2012	"Jones"		"North Laurel"		4	607	1403	2010					717	1460	2200	643	1467	2110
+"MS"	2012	"Jones"		"Shady Grove"		4	582	1457	2039					616	1499	2135	582	1457	2039
+"MS"	2012	"Jones"		"Sharon"		4	168	922	1090					160	963	1126	168	922	1090
+"MS"	2012	"Jones"		"Bruce"		4	39	369	408					33	380	414	39	369	408
+"MS"	2012	"Jones"		"Calhoun"		4	80	1307	1387					86	1402	1503	86	1367	1453
+"MS"	2012	"Jones"		"Centerville"		4	13	127	140					11	137	149	9	128	137
+"MS"	2012	"Jones"		"Laurel Courthouse"		4	246	293	539					285	298	590	256	295	551
+"MS"	2012	"Jones"		"Gitano"		4	67	170	237					78	181	260	70	169	239
+"MS"	2012	"Jones"		"Hebron"		4	365	213	578					416	217	634	386	227	613
+"MS"	2012	"Jones"		"Matthews"		4	45	4647	4692					48	483	535	54	461	515
+"MS"	2012	"Jones"		"Pleasant Ridge"		4	38	492	530					33	520	559	37	510	547
+"MS"	2012	"Jones"		"Cameron Center"		4	98	184	282					130	185	320	112	188	300
+"MS"	2012	"Jones"		"Soso"		4	358	467	825					402	486	896	379	484	863
+"MS"	2012	"Jones"		"Mauldin Community Center"		4	220	805	1025					238	851	1093	231	822	1053
+"MS"	2012	"Jones"		"Kingston Church"		4	182	30	212					249	17	266	205	34	239
+"MS"	2012	"Jones"		"Erata"		4	201	152	353					242	154	398	221	152	373
+"MS"	2012	"Jones"		"Glade"		4	57	744	801					64	804	872	65	770	835
+"MS"	2012	"Jones"		"Myrick"		4	39	886	925					43	940	993	59	890	949
+"MS"	2012	"Jones"		"Powers Community Center"		4	166	670	836					198	170	372	183	668	851
+"MS"	2012	"Jones"		"Ovett"		4	49	533	582					46	569	625	57	527	584
+"MS"	2012	"Jones"		"Rustin"		4	23	419	442					20	468	489	32	437	469
+"MS"	2012	"Jones"		"Sandersville Civic Center"		4	96	500	596					125	515	650	116	507	623
+"MS"	2012	"Jones"		"Truckers"		4	27	597	624					35	657	702	57	610	667
+"MS"	2012	"Jones"		"Antioch"		4	23	331	354					20	358	385	27	344	371
+"MS"	2012	"Jones"		"Blackwell"		4	12	245	257					9	261	272	16	241	257
+"MS"	2012	"Jones"		"County Barn"		4	143	447	590					164	503	669	168	462	630
+"MS"	2012	"Jones"		"Johnson"		4	22	441	463					18	471	492	25	444	469
+"MS"	2012	"Jones"		"Ellisville Courthouse"		4	187	480	667					216	516	740	197	507	704
+"MS"	2012	"Jones"		"Landrum"		4	11	280	291					11	294	312	13	283	296
+"MS"	2012	"Jones"		"Moselle"		4	156	547	703					174	607	795	165	580	745
+"MS"	2012	"Jones"		"Pine Grove"		4	31	615	646					41	665	715	40	641	681
+"MS"	2012	"Jones"		"Rainey"		4	43	736	779					37	798	839	47	762	809
+"MS"	2012	"Jones"		"Sand Hill"		4	34	579	613					40	609	661	45	595	640
+"MS"	2012	"Jones"		"Shelton"		4	136	344	480					159	367	530	143	359	502
+"MS"	2012	"Jones"		"Union"		4	32	544	576					34	588	629	45	552	597
+"MS"	2012	"Jones"		"Old South Jones Elementary"		4	27	193	220					40	203	246	31	202	233
+"MS"	2012	"Jones"		"Cooks Ave. Comm. Center"		4	490	15	505					557	2	561	519	13	532
+"MS"	2012	"Jones"		"Magnolia Center"		4	1193	365	1558					1331	360	1705	1266	378	1644
+"MS"	2012	"Jones"		"L T Ellis Center"		4	659	37	696					785	14	804	711	39	750
+"MS"	2012	"Jones"		"Roosevelt"		4	208	30	238					275	13	288	226	33	259
+"MS"	2012	"Jones"		"Oak Park School"		4	670	35	705					819	3	824	708	37	745
+"MS"	2012	"Jones"		"Pendorff"		4	34	150	184					38	156	200	39	145	184
+"MS"	2012	"Jones"		"Currie"		4	151	7	158					168	3	171	157	5	162
+"MS"	2012	"Kemper"		"Scooba A-L"		3		180	313					263	116	382	223	132	355
+"MS"	2012	"Kemper"		"Scooba M-Z"		3		179	301					238	124	365	202	136	338
+"MS"	2012	"Kemper"		"Farmers Market"		3		17	26					14	15	29	11	17	28
+"MS"	2012	"Kemper"		"Band Building"		3		218	366					321	138	461	270	155	425
+"MS"	2012	"Kemper"		"Porterville"		3		198	440					435	113	549	376	139	515
+"MS"	2012	"Kemper"		"Kemper Springs"		3		55	99					132	10	142	103	20	123
+"MS"	2012	"Kemper"		"Fort Stevens"		3		145	168					48	132	181	43	131	174
+"MS"	2012	"Kemper"		"Lynwood"		3		235	300					100	202	304	89	209	298
+"MS"	2012	"Kemper"		"Lynville"		3		216	304					161	175	338	121	197	318
+"MS"	2012	"Kemper"		"Preston"		3		248	352					239	104	344	191	190	381
+"MS"	2012	"Kemper"		"Kellis Store"		3		93	187					198	44	243	166	56	222
+"MS"	2012	"Kemper"		"Courthouse"		3		349	593					517	213	736	420	259	679
+"MS"	2012	"Kemper"		"Mount Nebo"		3		147	237					230	108	340	196	121	317
+"MS"	2012	"Kemper"		"Satellite"		3		283	453					343	215	558	297	227	524
+"MS"	2012	"Lafayette"		"Oxford 1"		1	957	1384	2341					964	1455	2466	872	1500	2372
+"MS"	2012	"Lafayette"		"Denmark-Lafayette Springs-Pine Bluff"		1	75	350	425					61	368	437	68	355	423
+"MS"	2012	"Lafayette"		"Yocona Community Center"		1	88	398	486					75	422	508	81	414	495
+"MS"	2012	"Lafayette"		"Oxford 2"		1	1621	1911	3532					1681	1995	3740	1505	2076	3581
+"MS"	2012	"Lafayette"		"Philadelphia"		1	102	111	213					100	122	225	98	118	216
+"MS"	2012	"Lafayette"		"Oxford 3"		1	1030	791	1821					1082	795	1903	1002	849	1851
+"MS"	2012	"Lafayette"		"Abbeville"		1	584	377	961					644	377	1027	606	385	991
+"MS"	2012	"Lafayette"		"College Hill"		1	561	870	1431					585	889	1499	543	916	1459
+"MS"	2012	"Lafayette"		"Taylor 3"		1	368	118	486					407	117	529	357	147	504
+"MS"	2012	"Lafayette"		"Oxford 4"		1	1197	1624	2821					1204	1714	2981	1097	1771	2868
+"MS"	2012	"Lafayette"		"Burgess"		1	105	269	374					107	249	363	108	285	393
+"MS"	2012	"Lafayette"		"Anchor-Taylor"		1	71	354	425					67	381	452	69	371	440
+"MS"	2012	"Lafayette"		"Harmontown"		1	70	282	352					91	296	396	94	270	364
+"MS"	2012	"Lafayette"		"Union West 4"		1	92	172	264					93	176	270	88	177	265
+"MS"	2012	"Lafayette"		"Oxford 5"		1	754	850	1604					782	875	1710	747	897	1644
+"MS"	2012	"Lafayette"		"Paris"		1	37	212	249					30	222	254	29	217	246
+"MS"	2012	"Lafayette"		"Tula"		1	53	218	271					52	231	286	44	226	270
+"MS"	2012	"Lafayette"		"Airport Grocery"		1	72	318	390					66	350	421	73	328	401
+"MS"	2012	"Lamar"		"Lamar Park"		4	470	747	1217					530	746	1304	530	746	1276
+"MS"	2012	"Lamar"		"Okahola"		4	87	374	461					99	385	487	99	385	484
+"MS"	2012	"Lamar"		"Richburg"		4	305	1112	1417					338	1165	1525	338	1165	1503
+"MS"	2012	"Lamar"		"Northeast lamar"		4	473	580	1053					551	605	1171	551	605	1156
+"MS"	2012	"Lamar"		"Lumberton"		4	527	610	1137					633	612	1257	633	612	1245
+"MS"	2012	"Lamar"		"South Purvis"		4	91	1290	1381					105	1385	1506	105	1385	1490
+"MS"	2012	"Lamar"		"Yawn"		4	15	185	200					17	207	224	17	207	224
+"MS"	2012	"Lamar"		"Welsley Manor"		4	450	443	893					517	450	978	517	450	967
+"MS"	2012	"Lamar"		"Pine Grove"		4	16	412	428					17	446	471	17	446	463
+"MS"	2012	"Lamar"		"Baxterville"		4	21	308	329					16	342	365	16	342	358
+"MS"	2012	"Lamar"		"Greenville"		4	29	635	664					23	687	717	23	687	710
+"MS"	2012	"Lamar"		"Purvis"		4	329	1252	1581					370	1335	1725	341	1293	1634
+"MS"	2012	"Lamar"		"Arnold Line"		4	300	723	1023					341	746	1101	302	743	1045
+"MS"	2012	"Lamar"		"Midway"		4	120	1014	1134					127	1097	1239	127	1046	1173
+"MS"	2012	"Lamar"		"Oak Grove"		4	243	1360	1603					277	1435	1739	266	1393	1659
+"MS"	2012	"Lamar"		"Lake Serene"		4	225	1822	2047					261	1905	2188	237	1886	2123
+"MS"	2012	"Lamar"		"Kingsmill"		4	82	1079	1161					94	1145	1251	85	1131	1216
+"MS"	2012	"Lamar"		"Breland"		4	648	1572	2220					764	1601	2389	693	1602	2295
+"MS"	2012	"Lamar"		"Oloh"		4	42	472	514					45	504	554	48	484	532
+"MS"	2012	"Lamar"		"Rocky Branch"		4	119	419	538					137	436	581	126	427	553
+"MS"	2012	"Lamar"		"Sumrall"		4	193	1740	1933					232	1867	2117	233	1790	2023
+"MS"	2012	"Lauderdale"		"One"	"101"	3		1345	1529					449	1208	1674	395	1228	1623
+"MS"	2012	"Lauderdale"		"Five"	"105"	3		1186	1380					554	1003	1568	473	1030	1503
+"MS"	2012	"Lauderdale"		"Andrews Chapel"	"126"	3		587	655					180	524	711	161	526	687
+"MS"	2012	"Lauderdale"		"Bailey"	"127"	3		927	1058					300	850	1161	273	847	1120
+"MS"	2012	"Lauderdale"		"New Lauderdale"	"146"	3		1131	1216					192	1060	1265	178	1052	1230
+"MS"	2012	"Lauderdale"		"Prospect"	"153"	3		310	334					74	282	358	55	293	348
+"MS"	2012	"Lauderdale"		"West Dalewood"	"175"	3		142	145					23	127	154	24	125	149
+"MS"	2012	"Lauderdale"		"Two"	"202"	3		203	241					90	163	257	74	174	248
+"MS"	2012	"Lauderdale"		"Four"	"204"	3		183	347					460	74	537	289	94	383
+"MS"	2012	"Lauderdale"		"Six"	"206"	3		512	949					1397	163	1565	1189	231	1420
+"MS"	2012	"Lauderdale"		"Fourteen"	"214"	3		166	308					476	32	508	400	58	458
+"MS"	2012	"Lauderdale"		"Daleville"	"235"	3		134	190					189	83	276	169	90	259
+"MS"	2012	"Lauderdale"		"East Lauderdale"	"237"	3		669	758					277	610	894	251	600	851
+"MS"	2012	"Lauderdale"		"Marion"	"238"	3		454	619					366	361	740	323	377	700
+"MS"	2012	"Lauderdale"		"Kewanee"	"240"	3		130	175					121	106	229	114	108	222
+"MS"	2012	"Lauderdale"		"Russell"	"254"	3		582	696					288	507	799	248	521	769
+"MS"	2012	"Lauderdale"		"Toomsuba"	"262"	3		229	292					207	196	406	166	202	368
+"MS"	2012	"Lauderdale"		"Center Ridge"	"282"	3		49	94					144	24	168	128	30	158
+"MS"	2012	"Lauderdale"		"Three"	"303"	3		483	806					840	226	1069	724	280	1004
+"MS"	2012	"Lauderdale"		"Thirteen"	"313"	3		1125	1415					700	906	1619	621	935	1556
+"MS"	2012	"Lauderdale"		"Center Hill"	"329"	3		1082	1150					153	1046	1220	144	1036	1180
+"MS"	2012	"Lauderdale"		"Collinsville"	"331"	3		1239	1334					249	1165	1427	226	1158	1384
+"MS"	2012	"Lauderdale"		"Martin"	"343"	3		766	787					43	51	102	42	736	778
+"MS"	2012	"Lauderdale"		"Suqualena"	"361"	3		1271	1389					309	1164	1485	283	1153	1436
+"MS"	2012	"Lauderdale"		"West Lauderdale"	"366"	3		0	0					0	0	0	0	0	0
+"MS"	2012	"Lauderdale"		"Seven"	"407"	3		354	577					601	212	816	503	251	754
+"MS"	2012	"Lauderdale"		"Eight"	"408"	3		369	565					559	209	773	490	248	738
+"MS"	2012	"Lauderdale"		"Nine"	"409"	3		275	563					816	80	899	667	141	808
+"MS"	2012	"Lauderdale"		"Ten"	"410"	3		98	161					208	39	247	183	43	226
+"MS"	2012	"Lauderdale"		"Eleven"	"411"	3		123	261					432	28	462	371	46	417
+"MS"	2012	"Lauderdale"		"Twelve"	"412"	3		225	508					893	40	937	744	76	820
+"MS"	2012	"Lauderdale"		"Fifteen"	"415"	3		29	48					99	18	117	96	18	114
+"MS"	2012	"Lauderdale"		"Twenty"	"420"	3		258	439					454	149	607	391	176	567
+"MS"	2012	"Lauderdale"		"Pickard"	"450"	3		279	307					69	268	340	63	268	331
+"MS"	2012	"Lauderdale"		"Sageville"	"455"	3		68	92					57	53	112	55	55	110
+"MS"	2012	"Lauderdale"		"Eighteen"	"518"	3		215	245					84	183	268	76	181	257
+"MS"	2012	"Lauderdale"		"Nineteen"	"519"	3		254	313					127	217	348	115	22	137
+"MS"	2012	"Lauderdale"		"Alamucha"	"525"	3		142	162					77	130	207	68	123	191
+"MS"	2012	"Lauderdale"		"Ceuseyville"	"528"	3		353	364					36	338	376	33	330	363
+"MS"	2012	"Lauderdale"		"Clarkdale"	"530"	3		574	597					54	558	616	41	565	606
+"MS"	2012	"Lauderdale"		"Culpepper"	"533"	3		431	447					23	430	457	22	423	445
+"MS"	2012	"Lauderdale"		"Meehan"	"544"	3		395	449					121	368	493	105	364	469
+"MS"	2012	"Lauderdale"		"Odom"	"549"	3		263	340					203	200	405	182	200	382
+"MS"	2012	"Lauderdale"		"South Nellieburg"	"560"	3		327	367					93	300	395	76	296	372
+"MS"	2012	"Lauderdale"		"Valley"	"563"	3		92	104					26	93	120	30	83	113
+"MS"	2012	"Lauderdale"		"Vimville"	"564"	3		821	983					363	743	1111	348	717	1065
+"MS"	2012	"Lauderdale"		"Whynot"	"565"	3		356	378					78	339	420	61	335	396
+"MS"	2012	"Lauderdale"		"Zero"	"567"	3		781	836					140	737	893	135	731	866
+"MS"	2012	"Lauderdale"		"Mt Gilead"	"583"	3		388	438					120	337	466	106	343	449
+"MS"	2012	"Lawrence"		"Courthouse A-Z"		3		894	1020					196	866	1067	204	839	1043
+"MS"	2012	"Lawrence"		"Tilton"		3		136	162					55	127	183	59	120	179
+"MS"	2012	"Lawrence"		"Topeka"		3		273	286					31	271	303	32	260	292
+"MS"	2012	"Lawrence"		"Armory"		3		106	114					12	105	117	15	99	114
+"MS"	2012	"Lawrence"		"Grange"		3		158	181					43	146	190	42	145	187
+"MS"	2012	"Lawrence"		"Hooker"		3		84	151					147	47	195	120	62	182
+"MS"	2012	"Lawrence"		"New Hebron"		3		365	406					88	345	440	81	337	418
+"MS"	2012	"Lawrence"		"Stringer"		3		190	273					195	139	335	172	141	313
+"MS"	2012	"Lawrence"		"East Arm"		3		139	206					126	103	230	118	108	226
+"MS"	2012	"Lawrence"		"Monticello-Beat 5"		3		32	78					118	5	123	109	9	118
+"MS"	2012	"Lawrence"		"North Silver Creek"		3		72	126					78	58	136	72	54	126
+"MS"	2012	"Lawrence"		"Nola"		3		83	116					69	65	135	58	64	122
+"MS"	2012	"Lawrence"		"Oakvale"		3		102	111					23	91	116	18	90	108
+"MS"	2012	"Lawrence"		"Peyton Town"		3		71	146					154	25	180	141	30	171
+"MS"	2012	"Lawrence"		"South Silver Creek"		3		140	236					185	98	287	178	101	279
+"MS"	2012	"Lawrence"		"West Arm"		3		98	159					121	73	194	112	77	189
+"MS"	2012	"Lawrence"		"West Monticello - 53"		3		31	32					2	30	32	3	29	32
+"MS"	2012	"Lawrence"		"Oakvale - 91"		3		15	19					6	14	20	8	12	20
+"MS"	2012	"Lawrence"		"Oma"		3		126	253					281	16	297	259	54	313
+"MS"	2012	"Lawrence"		"Sontag"		3		209	289					123	186	313	11	186	197
+"MS"	2012	"Lawrence"		"Wanilla"		3		87	117					57	74	134	54	73	127
+"MS"	2012	"Lawrence"		"Precinct 53"		3		139	145					10	138	149	13	132	145
+"MS"	2012	"Lawrence"		"West Monticello A-Z"		3		321	443					258	263	522	245	263	508
+"MS"	2012	"Lawrence"		"Center"		3		141	149					16	137	154	14	132	146
+"MS"	2012	"Lawrence"		"Coopers Creek A-Z"		3		432	456					47	417	466	61	387	448
+"MS"	2012	"Lawrence"		"Jayess"		3		301	329					27	323	350	37	285	322
+"MS"	2012	"Lawrence"		"COURTHOUSE 53"		3			0							0			0
+"MS"	2012	"Lawrence"		"NOLA"		3			0							0			0
+"MS"	2012	"Leake"		"Conway"		2	245	73	318					254	85	342	219	93	312
+"MS"	2012	"Leake"		"East Carthage"		2	170	433	603					136	504	643	127	504	631
+"MS"	2012	"Leake"		"Harmony"		2	255	82	337					250	105	356	222	112	334
+"MS"	2012	"Leake"		"Edinburg"		2	52	347	399					18	429	450	28	401	429
+"MS"	2012	"Leake"		"Freeny"		2	95	247	342					75	305	381	67	301	368
+"MS"	2012	"Leake"		"Good Hope"		2	160	284	444					146	362	511	130	347	477
+"MS"	2012	"Leake"		"Lena"		2	270	126	396					279	155	435	243	164	407
+"MS"	2012	"Leake"		"Madden"		2	116	291	407					84	376	461	75	369	444
+"MS"	2012	"Leake"		"North Carthage"		2	283	395	678					295	446	741	244	449	693
+"MS"	2012	"Leake"		"Ofahoma"		2	307	41	348					311	44	357	265	56	321
+"MS"	2012	"Leake"		"Renfroe"		2	85	226	311					54	275	337	50	269	319
+"MS"	2012	"Leake"		"South Carthage"		2	121	182	303					116	221	338	102	213	315
+"MS"	2012	"Leake"		"Salem"		2	42	209	251					19	257	276	20	253	273
+"MS"	2012	"Leake"		"Singleton"		2	223	349	572					207	405	614	177	400	577
+"MS"	2012	"Leake"		"Sunrise"		2	43	236	279					23	290	313	34	270	304
+"MS"	2012	"Leake"		"Thomastown"		2	235	139	374					236	168	407	196	171	367
+"MS"	2012	"Leake"		"West Carthage"		2	715	124	839					732	138	876	604	161	765
+"MS"	2012	"Leake"		"Walnut Grove"		2	576	178	754					601	206	808	524	218	742
+"MS"	2012	"Leake"		"Wiggins"		2	233	82	315					243	92	337	204	99	303
+"MS"	2012	"Lee"		"Pratts"		1	51	211	262					29	237	269	34	229	263
+"MS"	2012	"Lee"		"Baldwyn"		1	387	304	691					403	321	727	350	341	691
+"MS"	2012	"Lee"		"Guntown"		1	204	444	648					201	471	677	168	480	648
+"MS"	2012	"Lee"		"Friendship"		1	27	126	153					25	124	154	24	130	154
+"MS"	2012	"Lee"		"Unity"		1	76	307	383					49	333	388	49	337	386
+"MS"	2012	"Lee"		"Hebron"		1	65	229	294					39	265	309	42	256	298
+"MS"	2012	"Lee"		"Fellowship"		1	90	381	471					78	408	492	74	403	477
+"MS"	2012	"Lee"		"Oak Hill"		1	288	872	1160					227	963	1202	214	959	1173
+"MS"	2012	"Lee"		"Tupelo 1"		1	77	423	500					59	456	520	53	453	506
+"MS"	2012	"Lee"		"Eggville"		1	57	298	355					31	332	368	27	331	358
+"MS"	2012	"Lee"		"Auburn"		1	191	747	938					129	825	969	130	820	950
+"MS"	2012	"Lee"		"East Heights"		1	76	274	350					51	301	358	49	300	349
+"MS"	2012	"Lee"		"Cedar Hill"		1	265	823	1088					233	870	1111	201	895	1096
+"MS"	2012	"Lee"		"Davis Box"		1	83	84	167					84	87	176	75	93	168
+"MS"	2012	"Lee"		"Birmingham Ridge"		1	176	781	957					140	833	981	136	823	959
+"MS"	2012	"Lee"		"Euclatubba"		1	28	207	235					20	215	239	17	214	231
+"MS"	2012	"Lee"		"Saltillo"		1	380	1564	1944					339	1648	2015	284	1665	1949
+"MS"	2012	"Lee"		"Beech Springs"		1	197	333	530					190	362	554	167	368	535
+"MS"	2012	"Lee"		"Tupelo 2"		1	752	1752	2504					737	1820	2585	620	1905	2525
+"MS"	2012	"Lee"		"Belden"		1	544	1002	1546					527	1058	1598	484	1054	1538
+"MS"	2012	"Lee"		"Bissell"		1	840	2896	3736					741	3083	3855	681	3068	3749
+"MS"	2012	"Lee"		"Tupelo 3"		1	1077	1938	3015					1039	2033	3101	914	2117	3031
+"MS"	2012	"Lee"		"Palmetto"		1	357	356	713					370	373	751	335	384	719
+"MS"	2012	"Lee"		"Pleasant Grove"		1	565	331	896					610	308	921	545	346	891
+"MS"	2012	"Lee"		"Old Union"		1	215	211	426					223	212	440	198	230	428
+"MS"	2012	"Lee"		"Tupelo 4 North"		1	1630	505	2135					1811	443	2268	1570	588	2158
+"MS"	2012	"Lee"		"Tupelo 4 South"		1	1338	197	1535					1472	146	1623	1308	245	1553
+"MS"	2012	"Lee"		"Brewer"		1	82	279	361					54	310	368	45	319	364
+"MS"	2012	"Lee"		"Shannon"		1	359	224	583					363	236	605	337	256	593
+"MS"	2012	"Lee"		"Richmond"		1	132	235	367					96	285	384	92	278	370
+"MS"	2012	"Lee"		"Plantersville"		1	198	323	521					494	359	861	450	380	830
+"MS"	2012	"Lee"		"Tupelo 5"		1	468	337	805					465	370	839	415	398	813
+"MS"	2012	"Lee"		"Petersburg"		1	43	198	241					30	216	249	33	212	245
+"MS"	2012	"Lee"		"Nettleton"		1	184	438	622					142	482	632	129	486	615
+"MS"	2012	"Lee"		"Kedron"		1	161	232	393					128	277	410	126	272	398
+"MS"	2012	"Lee"		"Gilvo"		1	36	100	136					15	123	139	21	118	139
+"MS"	2012	"Lee"		"Mooreville"		1	207	717	924					132	805	951	121	806	927
+"MS"	2012	"Lee"		"Verona"		1	749	429	1178					787	425	1218	709	484	1193
+"MS"	2012	"Leflore"		"Minter City"		2	112	115	227					113	124	237	69	131	200
+"MS"	2012	"Leflore"		"North Gwd"		2	644	2200	2844					644	2294	2961	530	2320	2850
+"MS"	2012	"Leflore"		"Money"		2	51	94	145					50	97	147	45	99	144
+"MS"	2012	"Leflore"		"Central Gwd"		2	382	32	414					406	36	443	304	48	352
+"MS"	2012	"Leflore"		"West Gwd"		2	885	107	992					904	103	1013	749	141	890
+"MS"	2012	"Leflore"		"Mvsu"		2	324	18	342					336	16	354	307	28	335
+"MS"	2012	"Leflore"		"Schlater"		2	151	93	244					149	104	255	117	107	224
+"MS"	2012	"Leflore"		"Southwest Gwd"		2	427	13	440					441	6	450	342	25	367
+"MS"	2012	"Leflore"		"North Itta Bena"		2	974	106	1080					1011	105	1123	811	155	966
+"MS"	2012	"Leflore"		"South Itta Bena"		2	258	58	316					264	54	318	226	70	296
+"MS"	2012	"Leflore"		"Rising Sun"		2	494	18	512					507	17	527	414	30	444
+"MS"	2012	"Leflore"		"Sidon"		2	232	80	312					237	82	321	180	98	278
+"MS"	2012	"Leflore"		"Morgan City"		2	131	66	197					133	67	202	102	76	178
+"MS"	2012	"Leflore"		"Swiftown"		2	30	10	40					23	19	42	20	18	38
+"MS"	2012	"Leflore"		"South Gwd"		2	703	6	709					732	9	743	576	35	611
+"MS"	2012	"Leflore"		"Southeast Gwd"		2	1138	219	1357					1153	243	1403	991	266	1257
+"MS"	2012	"Leflore"		"Ne Gwd"		2	715	165	880					724	197	924	615	199	814
+"MS"	2012	"Leflore"		"Precinct 65"		2	0	0	0					0	0	0	0	0	0
+"MS"	2012	"Leflore"		"East Gwd"		2	1247	27	1274					1292	14	1310	1064	46	1110
+"MS"	2012	"Lincoln"		"Alexander Jr High"		3		103	353					482	15	497	453	28	481
+"MS"	2012	"Lincoln"		"East Lincoln"		3		379	397					32	374	411	41	356	397
+"MS"	2012	"Lincoln"		"Fair River"		3		160	165					14	150	165	9	152	161
+"MS"	2012	"Lincoln"		"Forrestry"		3		459	567					218	413	634	195	420	615
+"MS"	2012	"Lincoln"		"Governmental Complex"		3		122	375					489	6	495	418	38	456
+"MS"	2012	"Lincoln"		"High School"		3		84	419					485	14	500	470	23	493
+"MS"	2012	"Lincoln"		"Big Springs"		3		145	174					54	129	185	44	130	174
+"MS"	2012	"Lincoln"		"Brignal"		3		91	261					386	13	399	358	25	383
+"MS"	2012	"Lincoln"		"Heucks Retreat"		3		471	525					95	445	540	87	444	531
+"MS"	2012	"Lincoln"		"Little Bahala"		3		178	236					104	156	261	102	152	254
+"MS"	2012	"Lincoln"		"Montgomery"		3		223	286					129	201	332	110	206	316
+"MS"	2012	"Lincoln"		"New Sight"		3		573	708					223	527	758	222	517	739
+"MS"	2012	"Lincoln"		"Pearlhaven"		3		145	272					236	92	330	211	103	314
+"MS"	2012	"Lincoln"		"Rogers Circle"		3		165	291					236	129	365	217	126	343
+"MS"	2012	"Lincoln"		"Bogue Chitto"		3		237	323					197	178	377	184	181	365
+"MS"	2012	"Lincoln"		"City Hall"		3		423	501					176	361	541	166	360	526
+"MS"	2012	"Lincoln"		"Enterprise"		3		852	912					89	834	931	103	806	909
+"MS"	2012	"Lincoln"		"Norfield"		3		190	225					64	176	241	61	179	240
+"MS"	2012	"Lincoln"		"Old Brook"		3		894	998					190	832	1036	183	827	1010
+"MS"	2012	"Lincoln"		"Ruth"		3		358	371					22	354	379	32	330	362
+"MS"	2012	"Lincoln"		"Arlington"		3		452	539					155	431	589	158	409	567
+"MS"	2012	"Lincoln"		"Halbert Heights"		3		764	850					171	720	898	162	713	875
+"MS"	2012	"Lincoln"		"Johnson"		3		375	422					92	366	461	82	356	438
+"MS"	2012	"Lincoln"		"Johnson Grove"		3		546	610					113	512	628	118	496	614
+"MS"	2012	"Lincoln"		"Northwest Brookhaven"		3		238	297					76	229	311	74	221	295
+"MS"	2012	"Lincoln"		"West Lincoln"		3		657	702					62	654	720	94	617	711
+"MS"	2012	"Lincoln"		"Caseyfille"		3		320	384					120	298	418	110	293	403
+"MS"	2012	"Lincoln"		"Lipsey"		3		474	635					282	412	698	266	415	681
+"MS"	2012	"Lincoln"		"Loyd Star"		3		802	940					234	759	1002	233	740	973
+"MS"	2012	"Lincoln"		"Old Red Star"		3		364	401					68	349	420	66	339	405
+"MS"	2012	"Lincoln"		"Vaughn"		3		311	366					109	295	405	96	289	385
+"MS"	2012	"Lincoln"		"Zetus"		3		428	455					58	412	474	60	406	466
+"MS"	2012	"Lowndes"		"Caledonia"		1	366	1918	2284					388	1976	2395	376	1961	2337
+"MS"	2012	"Lowndes"		"Columbus High School"		1	850	617	1467					967	603	1578	870	662	1532
+"MS"	2012	"Lowndes"		"Steens"		1	56	370	426					67	392	466	61	387	448
+"MS"	2012	"Lowndes"		"Trinity"		1	519	326	845					552	325	883	527	345	872
+"MS"	2012	"Lowndes"		"Immanuel School"		1	250	432	682					274	445	725	260	439	699
+"MS"	2012	"Lowndes"		"Airbase"		1	454	416	870					509	442	964	468	439	907
+"MS"	2012	"Lowndes"		"Brandon"		1	567	890	1457					656	889	1559	566	931	1497
+"MS"	2012	"Lowndes"		"First Assembly"		1	627	2027	2654					704	2100	2834	617	2137	2754
+"MS"	2012	"Lowndes"		"New Hope"		1	562	2904	3466					621	2962	3618	565	2988	3553
+"MS"	2012	"Lowndes"		"Rural Hill"		1	470	1289	1759					521	1314	1856	474	1334	1808
+"MS"	2012	"Lowndes"		"Sale"		1	224	186	410					249	175	429	227	186	413
+"MS"	2012	"Lowndes"		"Coleman"		1	299	13	312					330	4	335	307	14	321
+"MS"	2012	"Lowndes"		"Crawford"		1	659	159	818					751	146	904	674	182	856
+"MS"	2012	"Lowndes"		"National Guard Armory"		1	1906	434	2340					2070	408	2488	1928	469	2397
+"MS"	2012	"Lowndes"		"Townsend Park"		1	964	103	1067					1061	74	1141	962	131	1093
+"MS"	2012	"Lowndes"		"Plum Grove"		1	287	31	318					322	24	346	295	36	331
+"MS"	2012	"Lowndes"		"Artesia"		1	232	62	294					276	54	338	249	72	321
+"MS"	2012	"Lowndes"		"Hunt"		1	1244	54	1298					1409	11	1426	128	84	212
+"MS"	2012	"Lowndes"		"Prosp Park Community Hut"		1	305	21	326					352	9	363	315	17	332
+"MS"	2012	"Lowndes"		"Union Academy"		1	608	126	734					709	121	836	627	155	782
+"MS"	2012	"Lowndes"		"University"		1	280	388	668					325	386	733	274	426	700
+"MS"	2012	"Lowndes"		"West Lowndes"		1	250	648	898					275	658	941	245	658	903
+"MS"	2012	"Madison"		"New Life"		3		1139	1211					139	1107	1261	122	1083	1205
+"MS"	2012	"Madison"		"Ridgeland Recreation Center"		3		1236	1756					1059	959	2037	954	1013	1967
+"MS"	2012	"Madison"		"Victory Baptist"		3		1072	1140					182	995	1184	151	1003	1154
+"MS"	2012	"Madison"		"Ridgeland Precinct 3"		3			0							0			0
+"MS"	2012	"Madison"		"Ridgeland Precicnt 4"		3		431	629					418	304	731	393	321	714
+"MS"	2012	"Madison"		"FBC Madison Campus"		3		1540	1729					401	1412	1829	363	1426	1789
+"MS"	2012	"Madison"		"Sunnybrook"		3		386	424					74	372	449	55	378	433
+"MS"	2012	"Madison"		"Madison Methodist"		3		2152	2381					542	1953	2519	442	2001	2443
+"MS"	2012	"Madison"		"Trace Ridge Baptist Church"		3		2003	2402					847	1722	2593	737	1790	2527
+"MS"	2012	"Madison"		"First Presbyterian Madison"		3		1429	1553					282	1345	1643	253	1358	1611
+"MS"	2012	"Madison"		"Madison Community Center"		3		1859	1987					290	1768	2072	236	1783	2019
+"MS"	2012	"Madison"		"Victory Christian Comm. Church"		3		1221	1364					323	1110	1446	292	1120	1412
+"MS"	2012	"Madison"		"Ridgel'D 1st Methodist Church"		3		1395	1693					698	1199	1910	610	1214	1824
+"MS"	2012	"Madison"		"Twin Lakes Baptist Church"		3		747	932					474	610	1093	425	627	1052
+"MS"	2012	"Madison"		"Colonial Heights"		3		772	1063					610	609	1242	536	635	1171
+"MS"	2012	"Madison"		"Tougaloo"		2	499	1	500					511	3	514	477	13	490
+"MS"	2012	"Madison"		"Highland Colony Baptist"		3		2285	2514					610	2070	2697	520	2100	2620
+"MS"	2012	"Madison"		"Parkway"		3		3337	3641					828	3050	3895	710	3082	3792
+"MS"	2012	"Madison"		"Whisper Lane"		3		1265	1375					282	1164	1460	235	1182	1417
+"MS"	2012	"Madison"		"Greater Mt Levi Full Gospel"		2	726	12	738					773	9	782	684	24	708
+"MS"	2012	"Madison"		"Canton Precinct 7"		2	248	12	260					273	9	282	223	20	243
+"MS"	2012	"Madison"		"Bear Creek"		3		836	1169					784	647	1436	710	665	1375
+"MS"	2012	"Madison"		"Gluckstadt"		3		2139	2344					446	2020	2482	404	2028	2432
+"MS"	2012	"Madison"		"Fearn's Chapel Freewill Baptist"		3		833	1019					464	747	1215	400	752	1152
+"MS"	2012	"Madison"		"Smith-School"		3		269	283					24	264	289	20	264	284
+"MS"	2012	"Madison"		"Magnolia Heights"		2	746	198	944					779	200	984	569	221	790
+"MS"	2012	"Madison"		"Virlilia"		2	83	153	236					66	178	246	60	174	234
+"MS"	2012	"Madison"		"Canton Precinct 5"		2	937	8	945					1022	2	1027	879	24	903
+"MS"	2012	"Madison"		"Canton Fire Station #4"		2	279	78	357					286	89	376	254	92	346
+"MS"	2012	"Madison"		"Mad. Co. Baptist Family Life Ct"		2	774	9	783					831	4	837	702	21	723
+"MS"	2012	"Madison"		"Canton Precinct 3"		2	123	122	245					121	144	268	115	141	256
+"MS"	2012	"Madison"		"Camden"		2	698	74	772					741	74	819	634	90	724
+"MS"	2012	"Madison"		"Cameron"		2	81	78	159					83	84	170	63	84	147
+"MS"	2012	"Madison"		"Couparle"		2	40	8	48					34	13	47	33	14	47
+"MS"	2012	"Madison"		"Sharon"		2	521	64	585					556	63	620	463	86	549
+"MS"	2012	"Madison"		"Canton Precinct 1"		2	869	278	1147					933	305	1249	793	327	1120
+"MS"	2012	"Madison"		"Canton Precinct 4"		2	1232	120	1352					1356	133	1494	1128	181	1309
+"MS"	2012	"Madison"		"Farmhaven"		2	623	101	724					658	109	768	561	123	684
+"MS"	2012	"Madison"		"Bible Church"		2	423	6	429					470	3	476	401	21	422
+"MS"	2012	"Madison"		"Cedar Grove Baptist"		2	20	106	126					12	116	129	12	115	127
+"MS"	2012	"Madison"		"Pleasant Gift Baptist"		2	410	262	672					425	285	714	363	296	659
+"MS"	2012	"Madison"		"Canton Precinct 2"		2	816	543	1359					867	608	1485	749	638	1387
+"MS"	2012	"Madison"		"Northbay"		3		697	766					148	649	802	119	656	775
+"MS"	2012	"Marion"		"National Guard"		4	99	1154	1253					109	1180	1295	107	1159	1266
+"MS"	2012	"Marion"		"Morris"		4	503	800	1303					540	839	1388	518	809	1327
+"MS"	2012	"Marion"		"Union"		4	10	248	258					12	255	267	18	240	258
+"MS"	2012	"Marion"		"Popetown"		4	245	437	682					405	434	848	381	418	799
+"MS"	2012	"Marion"		"Carley"		4	55	682	737					53	729	793	71	706	777
+"MS"	2012	"Marion"		"Cedar Grove"		4	119	271	390					147	274	423	135	265	400
+"MS"	2012	"Marion"		"Goss"		4	59	355	414					72	363	446	67	355	422
+"MS"	2012	"Marion"		"Foxworth"		4	352	534	886					374	574	954	375	542	917
+"MS"	2012	"Marion"		"Morgantown"		4	20	344	364					15	371	387	29	334	363
+"MS"	2012	"Marion"		"Little Rock"		4	256	195	451					256	215	479	264	198	462
+"MS"	2012	"Marion"		"City Hall"		4	121	142	263					146	138	286	135	137	272
+"MS"	2012	"Marion"		"White Bluff"		4	5	62	67					1	69	71	5	66	71
+"MS"	2012	"Marion"		"Darbun"		4	48	161	209					46	182	229	48	165	213
+"MS"	2012	"Marion"		"Court House"		4	126	353	479					146	362	511	147	347	494
+"MS"	2012	"Marion"		"Balls Mill"		4	135	436	571					142	450	593	142	429	571
+"MS"	2012	"Marion"		"Kokomo"		4	171	342	513					163	385	551	173	354	527
+"MS"	2012	"Marion"		"Pittman"		4	20	412	432					16	438	465	30	420	450
+"MS"	2012	"Marion"		"Sandy Hook"		4	115	219	334					125	222	349	123	205	328
+"MS"	2012	"Marion"		"South Columbia"		4	117	12	129					162	2	164	128	6	134
+"MS"	2012	"Marion"		"Jefferson School"		4	185	10	195					219	2	224	188	10	198
+"MS"	2012	"Marion"		"East Columbia"		4	740	268	1008					829	259	1091	764	280	1044
+"MS"	2012	"Marion"		"Hub"		4	262	176	438					285	176	463	275	166	441
+"MS"	2012	"Marion"		"Pine Burr"		4	117	309	426					130	318	452	130	318	448
+"MS"	2012	"Marshall"		"1 Noth Holly Springs"		1	1039	187	1226					1238	140	1382	1092	191	1283
+"MS"	2012	"Marshall"		"1 Red Banks"		1	249	321	570					293	330	634	278	312	590
+"MS"	2012	"Marshall"		"1 West Holly Springs"		1	925	160	1085					1088	132	1228	979	177	1156
+"MS"	2012	"Marshall"		"2 North Cayce"		1	222	206	428					268	229	504	252	204	456
+"MS"	2012	"Marshall"		"2 Early Grove"		1	127	84	211					148	90	238	134	91	225
+"MS"	2012	"Marshall"		"2 Hudsonville"		1	189	127	316					229	118	350	222	115	337
+"MS"	2012	"Marshall"		"2 Mt. Pleasant"		1	284	554	838					320	600	925	319	560	879
+"MS"	2012	"Marshall"		"2 North Holly Springs"		1	492	162	654					579	148	730	523	172	695
+"MS"	2012	"Marshall"		"2 Slayden"		1	203	277	480					253	301	560	232	274	506
+"MS"	2012	"Marshall"		"3 Barton"		1	120	657	777					127	709	845	145	640	785
+"MS"	2012	"Marshall"		"3 Byhalia"		1	557	755	1312					660	773	1458	609	764	1373
+"MS"	2012	"Marshall"		"3 Cayce"		1	409	263	672					484	284	773	466	265	731
+"MS"	2012	"Marshall"		"4 Chulahoma"		1	410	60	470					449	53	502	422	65	487
+"MS"	2012	"Marshall"		"4 Laws Hill"		1	113	82	195					131	86	219	123	88	211
+"MS"	2012	"Marshall"		"4 Marianna"		1	316	172	488					370	178	554	334	180	514
+"MS"	2012	"Marshall"		"4 Victoria"		1	288	114	402					329	110	439	302	115	417
+"MS"	2012	"Marshall"		"4 Warsaw"		1	289	197	486					304	212	519	301	197	498
+"MS"	2012	"Marshall"		"4 Watson"		1	199	196	395					222	207	430	217	197	414
+"MS"	2012	"Marshall"		"4 Wail Hill"		1	400	112	512					486	104	592	433	109	542
+"MS"	2012	"Marshall"		"5 Bethlehem"		1	51	228	279					57	243	300	55	238	293
+"MS"	2012	"Marshall"		"5 Cornersville"		1	12	87	99					12	102	115	9	103	112
+"MS"	2012	"Marshall"		"5 Potts Camp"		1	301	433	734					347	458	807	319	450	769
+"MS"	2012	"Marshall"		"5 South Holly Springs"		1	869	569	1438					1000	566	1577	893	595	1488
+"MS"	2012	"Marshall"		"5 Waterford"		1	225	281	506					256	300	559	235	306	541
+"MS"	2012	"Monroe"	1	"1 Amory First"	"1f1"	1	91	655	746					75	684	770	62	699	761
+"MS"	2012	"Monroe"	1	"1 Parham"	"1f5"	1	35	178	213					37	189	229	28	190	218
+"MS"	2012	"Monroe"	1	"1 Smithville"	"1f6"	1	151	554	705					128	606	741	118	609	727
+"MS"	2012	"Monroe"	1	"1 Bigbee"	"1f2"	1	24	121	145					15	136	152	16	132	148
+"MS"	2012	"Monroe"	1	"1 Boyds"	"1f3"	1	55	252	307					34	283	320	28	288	316
+"MS"	2012	"Monroe"	1	"1 Hatley"	"1f4"	1	193	1045	1238					152	1121	1287	149	1091	1240
+"MS"	2012	"Monroe"	2	"2 Amory Second"	"2f1"	1	384	1060	1444					367	1133	1515	327	1141	1468
+"MS"	2012	"Monroe"	2	"2 Becker"	"2f2"	1	176	720	896					149	775	934	135	777	912
+"MS"	2012	"Monroe"	2	"2 Greenwood Springs"	"2f3"	1	53	313	366					45	334	384	36	338	374
+"MS"	2012	"Monroe"	2	"2 Williams"	"2f4"	1	19	48	67					11	53	65	15	52	67
+"MS"	2012	"Monroe"	3	"3 Lackey"	"3f5"	1	145	594	739					148	632	787	146	617	763
+"MS"	2012	"Monroe"	3	"3 Aberdeen Third"	"3f1"	1	317	416	733					361	404	769	313	433	746
+"MS"	2012	"Monroe"	3	"3 Athens"	"3f2"	1	65	170	235					61	180	245	58	179	237
+"MS"	2012	"Monroe"	3	"3 Bartahatchie"	"3f3"	1	31	199	230					30	214	245	25	208	233
+"MS"	2012	"Monroe"	3	"3 Hamilton"	"3f4"	1	294	884	1178					315	919	1249	286	923	1209
+"MS"	2012	"Monroe"	4	"4 North Aberdeen"	"4f1"	1	701	308	1009					807	285	1096	715	330	1045
+"MS"	2012	"Monroe"	4	"4 South Aberdeen"	"4f2"	1	941	195	1136					1122	152	1278	973	245	1218
+"MS"	2012	"Monroe"	4	"4 Darracott"	"4f3"	1	38	110	148					35	117	152	30	119	149
+"MS"	2012	"Monroe"	4	"4 Gibson"	"4f4"	1	355	74	429					375	70	445	352	82	434
+"MS"	2012	"Monroe"	4	"4 Prairie"	"4f5"	1	475	74	549					526	61	590	476	92	568
+"MS"	2012	"Monroe"	5	"5 Armory Fifth"	"5f1"	1	605	39	644					739	7	753	650	56	706
+"MS"	2012	"Monroe"	5	"5 Willis"	"5f4"	1	147	578	725					625	130	760	574	166	740
+"MS"	2012	"Monroe"	5	"5 Wren"	"5f5"	1	202	638	840					207	677	892	190	671	861
+"MS"	2012	"Monroe"	5	"5 Central Grove"	"5f2"	1	266	155	421					283	157	441	255	168	423
+"MS"	2012	"Monroe"	5	"5 Nettleton"	"5f3"	1	413	348	761					412	404	820	368	414	782
+"MS"	2012	"Montgomery"		"Alva"		2	21	19	40					18	28	46	12	29	41
+"MS"	2012	"Montgomery"		"Lodi"		2	170	33	203					171	42	213	143	42	185
+"MS"	2012	"Montgomery"		"Mt. Pisgah"		2	37	122	159					20	145	165	18	141	159
+"MS"	2012	"Montgomery"		"Nations"		2	66	164	230					33	220	254	27	213	240
+"MS"	2012	"Montgomery"		"Poplar Creek"		2	20	69	89					13	90	103	15	83	98
+"MS"	2012	"Montgomery"		"Stewart"		2	13	52	65					10	60	72	8	61	69
+"MS"	2012	"Montgomery"		"West Winona"		2	209	411	620					159	487	651	148	464	612
+"MS"	2012	"Montgomery"		"Duck Hill"		2	247	248	495					241	287	529	188	297	485
+"MS"	2012	"Montgomery"		"East Winona"		2	436	171	607					448	192	642	373	208	581
+"MS"	2012	"Montgomery"		"Kilmichael"		2	307	210	517					289	253	547	233	258	491
+"MS"	2012	"Montgomery"		"North Duck Hill"		2	129	89	218					133	96	229	118	98	216
+"MS"	2012	"Montgomery"		"North Kilmichael"		2	110	12	122					117	13	130	103	15	118
+"MS"	2012	"Montgomery"		"North Mt Pisgah Sweethome"		2	61	31	92					55	44	103	49	46	95
+"MS"	2012	"Montgomery"		"North Winona"		2	204	542	746					138	645	784	135	626	761
+"MS"	2012	"Montgomery"		"South Winona"		2	729	210	939					750	236	987	644	252	896
+"MS"	2012	"Montgomery"		"Southeast Winona"		2	89	90	179					80	109	190	75	105	180
+"MS"	2012	"Neshoba"		"Arlington"		3		298	308					12	302	316	23	290	313
+"MS"	2012	"Neshoba"		"Fairview"		3		161	175					28	150	180	36	139	175
+"MS"	2012	"Neshoba"		"Fork"		3		223	232					13	221	237	13	219	232
+"MS"	2012	"Neshoba"		"Pearl River"		3		197	259					204	66	273	140	115	255
+"MS"	2012	"Neshoba"		"Tucker - District One"		3		46	60					45	15	63	37	20	57
+"MS"	2012	"Neshoba"		"Zephyrhill"		3		221	258					76	196	273	80	185	265
+"MS"	2012	"Neshoba"		"Bogue Chitto"		3		55	80					52	30	83	43	37	80
+"MS"	2012	"Neshoba"		"Center"		3		260	280					48	253	302	48	244	292
+"MS"	2012	"Neshoba"		"Forestdale"		3		266	282					42	250	295	46	243	289
+"MS"	2012	"Neshoba"		"North Bend"		3		379	404					30	387	420	41	364	405
+"MS"	2012	"Neshoba"		"Northeast Philadelphia"		3		1196	1301					199	1154	1362	226	1119	1345
+"MS"	2012	"Neshoba"		"County Line"		3		288	300					10	294	308	12	288	300
+"MS"	2012	"Neshoba"		"Herbert"		3		287	298					16	287	304	23	279	302
+"MS"	2012	"Neshoba"		"House"		3		417	437					41	406	451	48	391	439
+"MS"	2012	"Neshoba"		"Southeast Philadelphia"		3		919	1025					218	857	1085	200	852	1052
+"MS"	2012	"Neshoba"		"Tucker - District Three"		3		431	445					15	426	451	36	407	443
+"MS"	2012	"Neshoba"		"Oeemer"		3		184	194					24	177	203	26	166	192
+"MS"	2012	"Neshoba"		"Dixon"		3		305	397					168	260	433	155	263	418
+"MS"	2012	"Neshoba"		"Hays"		3		222	244					51	212	266	52	211	263
+"MS"	2012	"Neshoba"		"Hope"		3		186	208					44	172	217	42	168	210
+"MS"	2012	"Neshoba"		"Mcdonald"		3		495	510					42	485	530	44	479	523
+"MS"	2012	"Neshoba"		"Neshoba"		3		330	363					65	319	389	67	305	372
+"MS"	2012	"Neshoba"		"Burnside"		3		222	362					250	168	421	238	167	405
+"MS"	2012	"Neshoba"		"East Neshoba"		3		162	237					215	108	323	195	112	307
+"MS"	2012	"Neshoba"		"Fusky"		3		63	80					13	318	334	22	300	322
+"MS"	2012	"Neshoba"		"Northwest Philadelphia"		3		816	1348					1158	208	1369	1016	250	1266
+"MS"	2012	"Neshoba"		"South Philadelphia"		3		17	22					10	116	127	7	115	122
+"MS"	2012	"Newton"		"Chapel Hill"		3		308	328					44	295	340	48	283	331
+"MS"	2012	"Newton"		"Duffee"		3		375	392					47	368	418	44	361	405
+"MS"	2012	"Newton"		"Hazel"		3		286	294					16	287	303	16	280	296
+"MS"	2012	"Newton"		"Chunky"		3		391	412					25	396	427	36	382	418
+"MS"	2012	"Newton"		"Lawrence"		3		415	571					349	313	666	324	319	643
+"MS"	2012	"Newton"		"Newton #1"		3		233	543					795	78	875	710	108	818
+"MS"	2012	"Newton"		"Newton #5"		3		376	467					194	326	521	177	331	508
+"MS"	2012	"Newton"		"Prospect"		3		305	317					14	319	334	15	304	319
+"MS"	2012	"Newton"		"Stanlan"		3		490	578					175	450	631	162	454	616
+"MS"	2012	"Newton"		"Union #1"		3		157	228					272	408	681	254	113	367
+"MS"	2012	"Newton"		"Union #2"		3		422	440					43	411	457	45	406	451
+"MS"	2012	"Newton"		"Union #3"		3		286	321					75	292	367	79	273	352
+"MS"	2012	"Newton"		"Conehatta"		3		332	398					153	269	425	113	292	405
+"MS"	2012	"Newton"		"Decatur #1"		3		270	318					108	250	362	99	244	343
+"MS"	2012	"Newton"		"Decatur #1a"		3		244	304					124	231	357	117	222	339
+"MS"	2012	"Newton"		"Little Rock"		3		654	692					53	644	709	58	626	684
+"MS"	2012	"Newton"		"Hickory"		3		824	953					293	745	1043	270	743	1013
+"MS"	2012	"Newton"		"Liberty"		3		112	135					66	94	162	63	95	158
+"MS"	2012	"Newton"		"Newton #4"		3		604	841					473	518	999	426	531	957
+"MS"	2012	"Noxubee"		"Brooksville"		3		454	819					962	299	1265	727	375	1102
+"MS"	2012	"Noxubee"		"Mashulaville"		3		213	296					214	172	392	167	204	371
+"MS"	2012	"Noxubee"		"Prarie Point"		3		164	305					469	109	578	360	134	494
+"MS"	2012	"Noxubee"		"Shuqualak"		3		239	417					585	174	761	504	199	703
+"MS"	2012	"Noxubee"		"Summerville"		3		89	98					21	85	107	19	87	106
+"MS"	2012	"Noxubee"		"Earl Nash Gym"		3		347	622					979	229	1212	718	289	1007
+"MS"	2012	"Noxubee"		"Vo-Tech"		3		0	0					0	0	0	0	0	0
+"MS"	2012	"Noxubee"		"Savannah"		3		52	86					60	41	101	55	40	95
+"MS"	2012	"Noxubee"		"Cliftonville"		3		91	253					452	39	492	385	66	451
+"MS"	2012	"Noxubee"		"District 3 Central"		3		363	707					1178	177	1356	1011	254	1265
+"MS"	2012	"Oktibbeha"		"Bell Schoolhouse"		1	219	111	330					246	104	351	225	114	339
+"MS"	2012	"Oktibbeha"		"Central Starkville"		3		356	667					884	208	1105	727	252	979
+"MS"	2012	"Oktibbeha"		"East Starkville"		3		192	265					139	151	300	133	154	287
+"MS"	2012	"Oktibbeha"		"Gillepsie"		3		488	778					664	364	1039	610	388	998
+"MS"	2012	"Oktibbeha"		"Maben"		1	134	91	225					182	99	282	145	116	261
+"MS"	2012	"Oktibbeha"		"North Starkville District 2"		3		263	509					602	146	756	552	176	728
+"MS"	2012	"Oktibbeha"		"North Starkville District 3"		3		992	1304					677	824	1531	598	879	1477
+"MS"	2012	"Oktibbeha"		"Northeast Starkville"		3		296	406					227	230	471	211	243	454
+"MS"	2012	"Oktibbeha"		"North Longview"		3		464	538					165	437	615	149	439	588
+"MS"	2012	"Oktibbeha"		"Oktoc"		3		289	475					454	217	677	427	232	659
+"MS"	2012	"Oktibbeha"		"Osborn"		3		345	605					620	226	859	549	265	814
+"MS"	2012	"Oktibbeha"		"South Adaton"		3		256	326					121	231	360	123	229	352
+"MS"	2012	"Oktibbeha"		"South Longview"		3		138	163					61	120	183	61	120	181
+"MS"	2012	"Oktibbeha"		"Sessums"		3		300	521					624	203	834	546	233	779
+"MS"	2012	"Oktibbeha"		"South Starkville"		3		2368	2874					1072	2090	3208	960	2153	3113
+"MS"	2012	"Oktibbeha"		"West Starkville"		3		1566	2096					1214	1280	2535	1098	1339	2437
+"MS"	2012	"Oktibbeha"		"Sturgis/North Bradley"		1	180	519	699					207	550	767	189	541	730
+"MS"	2012	"Oktibbeha"		"Self Creek/Double Springs"		3		361	397					76	348	428	72	354	426
+"MS"	2012	"Oktibbeha"		"Hickory Grove/Southeast"		3		588	855					556	505	1078	517	518	1035
+"MS"	2012	"Oktibbeha"		"Center Grove/North Adaton"		3		270	363	1	48	31	79	291	263	559	261	273	534
+"MS"	2012	"Oktibbeha"		"Craig Springs/South Bradley"		3		166	174	1	4	1	5	13	165	179	10	166	176
+"MS"	2012	"Panola"		"Pleasant Mount"		2	291	153	444					308	185	497	272	182	454
+"MS"	2012	"Panola"		"East Sardis"		2	120	275	395					94	326	430	98	314	412
+"MS"	2012	"Panola"		"West Sardis"		2	623	78	701					709	75	787	612	89	701
+"MS"	2012	"Panola"		"Cold Springs"		2	199	64	263					205	75	289	193	77	270
+"MS"	2012	"Panola"		"South Springs"		2	954	251	1205					1012	263	1282	899	278	1177
+"MS"	2012	"Panola"		"Pleasant Grove"		2	93	137	230					88	153	247	86	148	234
+"MS"	2012	"Panola"		"Longtown"		2	152	73	225					158	95	255	149	87	236
+"MS"	2012	"Panola"		"Crenshaw"		2	122	329	451					328	149	480	278	144	422
+"MS"	2012	"Panola"		"Curbs"	"*"	2	431	79	510					447	85	534	412	88	500
+"MS"	2012	"Panola"		"Macedonia-Concorse"		2	253	32	285					260	45	305	254	37	291
+"MS"	2012	"Panola"		"Batesville #3"		2	209	398	607					177	477	662	165	465	630
+"MS"	2012	"Panola"		"Courtland"		2	873	272	1145					922	313	1241	828	323	1151
+"MS"	2012	"Panola"		"Pope"		2	329	452	781					283	553	844	273	527	800
+"MS"	2012	"Panola"		"Tocowa"		2	325	505	830					290	580	880	266	563	829
+"MS"	2012	"Panola"		"East Batesville #4"		2	161	377	538					144	431	580	128	426	554
+"MS"	2012	"Panola"		"Eureka"		2	250	547	797					223	658	889	206	630	836
+"MS"	2012	"Panola"		"North Springport"		2	297	346	643					272	435	713	269	407	676
+"MS"	2012	"Panola"		"South Springport"		2	351	485	836					325	587	920	313	561	874
+"MS"	2012	"Panola"		"Cole's Point"		2	83	215	298					45	281	332	65	240	305
+"MS"	2012	"Panola"		"East Batesville"		2	292	777	1069					209	898	1115	191	888	1079
+"MS"	2012	"Panola"		"North Batesville #A"		2	331	401	732					308	470	782	297	448	745
+"MS"	2012	"Panola"		"North Batesville #B"		2	1007	122	1129					1137	97	1238	988	135	1123
+"MS"	2012	"Panola"		"Enon"		2	48	77	125					46	89	136	37	95	132
+"MS"	2012	"Panola"		"Como"	"*"	2	978	309	1287					1089	309	1405	964	319	1283
+"MS"	2012	"Pearl River"	1	"Whitesand Beat 1"		4	218	97	315					259	98	364	220	115	335
+"MS"	2012	"Pearl River"	1	"Derby Beat 1"		4	88	317	405					87	367	461	102	323	425
+"MS"	2012	"Pearl River"	1	"Picayune Beat 1 Eastside Annex"		4	373	259	632					425	271	701	405	255	660
+"MS"	2012	"Pearl River"	1	"Poplarville Beat 1"		4	209	319	528					249	341	598	230	328	558
+"MS"	2012	"Pearl River"	1	"Picayune Beat 1 Southside"		4	969	300	1269					1152	289	1448	1035	280	1315
+"MS"	2012	"Pearl River"	2	"Mill Creek Beat 2"		4	54	446	500					49	513	571	69	447	516
+"MS"	2012	"Pearl River"	2	"Poplarville Beat 2"		4	72	429	501					77	462	546	88	421	509
+"MS"	2012	"Pearl River"	2	"Oak Hill Beat 2"		4	53	474	527					48	525	585	52	483	535
+"MS"	2012	"Pearl River"	2	"Buck Branch Beat 2"		4	76	406	482					53	470	529	82	397	479
+"MS"	2012	"Pearl River"	2	"Ford's Creek Beat 2"		4	26	121	147					23	136	162	28	120	148
+"MS"	2012	"Pearl River"	2	"Byrdine Beat 2"		4	12	149	161					11	158	171	17	141	158
+"MS"	2012	"Pearl River"	2	"Picayune Beat 2"		4	120	886	1006					141	951	1109	154	866	1020
+"MS"	2012	"Pearl River"	2	"Hanleyfiled Beat 2"		4	88	600	688					74	669	753	98	593	691
+"MS"	2012	"Pearl River"	2	"Whitesand Beat 2"		4	23	146	169					14	177	192	21	156	177
+"MS"	2012	"Pearl River"	3	"Ozona Beat 3"		4	82	578	660					80	643	740	114	559	673
+"MS"	2012	"Pearl River"	3	"Ceasar Beat 3"		4	36	371	407					30	406	437	40	373	413
+"MS"	2012	"Pearl River"	3	"Savannah Beat 3"		4	39	387	426					29	446	486	52	393	445
+"MS"	2012	"Pearl River"	3	"Steep Hollow Beat 3"		4	62	378	440					53	429	491	77	389	466
+"MS"	2012	"Pearl River"	3	"Progress Beat 3"		4	25	197	222					18	235	259	25	211	236
+"MS"	2012	"Pearl River"	3	"Poplarville Beat 3"		4	103	552	655					101	627	741	125	572	697
+"MS"	2012	"Pearl River"	3	"Hickorty Grove Beat 3"		4	9	93	102					12	104	116	10	105	115
+"MS"	2012	"Pearl River"	3	"Gumpond Beat 3"		4	79	506	585					73	561	642	85	509	594
+"MS"	2012	"Pearl River"	3	"Mcneill Beat 3"		4	71	488	559					62	563	634	90	484	574
+"MS"	2012	"Pearl River"	4	"Pine Grove Beat 4"		4	116	840	956					108	936	1061	144	824	968
+"MS"	2012	"Pearl River"	4	"Nicholson Beat 4"		4	111	487	598					117	558	687	140	473	613
+"MS"	2012	"Pearl River"	4	"Salem Beat 4"		4	162	1156	1318					160	1270	1444	218	1115	1333
+"MS"	2012	"Pearl River"	4	"Picayune Beat 4 West"		4	56	421	477					55	458	515	55	428	483
+"MS"	2012	"Pearl River"	4	"Picayune Beat 4 east"		4	86	330	416					95	365	467	107	318	425
+"MS"	2012	"Pearl River"	5	"Carrriere Beat 5"		4	207	872	1079					219	993	1232	259	862	1121
+"MS"	2012	"Pearl River"	5	"Sycamore Beat 5"		4	78	589	667					76	649	743	97	584	681
+"MS"	2012	"Pearl River"	5	"Anchor Lake/West Union Beat 5"		4	85	564	649					82	637	731	107	560	667
+"MS"	2012	"Pearl River"	5	"Hide-A-Way/North Hill Beat 5"		4	158	1139	1297					180	1228	1424	195	1128	1323
+"MS"	2012	"Pearl River"	5	"Picayune Beat 5"		4	141	945	1086					154	1014	1184	161	920	1081
+"MS"	2012	"Perry"		"Indian Springs"	"1010"	4	133	154	287					158	155	314	145	159	304
+"MS"	2012	"Perry"		"New Augusta Community Center"	"1020"	4	117	89	206					147	89	238	122	100	222
+"MS"	2012	"Perry"		"Beaumont District 1"	"1030"	4	302	112	414					386	101	487	323	116	439
+"MS"	2012	"Perry"		"Runnelstown"	"2040"	4	52	758	810					52	844	904	63	797	860
+"MS"	2012	"Perry"		"Prospect"	"2050"	4	24	211	235					23	242	267	24	216	240
+"MS"	2012	"Perry"		"Richton Holly Street"	"3060"	4	83	288	371					101	292	398	86	288	374
+"MS"	2012	"Perry"		"Richton City Hall"	"3070"	4	78	665	743					79	718	811	82	669	751
+"MS"	2012	"Perry"		"Richton Multi Purpose"	"4080"	4	204	180	384					232	199	437	209	202	411
+"MS"	2012	"Perry"		"Hintonville"	"4090"	4	72	162	234					91	174	269	83	163	246
+"MS"	2012	"Perry"		"Arlington"	"4010"	4	362	66	428					78	388	473	83	362	445
+"MS"	2012	"Perry"		"Courthouse"	"5110"	4	33	228	261					35	259	294	43	230	273
+"MS"	2012	"Perry"		"Beaumont senior Citizens"	"5120"	4	43	114	157					53	132	188	50	123	173
+"MS"	2012	"Perry"		"Thompson Hill"	"5130"	4	3	54	57					7	56	65	6	55	61
+"MS"	2012	"Perry"		"Janice"	"5140"	4	57	367	424					70	420	494	70	389	459
+"MS"	2012	"Perry"		"Deep Creek"	"5150"	4	12	59	71					15	68	83	14	66	80
+"MS"	2012	"Pike"		"Progress Library"	"1"	3		435	650					477	335	816	425	344	769
+"MS"	2012	"Pike"		"Leggett Community"	"2"	3		294	521					505	171	682	456	190	646
+"MS"	2012	"Pike"		"Pike Baptist Association Buliding"	"3"	3		576	762					378	494	883	349	508	857
+"MS"	2012	"Pike"		"Mepa Bldg. Hwy 98 East"	"4"	3		303	374					159	267	429	147	270	417
+"MS"	2012	"Pike"		"Pleasant Grove Baptist Church"	"5"	3		118	301					362	44	407	321	62	383
+"MS"	2012	"Pike"		"Jewel Rushing Community Center"	"6"	3		157	307					304	99	407	257	125	382
+"MS"	2012	"Pike"		"S Pike Comm. Ctr."	"7"	3		102	251					369	7	378	341	19	360
+"MS"	2012	"Pike"		"Alpha Center"	"8"	3		176	404					505	95	601	444	115	559
+"MS"	2012	"Pike"		"Fernwood School"	"9"	3		278	472					428	176	609	383	195	578
+"MS"	2012	"Pike"		"Magnolia Comm Ctr."	"10"	3		400	699					684	262	949	584	298	882
+"MS"	2012	"Pike"		"Courthouse"	"11"	3		338	496					292	277	573	260	281	541
+"MS"	2012	"Pike"		"Courthouse"	"12"	3		88	201					253	45	304	229	47	276
+"MS"	2012	"Pike"		"Holmesville Comm."	"13"	3		371	517					332	304	641	304	305	609
+"MS"	2012	"Pike"		"Calvary Baptist Church"	"14"	3		504	580					193	452	649	179	442	621
+"MS"	2012	"Pike"		"Old Jones School"	"15"	3		412	487					120	394	519	108	388	496
+"MS"	2012	"Pike"		"New Hope Baptist School"	"16"	3		158	526					728	26	755	646	62	708
+"MS"	2012	"Pike"		"Entergy"	"17"	3		188	286					207	153	363	179	159	338
+"MS"	2012	"Pike"		"Summit Learn Ctr."	"18"	3		121	222					222	68	292	209	69	278
+"MS"	2012	"Pike"		"Summit City Hall"	"19"	3		440	608					385	351	740	349	367	716
+"MS"	2012	"Pike"		"Southwest BSU Bldg"	"20"	3		616	712					251	525	784	247	523	770
+"MS"	2012	"Pike"		"Johnston Chapel Meth."	"21"	3		713	774					103	693	805	97	686	783
+"MS"	2012	"Pike"		"Pisgah Methodist Church"	"22"	3		373	418					84	362	449	76	355	431
+"MS"	2012	"Pike"		"Legacy Motors"	"23"	3		466	556					164	432	598	144	439	583
+"MS"	2012	"Pike"		"Mik Center"	"24"	3		117	383					613	2	622	534	32	566
+"MS"	2012	"Pike"		"Pike Co. Nat. Bank"	"25"	3		317	366					120	282	411	109	280	389
+"MS"	2012	"Pike"		"American Legion Hut"	"26"	3		301	367					113	287	405	101	283	384
+"MS"	2012	"Pike"		"Storehouse Church"	"27"	3		142	198					96	120	218	93	119	212
+"MS"	2012	"Pike"		"Church of Christ"	"28"	3		384	559					334	316	656	283	349	632
+"MS"	2012	"Pike"		"West McComb Baptist Church"	"29"	3		468	617					269	421	697	252	426	678
+"MS"	2012	"Pike"		"St. Mary of the Pines"	"30"	3		271	371					205	238	447	189	243	432
+"MS"	2012	"Pike"		"Osyka City Hall"	"31"	3		238	310					155	213	370	132	209	341
+"MS"	2012	"Pike"		"St. Mary of the Pines"	"32"	3		320	434					240	270	515	226	274	500
+"MS"	2012	"Pontotoc"		"Algoma"	"Al"	1	100	399	499					101	417	525	83	415	498
+"MS"	2012	"Pontotoc"		"Bankhead"	"Ba"	1	282	285	567					326	282	613	270	329	599
+"MS"	2012	"Pontotoc"		"Bethel/Endville"	"Be"	1	146	407	553					141	440	591	132	427	559
+"MS"	2012	"Pontotoc"		"Beckham"	"Bec"	1	87	324	411					73	351	440	68	354	422
+"MS"	2012	"Pontotoc"		"Buchanan"	"Bu"	1	53	335	388					39	359	403	36	358	394
+"MS"	2012	"Pontotoc"		"Cherry Creek"	"Cc"	1	68	360	428					51	415	474	54	408	462
+"MS"	2012	"Pontotoc"		"Ecru"	"Ec"	1	130	323	453					138	351	491	107	363	470
+"MS"	2012	"Pontotoc"		"Friendship"	"Fr"	1	68	284	352					73	293	369	51	308	359
+"MS"	2012	"Pontotoc"		"Hoyle"	"Ho"	1	215	298	513					244	303	552	200	330	530
+"MS"	2012	"Pontotoc"		"Hurricane"	"Hu"	1	34	342	376					22	372	401	23	369	392
+"MS"	2012	"Pontotoc"		"Judan"	"Ju"	1	45	177	222					13	221	236	22	206	228
+"MS"	2012	"Pontotoc"		"Longview"	"Lo"	1	149	141	290					166	142	309	145	156	301
+"MS"	2012	"Pontotoc"		"North Randolph"	"Nr"	1	34	218	252					12	253	267	13	245	258
+"MS"	2012	"Pontotoc"		"Oakhill"	"Oh"	1	35	205	240					30	212	244	32	211	243
+"MS"	2012	"Pontotoc"		"Pontotoc 1"	"P1"	1	126	344	470					123	377	506	100	389	489
+"MS"	2012	"Pontotoc"		"Pontotoc 2"	"P2"	1	153	482	635					161	498	665	138	511	649
+"MS"	2012	"Pontotoc"		"Pontotoc 3"	"P3"	1	164	456	620					157	497	660	128	513	641
+"MS"	2012	"Pontotoc"		"Pontotoc 4"	"P4"	1	122	330	452					137	326	466	109	346	455
+"MS"	2012	"Pontotoc"		"Pontotoc 5"	"P5"	1	225	690	915					236	701	953	174	751	925
+"MS"	2012	"Pontotoc"		"Robbs"	"Ro"	1	35	152	187					25	165	196	30	160	190
+"MS"	2012	"Pontotoc"		"Sherman"	"Sh"	1	65	223	288					50	246	299	54	238	292
+"MS"	2012	"Pontotoc"		"Springville"	"Sp"	1	128	377	505					103	428	540	90	425	515
+"MS"	2012	"Pontotoc"		"South Randolph"	"Sr"	1	38	174	212					26	184	214	29	182	211
+"MS"	2012	"Pontotoc"		"Thaxton"	"Th"	1	69	376	445					57	399	460	45	410	455
+"MS"	2012	"Pontotoc"		"Toccopola"	"To"	1	57	147	204					52	162	219	32	176	208
+"MS"	2012	"Pontotoc"		"Troy"	"Tr"	1	104	341	445					84	376	463	77	375	452
+"MS"	2012	"Pontotoc"		"Turnpike"	"Tu"	1	50	252	302					37	275	321	35	269	304
+"MS"	2012	"Pontotoc"		"Woodland"	"Wo"	1	29	134	163					27	144	171	25	144	169
+"MS"	2012	"Pontotoc"		"Zion"	"Z"	1	108	241	349					100	259	363	108	241	349
+"MS"	2012	"Prentiss"		"Baldwyn"		1	554	450	1004					611	476	1102	518	504	1022
+"MS"	2012	"Prentiss"		"Blackland"		1	87	252	339					76	262	342	71	267	338
+"MS"	2012	"Prentiss"		"Booneville"		1	218	737	955					164	812	983	167	803	970
+"MS"	2012	"Prentiss"		"Cross Roads"		1	211	306	517					137	393	540	146	381	527
+"MS"	2012	"Prentiss"		"East Booneville"		1	250	426	676					204	511	721	193	508	701
+"MS"	2012	"Prentiss"		"Ingram"		1	47	169	216					30	193	225	30	191	221
+"MS"	2012	"Prentiss"		"Marietta"		1	185	349	534					102	442	555	127	410	537
+"MS"	2012	"Prentiss"		"North Boonville"		1	423	225	648					495	195	695	416	255	671
+"MS"	2012	"Prentiss"		"New Site"		1	135	338	473					91	405	503	92	386	478
+"MS"	2012	"Prentiss"		"Cairo"		1	81	209	290					56	245	310	69	232	301
+"MS"	2012	"Prentiss"		"Thrasher"		1	197	244	441					166	289	465	168	282	450
+"MS"	2012	"Prentiss"		"Tuscumbia-New Candler"		1	144	359	503					125	395	533	119	390	509
+"MS"	2012	"Prentiss"		"West Booneville"		1	395	1121	1516					291	1275	1588	278	1259	1537
+"MS"	2012	"Prentiss"		"Wheeler"		1	215	462	677					168	524	701	152	531	683
+"MS"	2012	"Prentiss"		"Hills Chapel- New Hope"		1	168	568	736					101	658	770	119	625	744
+"MS"	2012	"Quitman"		"Crenshaw"		2	147	12	159					181	2	183	139	13	152
+"MS"	2012	"Quitman"		"Sledge"		2	289	28	317					310	33	344	258	44	302
+"MS"	2012	"Quitman"		"Darling"		2	231	24	255					251	30	283	207	32	239
+"MS"	2012	"Quitman"		"Belen"		2	155	46	201					159	58	220	135	54	189
+"MS"	2012	"Quitman"		"District 3 North"		2	292	199	491					290	220	511	260	216	476
+"MS"	2012	"Quitman"		"North West Marks"		2	352	117	469					379	126	508	320	133	453
+"MS"	2012	"Quitman"		"District 3 South"		2	180	176	356					176	196	378	153	188	341
+"MS"	2012	"Quitman"		"South West Marks"		2	238	47	285					252	46	299	204	54	258
+"MS"	2012	"Quitman"		"West Lambert"		2	346	76	422					369	85	456	293	86	379
+"MS"	2012	"Quitman"		"Lambert"		2	384	68	452					415	75	494	332	83	415
+"MS"	2012	"Quitman"		"Crowder"		2	66	205	271					55	245	303	67	208	275
+"MS"	2012	"Rankin"		"West Pearl"		3		757	954					438	610	1061	404	618	1022
+"MS"	2012	"Rankin"		"Clear Branch"		3		552	616					161	498	664	145	504	649
+"MS"	2012	"Rankin"		"Cleary"		3		1232	1306					153	1185	1353	131	1197	1328
+"MS"	2012	"Rankin"		"East Steen Creek"		3		1619	1800					362	1486	1877	322	1496	1818
+"MS"	2012	"Rankin"		"Mountain Creek"		3		350	385					82	321	406	74	319	393
+"MS"	2012	"Rankin"		"North Richland"		3		881	985					202	816	1032	189	806	995
+"MS"	2012	"Rankin"		"South Richland"		3		1730	1928					432	1581	2030	392	1560	1952
+"MS"	2012	"Rankin"		"Star"		3		611	698					195	542	748	193	536	729
+"MS"	2012	"Rankin"		"West Steen Creek"		3		1399	1555					340	1295	1649	310	1288	1598
+"MS"	2012	"Rankin"		"Grant's Ferry"		3		2132	2354					464	1976	2465	412	1985	2397
+"MS"	2012	"Rankin"		"Fannin"		3		930	1054					279	885	1178	253	886	1139
+"MS"	2012	"Rankin"		"Holbrook"		3		3033	3378					720	2781	3553	650	2803	3453
+"MS"	2012	"Rankin"		"Castlewoods East"		3		1832	2045					408	1732	2158	342	1730	2072
+"MS"	2012	"Rankin"		"Castlewoods West"		3		1332	1476					238	1275	1526	201	1282	1483
+"MS"	2012	"Rankin"		"Reservoir East"		3		1273	1375					188	1200	1417	158	1226	1384
+"MS"	2012	"Rankin"		"Reservoir West"		3		1273	1429					292	1199	1507	255	1195	1450
+"MS"	2012	"Rankin"		"Northshore"		3		1830	1988					320	1714	2054	273	1723	1996
+"MS"	2012	"Rankin"		"Antioch"		3		201	205					11	190	206	9	193	202
+"MS"	2012	"Rankin"		"Mayton"		3		147	172					51	129	183	41	131	172
+"MS"	2012	"Rankin"		"Johns"		3		426	477					144	388	539	132	386	518
+"MS"	2012	"Rankin"		"East Brandon"		3		1511	1638					244	1423	1682	208	1433	1641
+"MS"	2012	"Rankin"		"Cato"		3		668	775					219	600	832	204	610	814
+"MS"	2012	"Rankin"		"Dry Creek"		3		479	581					313	401	720	296	399	695
+"MS"	2012	"Rankin"		"Monterey"		3		947	1128					500	792	1303	453	809	1262
+"MS"	2012	"Rankin"		"Puckett"		3		421	461					99	397	500	87	395	482
+"MS"	2012	"Rankin"		"West Brandon"		3		1087	1400					724	860	1592	664	868	1532
+"MS"	2012	"Rankin"		"South Brandon"		3		627	671					90	587	685	71	590	661
+"MS"	2012	"Rankin"		"Park Place"		3		1156	1297					311	1037	1357	266	1045	1311
+"MS"	2012	"Rankin"		"Pisgah"		3		767	966					530	628	1167	472	637	1109
+"MS"	2012	"Rankin"		"Oakdale"		3		2079	2303					416	1988	2426	380	1971	2351
+"MS"	2012	"Rankin"		"Shiloh"		3		220	248					93	189	285	94	187	281
+"MS"	2012	"Rankin"		"Crossroads"		3		456	486					56	431	493	49	438	487
+"MS"	2012	"Rankin"		"Leesburg"		3		467	485					35	450	488	32	450	482
+"MS"	2012	"Rankin"		"North Brandon"		3		2780	2990					472	2619	3112	424	2612	3036
+"MS"	2012	"Rankin"		"East Crossgates"		3		2142	2322					300	2061	2380	277	2041	2318
+"MS"	2012	"Rankin"		"Pelahattchie"		3		1167	1363					454	1062	1536	419	1068	1487
+"MS"	2012	"Rankin"		"South Crossgates"		3		701	739					97	659	761	79	670	749
+"MS"	2012	"Rankin"		"West Crossgates"		3		1331	1453					231	1252	1507	208	1240	1448
+"MS"	2012	"Rankin"		"Northeast Brandon"		3		1076	1251					402	936	1359	371	945	1316
+"MS"	2012	"Rankin"		"Mullins"		3		356	514					439	229	673	406	245	651
+"MS"	2012	"Rankin"		"Eldorado"		3		957	1128					323	873	1209	288	879	1167
+"MS"	2012	"Rankin"		"Liberty"		3		863	954					173	821	1005	147	828	975
+"MS"	2012	"Rankin"		"Cunningham Heights"		3		692	797					204	606	828	185	613	798
+"MS"	2012	"Rankin"		"Flowood"		3		391	518					227	321	562	218	323	541
+"MS"	2012	"Rankin"		"Crest Park"		3		1105	1242					269	1010	1301	250	1008	1258
+"MS"	2012	"Rankin"		"Pearl"		3		423	512					188	342	541	164	353	517
+"MS"	2012	"Rankin"		"North Mclaurin"		3		644	698					89	607	709	88	603	691
+"MS"	2012	"Rankin"		"South Mclaurin"		3		823	886					131	779	918	125	759	884
+"MS"	2012	"Rankin"		"Springhill"		3		1051	1357					772	832	1618	715	875	1590
+"MS"	2012	"Rankin"		"South Pearson"		3		373	527					445	205	657	394	235	629
+"MS"	2012	"Rankin"		"North Pearson"		3		91	104					32	78	112	29	80	109
+"MS"	2012	"Rankin"		"PattonPlace"		3		610	652					81	571	661	77	572	649
+"MS"	2012	"Rankin"		"Greenfield"		3		1171	1422					549	995	1559	516	996	1512
+"MS"	2012	"Scott"	1	"Beat 1/North Forest"		3		305	565					655	164	823	580	199	779
+"MS"	2012	"Scott"	1	"Beat 1/Harperville"		3		379	559					458	261	721	395	288	683
+"MS"	2012	"Scott"	1	"Beat 1/Hillsboro"		3		307	540					489	211	708	414	240	654
+"MS"	2012	"Scott"	2	"Beat 2/South Forest"		3		426	698					626	245	876	538	271	809
+"MS"	2012	"Scott"	2	"Beat 2/Homewood"		3		214	238					63	189	253	50	197	247
+"MS"	2012	"Scott"	2	"Beat 2/High Hill"		3		206	263					164	148	316	139	157	296
+"MS"	2012	"Scott"	2	"Beat 2/Lake"		3		190	262					138	159	299	130	161	291
+"MS"	2012	"Scott"	2	"Beat 2/Usry"		3		221	243					46	209	256	46	205	251
+"MS"	2012	"Scott"	3	"Beat 3/Northwest Forest"		3		254	282					40	243	285	45	231	276
+"MS"	2012	"Scott"	3	"Beat 3/Eastwest Morton"		3		769	945					380	665	1053	352	674	1026
+"MS"	2012	"Scott"	3	"Beat 3/Pulaski"		3		222	241					37	213	251	38	205	243
+"MS"	2012	"Scott"	3	"Beat 3/Springfield"		3		281	295					11	286	298	21	272	293
+"MS"	2012	"Scott"	3	"Beat 3/Cooperville"		3		228	237					22	223	246	22	220	242
+"MS"	2012	"Scott"	4	"Beat 4/North Morton"		3		421	661					511	257	776	458	288	746
+"MS"	2012	"Scott"	4	"Beat 4/Liberty"		3		483	545					122	450	575	119	436	555
+"MS"	2012	"Scott"	4	"Beat 4/Forkville"		3		232	237					11	225	238	20	216	236
+"MS"	2012	"Scott"	4	"Beat 4/Ludlow"		3		343	434					165	307	474	151	305	456
+"MS"	2012	"Scott"	4	"Beat 4/Clifton"		3		66	77					19	65	86	21	63	84
+"MS"	2012	"Scott"	4	"Beat 4/Contrell"		3		118	173					185	76	262	141	84	225
+"MS"	2012	"Scott"	5	"Beat 5/Northeast Forest"		3		415	452					77	391	472	69	397	466
+"MS"	2012	"Scott"	5	"Beat 5/Salem"		3		279	404					260	204	471	239	216	455
+"MS"	2012	"Scott"	5	"Beat 5/Sebastopol"		3		311	321					12	322	339	16	298	314
+"MS"	2012	"Scott"	5	"Beat 5/Steele"		3		311	436					346	204	553	286	226	512
+"MS"	2012	"Scott"	5	"Beat 5/Langs Mill"		3		431	521					194	372	571	184	362	546
+"MS"	2012	"Sharkey"	1	"Rolling Fork - First Dist."		2	290	235	525					263	282	547	212	290	502
+"MS"	2012	"Sharkey"	1	"Spanish Fort - First Dist."		2	6	29	35					4	33	39	3	34	37
+"MS"	2012	"Sharkey"	2	"Cary - Second Dist."		2	274	79	353					289	90	381	204	109	313
+"MS"	2012	"Sharkey"	2	"Rolling Fork - Second Dist."		2	34	1	35					42	0	42	29	4	33
+"MS"	2012	"Sharkey"	3	"Rolling Fork - Third Dist."		2	445	25	470					458	25	485	355	57	412
+"MS"	2012	"Sharkey"	4	"Anguilla - Fourth Dist."		2	230	149	379					214	179	397	160	183	343
+"MS"	2012	"Sharkey"	4	"Rolling Fork - Fourth Dist."		2	50	1	51					51	0	51	36	5	41
+"MS"	2012	"Sharkey"	4	"Straight Bayou - Fourth Dist."		2	31	42	73					34	49	83	25	49	74
+"MS"	2012	"Sharkey"	5	"Anguilla - Fifth Dist."		2	214	7	221					220	5	225	166	23	189
+"MS"	2012	"Sharkey"	5	"Delta City - Fifth Dist."		2	203	69	272					207	76	284	166	76	242
+"MS"	2012	"Simpson"		"Mendenhall 1"		3		127	209					224	78	304	205	77	282
+"MS"	2012	"Simpson"		"Magee 1"		3		176	418					515	70	587	476	83	559
+"MS"	2012	"Simpson"		"Weathersby"		3		280	591					687	125	814	214	158	372
+"MS"	2012	"Simpson"		"Jupiter"		3		233	410					467	128	599	430	145	575
+"MS"	2012	"Simpson"		"Magee 2"		3		904	997					240	810	1055	217	810	1027
+"MS"	2012	"Simpson"		"Oak Grove"		3		337	442					306	260	570	259	280	539
+"MS"	2012	"Simpson"		"Bowie"		3		210	262					111	182	298	102	187	289
+"MS"	2012	"Simpson"		"New Hope"		3		136	187					128	100	230	117	106	223
+"MS"	2012	"Simpson"		"Saratoga"		3		159	236					167	115	283	158	114	272
+"MS"	2012	"Simpson"		"Mendenhall 3"		3		812	891					155	757	926	143	763	906
+"MS"	2012	"Simpson"		"Sumrall"		3		324	357					99	307	408	94	296	390
+"MS"	2012	"Simpson"		"D'Lo"		3		271	297					39	264	305	53	252	305
+"MS"	2012	"Simpson"		"Dry Creek"		3		580	626					91	551	651	96	534	630
+"MS"	2012	"Simpson"		"Magee 4 North"		3		419	469					84	395	485	78	390	468
+"MS"	2012	"Simpson"		"Magee 4 South"		3		661	768					223	605	839	196	607	803
+"MS"	2012	"Simpson"		"Shivers"		3		216	289					202	165	369	179	174	353
+"MS"	2012	"Simpson"		"Bridgeport"		3		149	248					264	94	360	228	110	338
+"MS"	2012	"Simpson"		"Pinola"		3		217	273					124	187	316	110	196	306
+"MS"	2012	"Simpson"		"Braxton"		3		657	697					62	651	716	59	642	701
+"MS"	2012	"Simpson"		"Harrisville"		3		639	684					115	597	717	99	595	694
+"MS"	2012	"Simpson"		"Merit"		3		523	564					77	511	597	71	502	573
+"MS"	2012	"Simpson"		"Fork Church"		3		165	274					253	99	355	229	113	342
+"MS"	2012	"Simpson"		"Pearl"		3		378	417					90	372	464	76	358	434
+"MS"	2012	"Smith"		"Ag-Complex"		3		463	508					65	447	521	58	449	507
+"MS"	2012	"Smith"		"Center Ridge"		3		388	410					28	393	422	33	370	403
+"MS"	2012	"Smith"		"Mlze"	"*"	3		392	415					41	386	431	51	368	419
+"MS"	2012	"Smith"		"Sylvarena"		3		175	190					12	179	192	21	168	189
+"MS"	2012	"Smith"		"Cedar Grove"		3		106	143					62	99	164	59	99	158
+"MS"	2012	"Smith"		"Summerland"		3		337	551					440	231	672	413	230	643
+"MS"	2012	"Smith"		"Union-New Home"		3		302	372					137	295	435	122	290	412
+"MS"	2012	"Smith"		"Warren Hill"		3		89	298					360	33	395	328	44	372
+"MS"	2012	"Smith"		"Taylorsville"		3		814	875					108	776	893	115	748	863
+"MS"	2012	"Smith"		"Zion Hill - New Haven"		3		573	678					176	524	712	165	513	678
+"MS"	2012	"Smith"		"Polkville - 77"		3		317	338					33	312	350	31	310	341
+"MS"	2012	"Smith"		"Polkville - 79"		3		103	112					16	100	118	11	102	113
+"MS"	2012	"Smith"		"Shady Grove"		3		488	507					29	482	513	35	473	508
+"MS"	2012	"Smith"		"West Raleigh"		3		321	342					34	314	352	32	297	329
+"MS"	2012	"Smith"		"White Oak"		3		345	353					22	333	358	29	321	350
+"MS"	2012	"Smith"		"Burns"		3		248	285					80	211	291	72	213	285
+"MS"	2012	"Smith"		"Clear Springs - Pineville"		3		248	262					21	253	277	14	251	265
+"MS"	2012	"Smith"		"Lorena - Spindle"		3		278	301					55	269	324	51	264	315
+"MS"	2012	"Smith"		"North Raleigh"		3		497	641					270	412	689	241	422	663
+"MS"	2012	"Stone"		"Bond"		4	6	84	90					11	101	113	7	101	108
+"MS"	2012	"Stone"		"Old Hospital"		4	79	396	475					82	444	535	82	433	515
+"MS"	2012	"Stone"		"Courthouse"		4	77	321	398					94	349	447	86	352	438
+"MS"	2012	"Stone"		"American Legion"		4	434	225	659					528	211	744	442	252	694
+"MS"	2012	"Stone"		"Project Road"		4	492	205	697					586	192	789	509	222	731
+"MS"	2012	"Stone"		"Pekinston"		4	98	216	314					115	240	365	103	241	344
+"MS"	2012	"Stone"		"Magnolia"		4	49	318	367					49	376	429	52	347	399
+"MS"	2012	"Stone"		"Mchenry Library"		4	42	274	316					43	323	367	39	314	353
+"MS"	2012	"Stone"		"Elarbee"		4	42	252	294					30	317	352	48	268	316
+"MS"	2012	"Stone"		"Tuxechana"		4	110	685	795					90	802	906	97	777	874
+"MS"	2012	"Stone"		"Ten Mile"		4	34	231	265					41	262	309	36	255	291
+"MS"	2012	"Stone"		"Mchenry Fire Station"		4	74	354	428					87	394	497	83	391	474
+"MS"	2012	"Stone"		"Flint Creek"		4	128	610	738					133	705	848	129	687	816
+"MS"	2012	"Stone"		"Big Level"		4	85	449	534					86	526	621	87	496	583
+"MS"	2012	"Stone"		"Pleasant Hill"		4	26	154	180					28	178	210	26	172	198
+"MS"	2012	"Sunflower"		"Inverness"	"11"	2	396	365	761					360	407	774	295	420	715
+"MS"	2012	"Sunflower"		"Indianola #2 East"	"22"	2	1833	24	1857					1877	9	1900	1593	80	1673
+"MS"	2012	"Sunflower"		"Indianola #3 Northeast"	"33"	2	205	197	402					194	210	413	170	218	388
+"MS"	2012	"Sunflower"		"Moorhead"	"12"	2	925	130	1055					930	156	1088	789	192	981
+"MS"	2012	"Sunflower"		"Sunflower 3"	"34"	2	20	53	73					20	56	76	16	56	72
+"MS"	2012	"Sunflower"		"Indianola #3 South"	"31"	2	579	486	1065					559	528	1101	489	548	1037
+"MS"	2012	"Sunflower"		"Fairview-Hale"	"41"	2	23	69	92					22	73	96	18	73	91
+"MS"	2012	"Sunflower"		"Indianola #3 North"	"32"	2	235	157	392					231	181	413	187	189	376
+"MS"	2012	"Sunflower"		"Ruleville"	"44"	2	1009	124	1133					1033	143	1183	829	183	1012
+"MS"	2012	"Sunflower"		"Doddsville"	"43"	2	24	131	155					129	26	157	99	35	134
+"MS"	2012	"Sunflower"		"Boyer-Linn"	"42"	2	204	141	345					189	165	361	156	172	328
+"MS"	2012	"Sunflower"		"Sunflower Plantaion"	"52"	2	27	100	127					18	116	134	17	114	131
+"MS"	2012	"Sunflower"		"Rome"	"53"	2	108	63	171					106	65	174	92	72	164
+"MS"	2012	"Sunflower"		"Drew"	"54"	2	881	285	1166					862	333	1208	717	362	1079
+"MS"	2012	"Sunflower"		"Ruleville North"	"51"	2	144	149	293					126	184	318	117	183	300
+"MS"	2012	"Sunflower"		"Sunflower 4"	"45"	2	491	67	558					484	82	572	420	94	514
+"MS"	2012	"Sunflower"		"Indianola #2 West"	"21"	2	479	162	641					465	192	662	409	214	623
+"MS"	2012	"Sunflower"		"Indianola #1 Southeast"	"13"	2	587	3	590					594	3	598	532	23	555
+"MS"	2012	"Tallahatchie"		"Teasdale"		2	100	190	290					73	238	313	68	233	301
+"MS"	2012	"Tallahatchie"		"Enid"		2	129	141	270					113	169	284	93	172	265
+"MS"	2012	"Tallahatchie"		"Springhill"		2	55	116	171					26	152	181	30	141	171
+"MS"	2012	"Tallahatchie"	1	"Charelston Beat 1"		2	387	164	551					375	202	582	287	243	530
+"MS"	2012	"Tallahatchie"	2	"Charelston Beat 2"		2	717	242	959					723	287	1014	558	323	881
+"MS"	2012	"Tallahatchie"		"Brazil"		2	39	10	49					34	19	53	32	17	49
+"MS"	2012	"Tallahatchie"	2	"Sumner Beat 2"		2	122	127	249					108	148	259	91	147	238
+"MS"	2012	"Tallahatchie"	3	"Charelston Beat 3"		2	298	135	433					289	171	464	232	185	417
+"MS"	2012	"Tallahatchie"		"Payness"		2	53	110	163					19	153	173	22	147	169
+"MS"	2012	"Tallahatchie"		"Leverette"		2	51	44	95					51	50	101	43	48	91
+"MS"	2012	"Tallahatchie"		"Cascilla"		2	135	181	316					108	237	351	97	229	326
+"MS"	2012	"Tallahatchie"		"Murphreesbore"		2	43	130	173					28	151	183	31	142	173
+"MS"	2012	"Tallahatchie"		"Rosebloom"		2	28	82	110					8	106	117	10	104	114
+"MS"	2012	"Tallahatchie"		"Tippo"		2	94	71	165					83	89	172	53	95	148
+"MS"	2012	"Tallahatchie"		"Phillip"		2	99	51	150					104	61	166	87	56	143
+"MS"	2012	"Tallahatchie"		"Glendora"		2	349	13	362					357	11	369	301	23	324
+"MS"	2012	"Tallahatchie"	4	"Webb Beat 4"		2	127	27	154					124	33	158	105	37	142
+"MS"	2012	"Tallahatchie"		"Blue Cane"		2	275	45	320					277	59	339	200	81	281
+"MS"	2012	"Tallahatchie"	5	"Webb Beat 5"		2	382	41	423					399	43	443	324	61	385
+"MS"	2012	"Tallahatchie"	5	"Sumner Beat 5"		2	120	51	171					125	51	176	95	55	150
+"MS"	2012	"Tallahatchie"		"Tutwiler"		2	527	55	582					535	69	605	443	90	533
+"MS"	2012	"Tate"		"Arkabutla"		1	261	376	637					319	393	716	298	378	676
+"MS"	2012	"Tate"		"Coldwater 3"		1	893	403	1296					1025	407	1437	935	416	1351
+"MS"	2012	"Tate"		"Evansville"		1	46	95	141					51	102	154	53	96	149
+"MS"	2012	"Tate"		"Independence"		1	536	777	1313					564	864	1447	559	800	1359
+"MS"	2012	"Tate"		"Looxanhome"		1	348	398	746					395	509	913	383	406	789
+"MS"	2012	"Tate"		"Palestine"		1	52	245	297					50	264	316	59	245	304
+"MS"	2012	"Tate"		"Poagville 5"		1	95	129	224					108	148	256	103	132	235
+"MS"	2012	"Tate"		"Poagville 4"		1	148	461	609					150	488	651	154	467	621
+"MS"	2012	"Tate"		"Sarah"		1	15	94	109					16	97	114	15	94	109
+"MS"	2012	"Tate"		"Senatobia 1"		1	531	1351	1882					574	1386	1995	542	1370	1912
+"MS"	2012	"Tate"		"Sherrod"		1	31	199	230					24	218	248	32	204	236
+"MS"	2012	"Tate"		"Senatobia 2"		1	382	752	1134					410	769	1199	405	751	1156
+"MS"	2012	"Tate"		"Senatobia 3"		1	374	69	443					440	51	494	394	69	463
+"MS"	2012	"Tate"		"Senatobia 4"		1	172	567	739					181	584	771	183	559	742
+"MS"	2012	"Tate"		"Strayhorn"		1	124	548	672					114	598	719	133	554	687
+"MS"	2012	"Tate"		"Taylor"		1	146	114	260					163	116	280	161	109	270
+"MS"	2012	"Tate"		"Thyatira"		1	76	172	248					76	187	267	81	171	252
+"MS"	2012	"Tate"		"Tyro"		1	162	123	285					177	128	309	157	121	278
+"MS"	2012	"Tate"		"Wyatte"		1	77	112	189					96	123	220	76	127	203
+"MS"	2012	"Tippah"		"Threeforks"		1	40	214	254					38	232	272	42	221	263
+"MS"	2012	"Tippah"		"Brownfield"		1	20	84	104					14	99	113	26	83	109
+"MS"	2012	"Tippah"		"Walnut"		1	117	300	417					103	348	460	131	296	427
+"MS"	2012	"Tippah"		"Chalybeate"		1	86	381	467					82	425	512	97	387	484
+"MS"	2012	"Tippah"		"Tiplersville"	"*"	1	129	106	235					137	125	265	138	111	249
+"MS"	2012	"Tippah"		"North Falkner"		1	57	114	171					55	130	190	61	122	183
+"MS"	2012	"Tippah"		"Falkner"		1	116	447	563					102	488	600	114	463	577
+"MS"	2012	"Tippah"		"North Ripley"		1	378	632	1010					402	666	1087	391	649	1040
+"MS"	2012	"Tippah"		"Blue Mountain"		1	300	399	699					332	412	755	311	416	727
+"MS"	2012	"Tippah"		"Cotton Plant"		1	86	71	157					102	68	173	93	75	168
+"MS"	2012	"Tippah"		"New Hope"		1	36	236	272					28	249	283	42	236	278
+"MS"	2012	"Tippah"		"Clarysville"		1	4	123	127					8	123	133	11	119	130
+"MS"	2012	"Tippah"		"Palmer"		1	93	337	430					78	372	452	81	356	437
+"MS"	2012	"Tippah"		"Shady Grove"		1	26	124	150					10	142	154	19	130	149
+"MS"	2012	"Tippah"		"Mitchell"		1	22	158	180					19	168	187	23	156	179
+"MS"	2012	"Tippah"		"Pine Grove"		1	23	161	184					15	172	192	27	159	186
+"MS"	2012	"Tippah"		"dumas"		1	50	371	421					45	386	443	54	373	427
+"MS"	2012	"Tippah"		"Dry Creek"		1	26	170	196					19	189	212	24	185	209
+"MS"	2012	"Tippah"		"Southwest Ripley"		1	268	607	875					285	637	925	249	636	885
+"MS"	2012	"Tippah"		"Chapman"		1	59	324	383					41	357	405	55	328	383
+"MS"	2012	"Tippah"		"Spout Springs"		1	31	122	153					27	133	161	27	131	158
+"MS"	2012	"Tippah"		"Peoples"		1	50	148	198					53	153	210	50	153	203
+"MS"	2012	"Tippah"		"Providence"		1	41	122	163					34	140	179	42	122	164
+"MS"	2012	"Tippah"		"Ripley"		1	268	492	760					288	503	801	259	511	770
+"MS"	2012	"Tishomingo"		"Burnsville"		1	59	191	250					31	230	268	60	198	258
+"MS"	2012	"Tishomingo"		"Belmont"		1	75	378	453					56	420	482	52	414	466
+"MS"	2012	"Tishomingo"		"Coles Mill"		1	111	273	384					86	330	432	96	306	402
+"MS"	2012	"Tishomingo"		"Cotton Springs"		1	32	134	166					19	154	176	17	151	168
+"MS"	2012	"Tishomingo"		"Dennis"		1	39	162	201					30	178	208	32	170	202
+"MS"	2012	"Tishomingo"		"East Belmont"		1	73	226	299					49	258	308	56	249	305
+"MS"	2012	"Tishomingo"		"East Iuka"		1	267	598	865					218	691	935	236	667	903
+"MS"	2012	"Tishomingo"		"Golden"		1	94	378	472					77	412	495	70	411	481
+"MS"	2012	"Tishomingo"		"Hubbard Salem"		1	22	81	103					21	90	111	26	78	104
+"MS"	2012	"Tishomingo"		"Iuka"		1	191	469	660					161	533	708	162	522	684
+"MS"	2012	"Tishomingo"		"Springhill"		1	106	270	376					82	310	400	94	299	393
+"MS"	2012	"Tishomingo"		"North Burnsville"		1	117	289	406					98	324	431	112	300	412
+"MS"	2012	"Tishomingo"		"North Belmont"		1	43	206	249					29	231	263	27	224	251
+"MS"	2012	"Tishomingo"		"North Iuka"		1	220	570	790					202	630	855	202	622	824
+"MS"	2012	"Tishomingo"		"Paden"		1	37	165	202					37	171	212	35	169	204
+"MS"	2012	"Tishomingo"		"Tishomingo"		1	274	363	637					253	406	677	248	395	643
+"MS"	2012	"Tishomingo"		"West Burnsville"		1	78	315	393					57	357	420	67	335	402
+"MS"	2012	"Tishomingo"		"West Iuka"		1	72	132	204					67	161	231	78	144	222
+"MS"	2012	"Tishomingo"		"West Tishomingo"		1	82	232	314					70	247	324	63	245	308
+"MS"	2012	"Tunica"		"Robinsonville"		2	223	70	293					235	77	313	212	72	284
+"MS"	2012	"Tunica"		"Banks/Harmbrick"		2	503	48	551					563	41	606	481	57	538
+"MS"	2012	"Tunica"		"Watsonville"		2	138	8	146					177	5	183	128	14	142
+"MS"	2012	"Tunica"		"Prichard"		2	280	25	305					300	25	325	257	28	285
+"MS"	2012	"Tunica"		"Tunica"		2	461	93	554					496	103	601	424	107	531
+"MS"	2012	"Tunica"		"Courthouse"		2	288	162	450					285	199	489	253	201	454
+"MS"	2012	"Tunica"		"Evansville-Highway 61"		2	401	41	442					427	43	475	374	60	434
+"MS"	2012	"Tunica"		"Justice Court Building"		2	349	87	436					388	104	493	301	108	409
+"MS"	2012	"Tunica"		"Mhbon Landing"	"*"	2	63	41	104					53	64	118	58	52	110
+"MS"	2012	"Tunica"		"West End Store"		2	77	23	100					75	28	103	66	27	93
+"MS"	2012	"Tunica"		"Supt. Of Education"		2	95	77	172					111	90	203	89	92	181
+"MS"	2012	"Tunica"		"Two-Mile Lake"		2	354	78	432					365	104	473	304	105	409
+"MS"	2012	"Union"		"Macedonia"		1	32	211	243					34	229	266	30	226	256
+"MS"	2012	"Union"		"Blythe"		1	28	161	189					29	170	201	27	168	195
+"MS"	2012	"Union"		"Myrtle"		1	231	674	905					208	729	950	193	730	923
+"MS"	2012	"Union"		"Glenfield"		1	183	434	617					185	451	643	163	472	635
+"MS"	2012	"Union"		"Pinedale"		1	53	275	328					37	298	340	29	299	328
+"MS"	2012	"Union"		"West Union"		1	75	430	505					73	448	525	54	462	516
+"MS"	2012	"Union"		"King's Chapel"		1	73	270	343					57	290	349	58	293	351
+"MS"	2012	"Union"		"Courthouse"		1	211	467	678					231	489	729	182	518	700
+"MS"	2012	"Union"		"Blue Springs"		1	98	329	427					93	356	455	75	361	436
+"MS"	2012	"Union"		"Center"		1	52	278	330					29	305	340	28	307	335
+"MS"	2012	"Union"		"Ingomar"		1	176	502	678					156	549	712	142	552	694
+"MS"	2012	"Union"		"Sportsplex"		1	296	559	855					338	557	900	268	607	875
+"MS"	2012	"Union"		"NE Community College"		1	359	755	1114					377	801	1186	304	840	1144
+"MS"	2012	"Union"		"Hillcrest Church"		1	309	364	673					338	365	709	294	388	682
+"MS"	2012	"Union"		"Central Maintenance"		1	131	594	725					129	619	757	115	625	740
+"MS"	2012	"Union"		"Beacon Hill"		1	147	402	549					111	447	568	117	435	552
+"MS"	2012	"Union"		"Keownville"		1	93	384	477					62	437	502	66	422	488
+"MS"	2012	"Union"		"Pleasant Ridge"		1	41	153	194					36	160	202	33	168	201
+"MS"	2012	"Union"		"Iericho"		1	50	227	277					34	247	288	37	243	280
+"MS"	2012	"Union"		"East Union"		1	215	503	718					187	551	745	179	553	732
+"MS"	2012	"Walthall"		"Midway"		3		153	189					52	159	212	50	144	194
+"MS"	2012	"Walthall"		"Lexie"		3		519	581					134	503	649	105	484	589
+"MS"	2012	"Walthall"		"South Kirklin"		3		123	147					52	125	179	54	110	164
+"MS"	2012	"Walthall"		"North Kirklin"		3		237	343					284	180	467	232	184	416
+"MS"	2012	"Walthall"		"East Tylertown"		3		77	84					7	77	85	6	75	81
+"MS"	2012	"Walthall"		"West Tylertown"		3		191	297					271	145	419	213	143	356
+"MS"	2012	"Walthall"		"Mesa"		3		50	55					9	46	56	10	47	57
+"MS"	2012	"Walthall"		"South Knoxo"		3		76	99					44	72	116	27	71	98
+"MS"	2012	"Walthall"		"North Knoxo"		3		173	391					649	52	706	501	93	594
+"MS"	2012	"Walthall"		"Dexter"		3		412	515					185	401	592	161	374	535
+"MS"	2012	"Walthall"		"Improva"		3		314	370					153	322	475	129	290	419
+"MS"	2012	"Walthall"		"3rd District Tylertown"		3		262	293					70	252	326	58	242	300
+"MS"	2012	"Walthall"		"4th District Tylertown"		3		398	440					66	392	462	57	376	433
+"MS"	2012	"Walthall"		"Varnel"		3		393	467					133	381	519	125	361	486
+"MS"	2012	"Walthall"		"Sartlnsville"	"*"	3		115	143					69	100	172	60	98	158
+"MS"	2012	"Walthall"		"Darbun"		3		144	155					27	139	167	27	134	161
+"MS"	2012	"Walthall"		"4th District West"		3		270	294					53	267	326	47	260	307
+"MS"	2012	"Walthall"		"Dinan"		3		290	546					542	160	718	449	182	631
+"MS"	2012	"Walthall"		"Enon"		3		211	270					119	197	318	102	191	293
+"MS"	2012	"Walthall"		"St Paul"		3		111	233					286	59	346	245	62	307
+"MS"	2012	"Walthall"		"Hope"		3		53	114					217	22	241	164	27	191
+"MS"	2012	"Warren"		"Oak Ridge"		2	29	89	118					29	93	122	28	92	120
+"MS"	2012	"Warren"		"Redwood"		2	20	111	131					18	120	138	15	118	133
+"MS"	2012	"Warren"		"Bovina"		2	242	691	933					248	729	977	218	722	940
+"MS"	2012	"Warren"		"Culkin"		2	1070	2488	3558					1081	2615	3696	984	2568	3552
+"MS"	2012	"Warren"		"Cedar Grove"		2	791	165	956					833	159	992	733	184	917
+"MS"	2012	"Warren"		"Kings"		2	619	292	911					650	303	953	558	322	880
+"MS"	2012	"Warren"		"St Aloysius"		2	295	8	303					315	10	325	256	26	282
+"MS"	2012	"Warren"		"Auditorium"		2	1019	103	1122					1068	90	1158	895	147	1042
+"MS"	2012	"Warren"		"Brunswick"		2	44	197	241					37	222	259	39	211	250
+"MS"	2012	"Warren"				2	44	82	126					48	86	134	42	84	126
+"MS"	2012	"Warren"		"American Legion Post"		2	1058	252	1310					1143	242	1385	974	287	1261
+"MS"	2012	"Warren"		"Vicksburg Junior High School"		2	1171	383	1554					1221	383	1604	1038	427	1465
+"MS"	2012	"Warren"		"No. 7 Fire Station"		2	442	197	639					459	201	660	381	210	591
+"MS"	2012	"Warren"		"Jett"		2	826	457	1283					873	488	1361	777	519	1296
+"MS"	2012	"Warren"		"Goodrum"		2	245	526	771					241	569	810	213	568	781
+"MS"	2012	"Warren"		"Yokena"		2	196	335	531					177	370	547	157	360	517
+"MS"	2012	"Warren"		"Elks Lodge"		2	531	660	1191					550	680	1230	491	684	1175
+"MS"	2012	"Warren"		"Beechwood"		2	278	908	1186					387	965	1352	246	956	1202
+"MS"	2012	"Warren"		"Moose Lodge"		2	261	682	943					262	706	968	244	697	941
+"MS"	2012	"Warren"		"Tingleville"		2	701	452	1153					735	470	1205	644	471	1115
+"MS"	2012	"Warren"		"Plumbers & Pipefitters"		2	306	545	851					299	608	907	282	604	886
+"MS"	2012	"Warren"		"Ymca"		2	211	336	547					212	348	560	194	353	547
+"MS"	2012	"Washington"		"St. James Episcopal Church"		2	1322	646	1968					1311	722	2047	1114	770	1884
+"MS"	2012	"Washington"		"Covenant Presbyterian"		2	285	808	1093					262	868	1135	229	877	1106
+"MS"	2012	"Washington"		"Swiftwater Baptist Church"		2	161	409	570					102	513	618	108	477	585
+"MS"	2012	"Washington"		"Glen Allan Library"		2	198	205	403					203	220	426	149	232	381
+"MS"	2012	"Washington"		"Ward's Recreation Center"		2	1039	789	1828					999	908	1913	859	941	1800
+"MS"	2012	"Washington"		"Buster Brown Community Center"		2	1085	333	1418					1103	369	1481	933	414	1347
+"MS"	2012	"Washington"		"Arcola Technology Center"		2	301	121	422					306	143	451	249	146	395
+"MS"	2012	"Washington"		"Tampa Drive"		2	311	85	396					325	102	427	279	101	380
+"MS"	2012	"Washington"		"Greenville Daycare Center"		2	647	9	656					679	2	684	544	35	579
+"MS"	2012	"Washington"		"Extension Building"		2	636	18	654					669	8	678	513	50	563
+"MS"	2012	"Washington"		"Lake Vista Masonic Lodge"		2	894	220	1114					907	245	1162	771	268	1039
+"MS"	2012	"Washington"		"Metcalfe Municipal Building"		2	554	25	579					532	30	562	403	43	446
+"MS"	2012	"Washington"		"Elks Lodge"		2	1653	57	1710					1706	74	1788	1410	141	1551
+"MS"	2012	"Washington"		"Leland Health Department"		2	945	457	1402					980	498	1483	831	526	1357
+"MS"	2012	"Washington"		"Leland Rotary Club"		2	677	377	1054					666	419	1092	560	437	997
+"MS"	2012	"Washington"		"Hollandale City Hall"		2	1035	237	1272					1056	255	1313	892	309	1201
+"MS"	2012	"Washington"		"Darlove"		2	38	49	87					36	39	75	27	41	68
+"MS"	2012	"Washington"		"Washington County Convention Center"		2	846	165	1011					841	227	1071	681	251	932
+"MS"	2012	"Washington"		"Greenville Industrial College"		2	1236	22	1258					1298	9	1309	1026	58	1084
+"MS"	2012	"Wayne"		"Waynesboro City 1"		4	522	32	554					575	11	587	529	22	551
+"MS"	2012	"Wayne"		"Waynesboro City 2"		4	396	410	806					447	400	851	411	392	803
+"MS"	2012	"Wayne"		"Waynesboro City 3"		4	251	642	893					276	650	934	264	634	898
+"MS"	2012	"Wayne"		"Waynesboro City 4"		4	245	111	356					285	106	393	252	108	360
+"MS"	2012	"Wayne"		"Waynesboro City 5"		4	214	127	341					247	127	375	229	123	352
+"MS"	2012	"Wayne"		"State Line"		4	258	338	596					284	350	637	279	318	597
+"MS"	2012	"Wayne"		"Eucinta"		4	54	129	183					58	140	201	60	133	193
+"MS"	2012	"Wayne"		"Buckatunna"		4	274	253	527					331	248	584	281	246	527
+"MS"	2012	"Wayne"		"Winchester"		4	323	216	539					364	205	572	336	246	582
+"MS"	2012	"Wayne"		"Diamond"		4	160	16	176					183	8	191	168	12	180
+"MS"	2012	"Wayne"		"Beat Four"		4	77	495	572					72	541	620	84	497	581
+"MS"	2012	"Wayne"		"Corinth"		4	20	229	249					10	247	265	20	239	259
+"MS"	2012	"Wayne"		"Denham"		4	78	293	371					82	313	399	93	277	370
+"MS"	2012	"Wayne"		"Hiwannee"		4	189	88	277					216	88	304	200	94	294
+"MS"	2012	"Wayne"		"Strenghford"		4	10	135	145					6	149	159	13	135	148
+"MS"	2012	"Wayne"		"Chicora"		4	67	215	282					69	234	309	84	209	293
+"MS"	2012	"Wayne"		"Big Rock"		4	63	86	149					71	87	159	68	85	153
+"MS"	2012	"Wayne"		"Matherville"		4	19	50	69					23	56	79	22	52	74
+"MS"	2012	"Wayne"		"Mozingo"		4	64	247	311					72	258	332	74	239	313
+"MS"	2012	"Wayne"		"Coyt"		4	4	58	62					2	66	68	5	56	61
+"MS"	2012	"Wayne"		"Pleasant Grove"		4	124	320	444					142	321	466	136	311	447
+"MS"	2012	"Wayne"		"Clara"		4	64	1053	1117					52	1134	1192	90	1044	1134
+"MS"	2012	"Wayne"		"Chapparal"		4	78	64	142					90	62	152	79	68	147
+"MS"	2012	"Wayne"		"Yellow Creek"		4	166	307	473					191	310	503	184	302	486
+"MS"	2012	"Webster"		"Eupora No. 1"		1	361	410	771					444	405	857	378	443	821
+"MS"	2012	"Webster"		"Bluff Springs"		1	69	73	142					69	78	149	60	48	108
+"MS"	2012	"Webster"		"Eupora No. 2"		1	58	224	282					66	231	302	63	229	292
+"MS"	2012	"Webster"		"Walthall"		1	30	281	311					28	292	324	33	284	317
+"MS"	2012	"Webster"		"Bellafonaine"		1	39	172	211					35	184	221	38	177	215
+"MS"	2012	"Webster"		"Caderetta"		1	12	91	103					12	99	113	12	100	112
+"MS"	2012	"Webster"		"Eupora No. 3"		1	88	181	269					93	192	288	89	188	277
+"MS"	2012	"Webster"		"Grady"		1	55	170	225					50	185	235	52	176	228
+"MS"	2012	"Webster"		"Tomnolen"		1	45	279	324					40	294	340	40	291	331
+"MS"	2012	"Webster"		"Fay"		1	13	97	110					13	99	115	13	98	111
+"MS"	2012	"Webster"		"Mathiston"		1	72	379	451					70	407	479	74	390	464
+"MS"	2012	"Webster"		"Maben"		1	132	278	410					133	301	436	124	296	420
+"MS"	2012	"Webster"		"Big Black"		1	29	209	238					20	229	249	29	214	243
+"MS"	2012	"Webster"		"Fame"		1	35	202	237					26	219	248	31	211	242
+"MS"	2012	"Webster"		"Clarkson"		1	14	255	269					13	266	281	16	258	274
+"MS"	2012	"Webster"		"Cumberland"		1	47	203	250					50	211	266	49	206	255
+"MS"	2012	"Webster"		"Mantee"		1	36	284	320					28	300	331	32	292	324
+"MS"	2012	"Wilkinson"		"Woodville"	"1010"	3		233	359					305	170	478	249	165	414
+"MS"	2012	"Wilkinson"		"Centreville 1st"	"1020"	3		176	428					506	60	573	434	81	515
+"MS"	2012	"Wilkinson"		"Woodvilee 2nd"	"2010"	3		213	481					585	90	677	516	93	609
+"MS"	2012	"Wilkinson"		"Fort Adams"	"2020"	3		125	203					231	78	310	157	72	229
+"MS"	2012	"Wilkinson"		"Centreville 3rd"	"3010"	3		495	706					501	380	883	431	354	785
+"MS"	2012	"Wilkinson"		"Woodville 4th"	"4010"	3		231	529					802	67	870	680	89	769
+"MS"	2012	"Wilkinson"		"Cold Springs"	"4020"	3		95	137					109	82	192	96	73	169
+"MS"	2012	"Wilkinson"		"Woodville 5th"	"5010"	3		265	331					167	237	409	140	216	356
+"MS"	2012	"Wilkinson"		"Longmire"	"5020"	3		261	386					206	250	460	205	220	425
+"MS"	2012	"Winston"		"Fairground"		1	543	1196	1739					575	1212	1799	550	1216	1766
+"MS"	2012	"Winston"		"Nanih Walya"		1	232	766	998					248	792	1050	239	788	1027
+"MS"	2012	"Winston"		"Lovorn Tractor"		1	230	258	488					243	255	499	234	260	494
+"MS"	2012	"Winston"		"American Legion"		1	675	117	792					761	90	855	701	128	829
+"MS"	2012	"Winston"		"Zion Ridge"		1	388	53	441					439	47	489	403	64	467
+"MS"	2012	"Winston"		"Shiloh"		1	132	311	443					134	334	473	123	334	457
+"MS"	2012	"Winston"		"County Agent"		1	787	173	960					865	153	1023	808	182	990
+"MS"	2012	"Winston"		"Mars Hill"		1	270	296	566					284	323	609	268	321	589
+"MS"	2012	"Winston"		"Noxapater"		1	275	500	775					279	538	821	282	522	804
+"MS"	2012	"Winston"		"New National Guard"		1	132	298	430					151	298	449	141	303	444
+"MS"	2012	"Winston"		"East Winston"		1	197	401	598					182	436	619	184	425	609
+"MS"	2012	"Winston"		"Mill Creek"		1	401	696	1097					446	690	1143	418	701	1119
+"MS"	2012	"Yalobusha"	1	"Beat One North"		2	328	546	874					301	599	911	289	605	894
+"MS"	2012	"Yalobusha"	1	"Beat One South"		2	184	187	371					164	233	399	150	231	381
+"MS"	2012	"Yalobusha"	2	"Beat Two Water Valley"		2	784	360	1144					830	376	1210	719	442	1161
+"MS"	2012	"Yalobusha"	3	"Three North West"		2	267	507	774					259	546	809	229	554	783
+"MS"	2012	"Yalobusha"	3	"Three Sylva Rena"		2	158	290	448					125	342	471	133	320	453
+"MS"	2012	"Yalobusha"	4	"Four Coffeeville"		2	418	79	497					433	81	517	390	108	498
+"MS"	2012	"Yalobusha"	4	"Four Oakland"		2	521	316	837					511	347	869	457	379	836
+"MS"	2012	"Yalobusha"	5	"Five Coffeeville"		2	271	325	596					226	384	616	220	383	603
+"MS"	2012	"Yalobusha"	5	"Five Scoobey"		2	89	106	195					77	127	206	68	129	197
+"MS"	2012	"Yalobusha"	5	"Five Souna - Vann's Mill"		2	61	80	141					51	92	144	41	101	142
+"MS"	2012	"Yalobusha"	5	"Five Tillatoba"		2	79	108	187					53	149	202	55	140	195
+"MS"	2012	"Yazoo"		"Mechanicsburg"		2	70	386	456					55	436	497	50	425	475
+"MS"	2012	"Yazoo"		"East Bentonia"		2	135	177	312					127	205	335	102	213	315
+"MS"	2012	"Yazoo"		"West Bentonia"		2	331	200	531					339	216	557	285	219	504
+"MS"	2012	"Yazoo"		"Center Ridge"		2	82	323	405					55	374	431	53	362	415
+"MS"	2012	"Yazoo"		"Dover"		2	77	239	316					63	270	337	54	262	316
+"MS"	2012	"Yazoo"		"Robinette"		2	76	259	335					43	304	351	35	297	332
+"MS"	2012	"Yazoo"		"Sacartia"	"*"	2	23	35	58					17	46	64	12	46	58
+"MS"	2012	"Yazoo"		"Valley"		2	30	103	133					13	125	140	12	119	131
+"MS"	2012	"Yazoo"		"Benton"		2	237	377	614					210	437	652	182	428	610
+"MS"	2012	"Yazoo"		"Ward 2"		2	249	313	562					258	335	598	212	342	554
+"MS"	2012	"Yazoo"		"Deasonville"		2	260	185	445					265	209	476	220	213	433
+"MS"	2012	"Yazoo"		"Hartown"		2	198	48	246					211	46	260	122	56	178
+"MS"	2012	"Yazoo"		"Zion"		2	76	172	248					63	204	267	61	192	253
+"MS"	2012	"Yazoo"		"Fugates"		2	228	178	406					222	204	428	187	203	390
+"MS"	2012	"Yazoo"		"3-1 West"		2	442	1	443					455	1	456	386	15	401
+"MS"	2012	"Yazoo"		"3-2 East"		2	570	87	657					584	101	693	442	120	562
+"MS"	2012	"Yazoo"		"Jonestown"		2	390	8	398					436	2	438	329	17	346
+"MS"	2012	"Yazoo"		"304 South"		2	231	174	405					227	201	434	192	196	388
+"MS"	2012	"Yazoo"		"Eden"		2	96	146	242					74	188	266	61	178	239
+"MS"	2012	"Yazoo"		"East Midway"		2	224	66	290					225	79	308	183	84	267
+"MS"	2012	"Yazoo"		"West Midway"		2	56	112	168					40	153	194	33	149	182
+"MS"	2012	"Yazoo"		"Ward 4"		2	895	349	1244					914	406	1324	724	442	1166
+"MS"	2012	"Yazoo"		"Free Run"		2	39	115	154					35	136	173	32	133	165
+"MS"	2012	"Yazoo"		"Lake City"		2	53	116	169					46	130	176	35	129	164
+"MS"	2012	"Yazoo"		"Holly Bluff"		2	93	84	177					86	110	197	66	107	173
+"MS"	2012	"Yazoo"		"Ward 5"		2	1451	37	1488					1540	23	1568	1247	90	1337
