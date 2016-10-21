@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+html, body {
+    background: white;
+    height: 100%;
+}
+
+.states {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+}
+
+.overlay {
+    fill: none;
+    pointer-events: all;
+}
+
+svg {
+    position: relative;
+    left: 50%;
+    margin-left: -480px;
+    margin-top: 20px;
+    top: 0px;
+}
+.card, svg {
+    left: 50%;
+    margin-left: -480px;
+    margin-top: 20px;
+    position: relative;
+}
+.card {
+    top: 20px;
+    left: calc(50% - 480px);
+}
+.card .candidate.two .candidate-text .candidate-val.winprob {
+    color: #F8CA40;
+}
+.card .candidate-text .label.label-head .name {
+    margin-left: 0px;
+}
+</style>
+<link rel="stylesheet" href="//projects.fivethirtyeight.com/2016-election-forecast/css/app.css?v=03d54200f951936303ebdee95be7c606">
+<body>
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script src="//d3js.org/d3-scale-chromatic.v1.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<div data-card="winprob-sentence" data-card-id="US-winprob-sentence" class="card card-winprob card-winprob-us winprob-bar">
+    <div class="powerbarheads">
+        <div class="candidates heads">
+            <div class="candidate one dem">
+                <div class="candidate-head">
+                </div>
+                <div class="candidate-text">
+                    <p class="label label-head"><span class="name"></span>: <span class="votes"></span></p>
+                    <p data-key="winprob" data-party="D" class="candidate-val winprob"><span class='value'>0.0</span><span class="candidate-percent-sign">%</span></p>
+                </div>
+            </div>
+            <div class="candidate two">
+                <div class="candidate-text">
+                    <p data-key="winprob" data-party="O" class="candidate-val winprob"><span class='value'>0.0</span><span class="candidate-percent-sign">%</span></p>
+                </div>
+            </div>
+            <div class="candidate three rep">
+                <div class="candidate-text">
+                    <p class="label label-head"><span class="name"></span>: <span class="votes"></span></p>
+                    <p data-key="winprob" data-party="R" class="candidate-val winprob"><span class='value'>0.0</span><span class="candidate-percent-sign">%</span></p>
+                </div>
+                <div class="candidate-head">
+                </div>
+            </div>
+        </div>
+        <div style="background: #e9e9e9" class="powerbar heads"></div>
+        </div>
+    </div>
+<script>
+
+var width = 960,
+    height = 600;
+
+var candidateInterpolates = {
+    'R-D,RedBlue': d3.interpolateRdBu
+};
+
+function zoomed() {
+    features.attr("transform", "translate(" + d3.event.transform.x +
+    "," + d3.event.transform.y + ") scale(" + d3.event.transform.k + ")");
+}
+
+var zoom = d3.zoom()
+    .scaleExtent([1, 2])
+    .on("zoom", zoomed);
+
+var projection = d3.geoAlbersUsa()
+    .scale(1280)
+    .translate([width / 2, height / 2]);
+var path = d3.geoPath().projection(projection);
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var features = svg.append("g");
+
+features.append("rect")
+    .attr("class", "overlay")
+    .attr("width", width)
+    .attr("height", height)
+    .call(zoom);
+
+let params = window.location.search.replace('?', '').split('&');
+let year = '2016';
+params.forEach(p => {
+    let items = p.split('=');
+    if (items[0] === 'year') {
+        year = items[1];
+    }
+});
+d3.queue()
+    .defer(d3.json, "/dist/topo/us.json")
+    .defer(d3.json, "/dist/elections/president/counties/" + year + ".json")
+    .defer(d3.tsv, "/dist/topo/us-state-names.tsv")
+    .await(ready);
+
+function ready(error, us, usp, namesTsv) {
+  if (error) throw error;
+
+  var rateById = {};
+  var votesById = {};
+  var votesPerSqMiById = {};
+  var names = {};
+  var max = undefined;
+  var min = undefined;
+  var maxPerSqMi = undefined;
+  var chromaticScale = d3.scaleLinear().domain([0, 0.5, 1]).range(["red", "purple", "blue"]);
+  var altChromaticScale = d3.scaleLinear().domain([0, 1]).range(["#e9e9e9", "orange"]);
+  var fixedScaleById = {};
+  namesTsv.forEach(d => {
+     names[d.id] = d.code;
+  });
+  var densities = [];
+  Object.keys(usp.states).forEach(function(k) {
+      usp.states[k].counties.forEach(c => {
+          if (c.fips) {
+              let diff = +c.diff.percent / 2.0;
+              let fips = parseInt(c.fips);
+              if (c.winner === 'D') {
+                  rateById[fips] = diff + .5;
+                  fixedScaleById[fips] = 1;
+              } else if (c.winner === 'R') {
+                  rateById[fips] = 0.5 - diff;
+                  fixedScaleById[fips] = 0;
+              } else {
+                  rateById[fips] = 0 - diff;
+                  fixedScaleById[fips] = 0 - diff;
+              }
+              votesById[fips] = c.diff.votes;
+              if (c.county.aland_sqmi && c.county.population) {
+                  let sqMiles = c.county.aland_sqmi;
+                  let population = c.county.population.totalEst;
+                  votesPerSqMiById[fips] = (population / sqMiles);
+                  if (!maxPerSqMi || votesPerSqMiById[fips] > maxPerSqMi) {
+                      maxPerSqMi = votesPerSqMiById[fips];
+                  }
+                  densities.push(votesPerSqMiById[fips]);
+              }
+
+              if (!min || c.total < min) {
+                  min = c.total;
+              }
+              if (!max || c.total > max) {
+                  max = c.total;
+              }
+          }
+      });
+  });
+  densities.sort((a, b) => a - b);
+
+  var densityQuantile = d3.scaleLog()
+    .domain([d3.quantile(densities, 0.01), d3.quantile(densities, 0.99)])
+    .range([0.05, 1.0]);
+
+  var countyData = topojson.feature(us, us.objects.counties).features;
+  var stateFeatures = topojson.feature(us, us.objects.states).features;
+  features.append("g")
+      .attr("class", "counties")
+    .selectAll("path")
+      .data(countyData)
+    .enter().append("path")
+      .attr("d", path)
+      .style("fill", function(d) {
+          if (typeof rateById[d.id] === 'undefined') {
+              return '#e9e9e9';
+          } else if (rateById[d.id] < 0) {
+              return altChromaticScale(-1 * rateById[d.id]);
+          }
+          return chromaticScale(rateById[d.id]);
+      })
+      .style("fill-opacity", function (d) {
+         if (!votesPerSqMiById[d.id]) {
+             return 0.5;
+         }
+         return densityQuantile(votesPerSqMiById[d.id]);
+     })
+      .style("stroke", function (d) {
+          if (!rateById[d.id]) {
+              return chromaticScale(0.5);
+          }
+          return chromaticScale(fixedScaleById[d.id]);
+      })
+      .style("stroke-width", ".5px")
+      .style("stroke-opacity", 0.1);
+
+  let stateData = topojson.mesh(us, us.objects.states, function(a, b) { return a.id !== b.id; });
+
+  features.append("path")
+      .datum(stateData)
+      .attr("class", "states")
+      .attr("d", path)
+      .style("stroke", "#fff")
+      .style("stroke-width", 1.5);
+
+  features.append("g")
+      .attr("class", "state-names")
+      .selectAll("text")
+      .data(stateFeatures)
+      .enter()
+      .append("svg:text")
+      .text((d) => {
+          if (names[d.id] === 'PR' || names[d.id] === 'VI') {
+              return '';
+          }
+          return names[d.id];
+      })
+      .attr("x", (d) => {
+          let x = path.centroid(d)[0];
+          switch (names[d.id]) {
+              case "CA":
+                return x - 5;
+              case "LA":
+                return x - 10;
+              case "FL":
+                return x + 15;
+              case "MI":
+                return x + 15;
+              default:
+                return x;
+          }
+      })
+      .attr("y", (d) => {
+          let y = path.centroid(d)[1];
+          switch (names[d.id]) {
+              case "LA":
+                return y - 4;
+              case "NH":
+                return y + 5;
+              case "FL":
+                return y + 8;
+              case "MI":
+                return y + 30;
+              default:
+                return y;
+          }
+      })
+      .attr("font-size", "0.7em")
+      .attr("font-weight", "bold")
+      .attr("text-anchor", "middle")
+      .attr("fill", "black");
+
+  console.log()
+  let percentDem = parseInt(usp.percent.D * 1000) / 10;
+  let percentRep = parseInt(usp.percent.R * 1000) / 10;
+  var percentOth = parseInt(usp.percent.O * 1000) / 10;
+  let probBarAttr = `background: linear-gradient(to right,  #179ee0 0%,#179ee0 ${percentDem}%,#F8CA40 ${percentDem}%,#F8CA40 ${percentDem + percentOth + .01}%,#FF5D40 ${percentDem + percentOth + .01}%,#FF5D40 100%);`;
+  d3.select('.powerbar.heads').attr('style', probBarAttr);
+  d3.select('.candidate.dem .winprob .value').text(percentDem);
+  d3.select('.candidate.rep .winprob .value').text(percentRep);
+  d3.select('.candidate.two .winprob .value').text(percentOth);
+  d3.select('.candidate.dem .label.label-head .name').text(usp.candidates['D']);
+  d3.select('.candidate.rep .label.label-head .name').text(usp.candidates['R']);
+  d3.select('.candidate.dem .label.label-head .votes').text(d3.format(',')(usp.popular.D));
+  d3.select('.candidate.rep .label.label-head .votes').text(d3.format(',')(usp.popular.R));
+  d3.select('.candidate.two .label.label-head .votes').text(d3.format(',')(usp.popular.O));
+}
+
+</script>
