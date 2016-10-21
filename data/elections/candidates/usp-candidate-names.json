@@ -1,4 +1,23 @@
 {
+    "2016": {
+        "president": {
+            "meta": {
+                "chromatics": "R-D,RedBlue"
+            },
+            "clinton": {
+                "name": "Hillary Clinton",
+                "party": "D",
+                "partyLabel": "Democrat",
+                "alternatives": ["democratic party", "dem", "hillary clinton", "hillary", "clinton", "clinton, hillary"]
+            },
+            "trump": {
+                "name": "Donald Trump",
+                "party": "R",
+                "partyLabel": "Republican",
+                "alternatives": ["republican party", "rep", "donald trump", "donald", "trump", "trump, donald"]
+            }
+        }
+    },
     "2012": {
         "president": {
             "meta": {
