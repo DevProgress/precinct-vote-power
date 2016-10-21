@@ -42,6 +42,20 @@ module.exports = {
             }
         },
         elections: {
+            urls: {
+                fl: 'https://countyballotfiles.elections.myflorida.com/FVRSCountyBallotReports/AbsenteeEarlyVotingReports/PublicStats',
+                nc: 'http://dl.ncsbe.gov/index.html?prefix=ENRS/',
+                ga: 'http://elections.sos.ga.gov/Elections/voterabsenteefile.do',
+                me: 'http://www.maine.gov/sos/cec/elec/data/absentee-voter-file102016.txt'
+            },
+            votes: {
+                fl: path.join(data, 'elections', 'votes', 'fl', '*.txt'),
+                nc: path.join(data, 'elections', 'votes', 'nc', '*.csv'),
+                ga: path.join(data, 'elections', 'votes', 'ga', '*.csv'),
+                me: path.join(data, 'elections', 'votes', 'me', '*.csv'),
+                all: path.join(data, 'elections', 'votes', '*.json'),
+                dist: path.join(data, 'elections', 'votes')
+            },
             candidates: {
                 usp: path.join(data, 'elections', 'candidates', 'usp-candidate-names.json'),
             },
@@ -54,6 +68,8 @@ module.exports = {
                     huffpost_2012_AK: path.join(data, 'elections', 'precincts', 'huffingtonpost-USP-2012', 'ak_precincts.csv'),
                     huffpost_2012_AK_Output: path.join(data, 'elections', 'counties',
                     'huffingtonpost-USP-2012'),
+                    dataverse_2012: path.join(data, 'elections', 'precincts', 'dataverse_files', '*.tab'),
+                    dist: path.join(dist, 'elections', 'president', 'precincts')
                 }
             }
         }

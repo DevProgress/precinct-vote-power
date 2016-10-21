@@ -66,6 +66,8 @@
     "gulp-csv2json": "^0.2.5",
     "gulp-jsoncombine": "^1.0.3",
     "gulp-merge-json": "^0.6.0",
-    "gulp-rename": "^1.2.2"
+    "gulp-rename": "^1.2.2",
+    "gulp-transform": "^1.0.8",
+    "node-dbf": "^0.2.1"
   }
 }
